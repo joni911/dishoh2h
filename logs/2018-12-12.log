@@ -1,0 +1,2047 @@
+04:02:18 Loading Configuration...
+04:02:18 Loading Configuration Selesai !
+04:02:29 Inisiasi aplikasi...
+04:02:29 Testing koneksi ke server...
+04:02:50 ERROR dwonloading from kps01/txt/input
+Connection timed out: connect
+
+04:02:50 Testing koneksi ke server Selesai 
+04:02:50 Delay 1.0 detik..
+04:02:51 Eksekusi Download & Upload FTP..
+04:02:51 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:51 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:51 Delay 1.0 detik..
+04:02:52 Eksekusi Download & Upload FTP..
+04:02:52 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:52 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:52 Delay 1.0 detik..
+04:02:53 Eksekusi Download & Upload FTP..
+04:02:53 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:53 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:53 Delay 1.0 detik..
+04:02:54 Eksekusi Download & Upload FTP..
+04:02:54 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:54 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:54 Delay 1.0 detik..
+04:02:55 Eksekusi Download & Upload FTP..
+04:02:55 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:55 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:55 Delay 1.0 detik..
+04:02:56 Eksekusi Download & Upload FTP..
+04:02:56 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:56 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:56 Delay 1.0 detik..
+04:02:57 Eksekusi Download & Upload FTP..
+04:02:57 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:57 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:57 Delay 1.0 detik..
+04:02:58 Eksekusi Download & Upload FTP..
+04:02:58 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:58 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:58 Delay 1.0 detik..
+04:02:59 Eksekusi Download & Upload FTP..
+04:02:59 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:02:59 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:02:59 Delay 1.0 detik..
+04:03:00 Eksekusi Download & Upload FTP..
+04:03:00 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+04:03:00 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+04:03:00 Delay 1.0 detik..
+04:03:01 Eksekusi Download & Upload FTP..
+04:03:01 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+04:03:01 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+04:03:01 Delay 1.0 detik..
+04:03:02 Eksekusi Download & Upload FTP..
+04:03:03 Aplikasi berhenti.
+04:03:09 Inisiasi aplikasi...
+04:03:09 Testing koneksi ke server...
+04:03:11 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /kps01/txt/input
+
+04:03:11 Aplikasi siap digunakan...
+04:03:11 Testing koneksi ke server Selesai 
+04:03:11 Delay 1.0 detik..
+04:03:12 Eksekusi Download & Upload FTP..
+04:03:13 Delay 1.0 detik..
+04:03:14 Eksekusi Download & Upload FTP..
+04:03:17 Loading Configuration...
+04:03:17 Loading Configuration Selesai !
+04:03:25 Inisiasi aplikasi...
+04:03:25 Testing koneksi ke server...
+04:03:26 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /kps01/txt/input
+
+04:03:26 Aplikasi siap digunakan...
+04:03:26 Testing koneksi ke server Selesai 
+04:03:26 Delay 1.0 detik..
+04:03:27 Eksekusi Download & Upload FTP..
+04:03:37 Delay 1.0 detik..
+04:03:38 Eksekusi Download & Upload FTP..
+04:03:39 Delay 1.0 detik..
+04:03:40 Eksekusi Download & Upload FTP..
+04:03:41 Delay 1.0 detik..
+04:03:42 Eksekusi Download & Upload FTP..
+04:03:43 Delay 1.0 detik..
+04:03:44 Eksekusi Download & Upload FTP..
+04:03:44 Delay 1.0 detik..
+04:03:45 Eksekusi Download & Upload FTP..
+04:03:55 Delay 1.0 detik..
+04:03:56 Eksekusi Download & Upload FTP..
+04:03:57 Delay 1.0 detik..
+04:03:58 Eksekusi Download & Upload FTP..
+04:04:08 Downloading File 812.txt from FTP Server --> 178.128.125.105/kps01/txt/input/812.txt
+04:04:08 Success File downloaded into api/txt/input/812.txt
+04:04:08 Deleting File 812.txt from FTP Server --> 178.128.125.105/kps01/txt/input/812.txt
+04:04:08 Success File deleted from FTP Server --> 178.128.125.105/kps01/txt/input/812.txt
+04:04:29 Error File uploading File from kps01/txt/output
+Connection timed out: connect
+04:04:29 Delay 1.0 detik..
+04:04:30 Eksekusi Download & Upload FTP..
+04:04:36 Uploading File 812.TXT from lokal Server --> api/txt/output/812.TXT
+04:04:36 Success File uploaded into FTP Server --> 178.128.125.105/kps01/txt/output/812.TXT
+04:04:36 Deleting File 812.TXT from local DIR --> api/txt/output/812.TXT
+04:04:36 Success File deleted from local DIR --> api/txt/output/812.TXT
+04:04:36 Delay 1.0 detik..
+04:04:37 Eksekusi Download & Upload FTP..
+04:04:38 Delay 1.0 detik..
+04:04:39 Eksekusi Download & Upload FTP..
+04:04:40 Delay 1.0 detik..
+04:04:41 Eksekusi Download & Upload FTP..
+04:04:51 Delay 1.0 detik..
+04:04:52 Eksekusi Download & Upload FTP..
+04:04:53 Delay 1.0 detik..
+04:04:54 Eksekusi Download & Upload FTP..
+04:05:04 Delay 1.0 detik..
+04:05:05 Eksekusi Download & Upload FTP..
+04:05:06 Delay 1.0 detik..
+04:05:07 Eksekusi Download & Upload FTP..
+04:05:09 Delay 1.0 detik..
+04:05:10 Eksekusi Download & Upload FTP..
+04:05:11 Delay 1.0 detik..
+04:05:12 Eksekusi Download & Upload FTP..
+04:05:13 Delay 1.0 detik..
+04:05:14 Eksekusi Download & Upload FTP..
+04:05:24 Delay 1.0 detik..
+04:05:25 Eksekusi Download & Upload FTP..
+04:05:27 Delay 1.0 detik..
+04:05:28 Eksekusi Download & Upload FTP..
+04:05:29 Delay 1.0 detik..
+04:05:31 Eksekusi Download & Upload FTP..
+04:05:45 Delay 1.0 detik..
+04:05:46 Eksekusi Download & Upload FTP..
+04:05:47 Delay 1.0 detik..
+04:05:48 Eksekusi Download & Upload FTP..
+04:05:49 Delay 1.0 detik..
+04:05:50 Eksekusi Download & Upload FTP..
+04:05:51 Delay 1.0 detik..
+04:05:52 Eksekusi Download & Upload FTP..
+04:05:53 Delay 1.0 detik..
+04:05:54 Eksekusi Download & Upload FTP..
+04:05:54 Error dwonloading File from kps01/txt/input
+No route to host: connect
+04:05:54 Error File uploading File from kps01/txt/output
+No route to host: connect
+04:05:54 Delay 1.0 detik..
+04:05:55 Eksekusi Download & Upload FTP..
+04:05:58 Aplikasi berhenti.
+04:06:06 Loading Configuration...
+04:06:06 Loading Configuration Selesai !
+04:06:48 Loading Configuration...
+04:06:48 Loading Configuration Selesai !
+04:06:50 Inisiasi aplikasi...
+04:06:50 Testing koneksi ke server...
+04:07:01 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /kps01/txt/input
+
+04:07:01 Aplikasi siap digunakan...
+04:07:01 Testing koneksi ke server Selesai 
+04:07:01 Delay 1.0 detik..
+04:07:02 Eksekusi Download & Upload FTP..
+04:07:30 Error dwonloading File from kps01/txt/input
+Software caused connection abort: recv failed
+08:01:31 Error File uploading File from kps01/txt/output
+Software caused connection abort: recv failed
+08:01:31 Delay 1.0 detik..
+08:01:32 Eksekusi Download & Upload FTP..
+08:01:32 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+08:01:32 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+08:01:32 Delay 1.0 detik..
+08:01:33 Eksekusi Download & Upload FTP..
+08:01:33 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+08:01:33 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+08:01:33 Delay 1.0 detik..
+08:01:34 Eksekusi Download & Upload FTP..
+08:01:38 Delay 1.0 detik..
+08:01:39 Eksekusi Download & Upload FTP..
+08:01:41 Delay 1.0 detik..
+08:01:42 Eksekusi Download & Upload FTP..
+08:01:43 Delay 1.0 detik..
+08:01:44 Eksekusi Download & Upload FTP..
+08:01:46 Delay 1.0 detik..
+08:01:47 Eksekusi Download & Upload FTP..
+08:01:49 Delay 1.0 detik..
+08:01:50 Eksekusi Download & Upload FTP..
+08:01:52 Delay 1.0 detik..
+08:01:53 Eksekusi Download & Upload FTP..
+08:01:55 Delay 1.0 detik..
+08:01:56 Eksekusi Download & Upload FTP..
+08:01:59 Delay 1.0 detik..
+08:02:00 Eksekusi Download & Upload FTP..
+08:02:01 Delay 1.0 detik..
+08:02:02 Eksekusi Download & Upload FTP..
+08:02:04 Delay 1.0 detik..
+08:02:05 Eksekusi Download & Upload FTP..
+08:02:07 Delay 1.0 detik..
+08:02:08 Eksekusi Download & Upload FTP..
+08:02:10 Delay 1.0 detik..
+08:02:11 Eksekusi Download & Upload FTP..
+08:02:13 Delay 1.0 detik..
+08:02:14 Eksekusi Download & Upload FTP..
+08:02:16 Delay 1.0 detik..
+08:02:17 Eksekusi Download & Upload FTP..
+08:02:19 Delay 1.0 detik..
+08:02:20 Eksekusi Download & Upload FTP..
+08:02:22 Delay 1.0 detik..
+08:02:23 Eksekusi Download & Upload FTP..
+08:02:24 Delay 1.0 detik..
+08:02:25 Eksekusi Download & Upload FTP..
+08:02:27 Delay 1.0 detik..
+08:02:28 Eksekusi Download & Upload FTP..
+08:02:30 Delay 1.0 detik..
+08:02:31 Eksekusi Download & Upload FTP..
+08:02:32 Delay 1.0 detik..
+08:02:33 Eksekusi Download & Upload FTP..
+08:02:35 Delay 1.0 detik..
+08:02:36 Eksekusi Download & Upload FTP..
+08:02:37 Delay 1.0 detik..
+08:02:38 Eksekusi Download & Upload FTP..
+08:02:41 Delay 1.0 detik..
+08:02:42 Eksekusi Download & Upload FTP..
+08:02:43 Delay 1.0 detik..
+08:02:44 Eksekusi Download & Upload FTP..
+08:02:46 Delay 1.0 detik..
+08:02:47 Eksekusi Download & Upload FTP..
+08:02:48 Delay 1.0 detik..
+08:02:49 Eksekusi Download & Upload FTP..
+08:02:51 Delay 1.0 detik..
+08:02:52 Eksekusi Download & Upload FTP..
+08:02:54 Delay 1.0 detik..
+08:02:55 Eksekusi Download & Upload FTP..
+08:02:56 Delay 1.0 detik..
+08:02:57 Eksekusi Download & Upload FTP..
+08:02:59 Delay 1.0 detik..
+08:03:00 Eksekusi Download & Upload FTP..
+08:03:02 Delay 1.0 detik..
+08:03:03 Eksekusi Download & Upload FTP..
+08:03:05 Delay 1.0 detik..
+08:03:06 Eksekusi Download & Upload FTP..
+08:03:07 Delay 1.0 detik..
+08:03:08 Eksekusi Download & Upload FTP..
+08:03:10 Delay 1.0 detik..
+08:03:11 Eksekusi Download & Upload FTP..
+08:03:12 Delay 1.0 detik..
+08:03:13 Eksekusi Download & Upload FTP..
+08:03:15 Delay 1.0 detik..
+08:03:16 Eksekusi Download & Upload FTP..
+08:03:18 Delay 1.0 detik..
+08:03:19 Eksekusi Download & Upload FTP..
+08:03:21 Delay 1.0 detik..
+08:03:22 Eksekusi Download & Upload FTP..
+08:03:24 Delay 1.0 detik..
+08:03:25 Eksekusi Download & Upload FTP..
+08:03:27 Delay 1.0 detik..
+08:03:28 Eksekusi Download & Upload FTP..
+08:03:31 Delay 1.0 detik..
+08:03:32 Eksekusi Download & Upload FTP..
+08:03:34 Delay 1.0 detik..
+08:03:35 Eksekusi Download & Upload FTP..
+08:03:37 Delay 1.0 detik..
+08:03:38 Eksekusi Download & Upload FTP..
+08:03:40 Delay 1.0 detik..
+08:03:41 Eksekusi Download & Upload FTP..
+08:03:43 Delay 1.0 detik..
+08:03:44 Eksekusi Download & Upload FTP..
+08:03:45 Delay 1.0 detik..
+08:03:46 Eksekusi Download & Upload FTP..
+08:03:48 Delay 1.0 detik..
+08:03:49 Eksekusi Download & Upload FTP..
+08:03:51 Delay 1.0 detik..
+08:03:52 Eksekusi Download & Upload FTP..
+08:03:55 Delay 1.0 detik..
+08:03:56 Eksekusi Download & Upload FTP..
+08:03:58 Delay 1.0 detik..
+08:03:59 Eksekusi Download & Upload FTP..
+08:04:01 Delay 1.0 detik..
+08:04:02 Eksekusi Download & Upload FTP..
+08:04:05 Delay 1.0 detik..
+08:04:06 Eksekusi Download & Upload FTP..
+08:04:07 Delay 1.0 detik..
+08:04:08 Eksekusi Download & Upload FTP..
+08:04:10 Delay 1.0 detik..
+08:04:11 Eksekusi Download & Upload FTP..
+08:04:13 Delay 1.0 detik..
+08:04:14 Eksekusi Download & Upload FTP..
+08:04:16 Delay 1.0 detik..
+08:04:17 Eksekusi Download & Upload FTP..
+08:04:18 Delay 1.0 detik..
+08:04:19 Eksekusi Download & Upload FTP..
+08:04:21 Delay 1.0 detik..
+08:04:22 Eksekusi Download & Upload FTP..
+08:04:24 Delay 1.0 detik..
+08:04:25 Eksekusi Download & Upload FTP..
+08:04:27 Delay 1.0 detik..
+08:04:28 Eksekusi Download & Upload FTP..
+08:04:30 Delay 1.0 detik..
+08:04:31 Eksekusi Download & Upload FTP..
+08:04:33 Delay 1.0 detik..
+08:04:34 Eksekusi Download & Upload FTP..
+08:04:36 Delay 1.0 detik..
+08:04:37 Eksekusi Download & Upload FTP..
+08:04:38 Delay 1.0 detik..
+08:04:39 Eksekusi Download & Upload FTP..
+08:04:41 Delay 1.0 detik..
+08:04:42 Eksekusi Download & Upload FTP..
+08:04:44 Delay 1.0 detik..
+08:04:45 Eksekusi Download & Upload FTP..
+08:04:46 Delay 1.0 detik..
+08:04:47 Eksekusi Download & Upload FTP..
+08:04:49 Delay 1.0 detik..
+08:04:50 Eksekusi Download & Upload FTP..
+08:04:52 Delay 1.0 detik..
+08:04:53 Eksekusi Download & Upload FTP..
+08:04:54 Delay 1.0 detik..
+08:04:55 Eksekusi Download & Upload FTP..
+08:04:57 Delay 1.0 detik..
+08:04:58 Eksekusi Download & Upload FTP..
+08:05:00 Delay 1.0 detik..
+08:05:01 Eksekusi Download & Upload FTP..
+08:05:03 Delay 1.0 detik..
+08:05:04 Eksekusi Download & Upload FTP..
+08:05:06 Delay 1.0 detik..
+08:05:07 Eksekusi Download & Upload FTP..
+08:05:08 Delay 1.0 detik..
+08:05:09 Eksekusi Download & Upload FTP..
+08:05:11 Delay 1.0 detik..
+08:05:12 Eksekusi Download & Upload FTP..
+08:05:14 Delay 1.0 detik..
+08:05:15 Eksekusi Download & Upload FTP..
+08:05:16 Delay 1.0 detik..
+08:05:17 Eksekusi Download & Upload FTP..
+08:05:19 Delay 1.0 detik..
+08:05:20 Eksekusi Download & Upload FTP..
+08:05:22 Delay 1.0 detik..
+08:05:23 Eksekusi Download & Upload FTP..
+08:05:24 Delay 1.0 detik..
+08:05:25 Eksekusi Download & Upload FTP..
+08:05:27 Delay 1.0 detik..
+08:05:28 Eksekusi Download & Upload FTP..
+08:05:29 Delay 1.0 detik..
+08:05:30 Eksekusi Download & Upload FTP..
+08:05:32 Delay 1.0 detik..
+08:05:33 Eksekusi Download & Upload FTP..
+08:05:35 Delay 1.0 detik..
+08:05:36 Eksekusi Download & Upload FTP..
+08:05:37 Delay 1.0 detik..
+08:05:38 Eksekusi Download & Upload FTP..
+08:05:40 Delay 1.0 detik..
+08:05:41 Eksekusi Download & Upload FTP..
+08:05:43 Delay 1.0 detik..
+08:05:44 Eksekusi Download & Upload FTP..
+08:05:45 Delay 1.0 detik..
+08:05:46 Eksekusi Download & Upload FTP..
+08:05:48 Delay 1.0 detik..
+08:05:49 Eksekusi Download & Upload FTP..
+08:05:52 Delay 1.0 detik..
+08:05:53 Eksekusi Download & Upload FTP..
+08:05:55 Delay 1.0 detik..
+08:05:56 Eksekusi Download & Upload FTP..
+08:05:57 Delay 1.0 detik..
+08:05:58 Eksekusi Download & Upload FTP..
+08:06:00 Delay 1.0 detik..
+08:06:01 Eksekusi Download & Upload FTP..
+08:06:02 Delay 1.0 detik..
+08:06:03 Eksekusi Download & Upload FTP..
+08:06:05 Delay 1.0 detik..
+08:06:06 Eksekusi Download & Upload FTP..
+08:06:08 Delay 1.0 detik..
+08:06:09 Eksekusi Download & Upload FTP..
+08:06:11 Delay 1.0 detik..
+08:06:12 Eksekusi Download & Upload FTP..
+08:06:14 Delay 1.0 detik..
+08:06:15 Eksekusi Download & Upload FTP..
+08:06:17 Delay 1.0 detik..
+08:06:18 Eksekusi Download & Upload FTP..
+08:06:20 Delay 1.0 detik..
+08:06:21 Eksekusi Download & Upload FTP..
+08:06:22 Delay 1.0 detik..
+08:06:23 Eksekusi Download & Upload FTP..
+08:06:25 Delay 1.0 detik..
+08:06:26 Eksekusi Download & Upload FTP..
+08:06:27 Delay 1.0 detik..
+08:06:28 Eksekusi Download & Upload FTP..
+08:06:30 Delay 1.0 detik..
+08:06:31 Eksekusi Download & Upload FTP..
+08:06:32 Delay 1.0 detik..
+08:06:33 Eksekusi Download & Upload FTP..
+08:06:34 Downloading File 814.txt from FTP Server --> 178.128.125.105/kps01/txt/input/814.txt
+08:06:35 Success File downloaded into api/txt/input/814.txt
+08:06:35 Deleting File 814.txt from FTP Server --> 178.128.125.105/kps01/txt/input/814.txt
+08:06:35 Success File deleted from FTP Server --> 178.128.125.105/kps01/txt/input/814.txt
+08:06:35 Uploading File 814.TXT from lokal Server --> api/txt/output/814.TXT
+08:06:36 Success File uploaded into FTP Server --> 178.128.125.105/kps01/txt/output/814.TXT
+08:06:36 Deleting File 814.TXT from local DIR --> api/txt/output/814.TXT
+08:06:36 Success File deleted from local DIR --> api/txt/output/814.TXT
+08:06:36 Delay 1.0 detik..
+08:06:37 Eksekusi Download & Upload FTP..
+08:06:38 Delay 1.0 detik..
+08:06:39 Eksekusi Download & Upload FTP..
+08:06:41 Delay 1.0 detik..
+08:06:42 Eksekusi Download & Upload FTP..
+08:06:43 Delay 1.0 detik..
+08:06:45 Eksekusi Download & Upload FTP..
+08:06:46 Delay 1.0 detik..
+08:06:47 Eksekusi Download & Upload FTP..
+08:06:49 Delay 1.0 detik..
+08:06:50 Eksekusi Download & Upload FTP..
+08:06:52 Delay 1.0 detik..
+08:06:53 Eksekusi Download & Upload FTP..
+08:06:54 Delay 1.0 detik..
+08:06:55 Eksekusi Download & Upload FTP..
+08:06:56 Downloading File 815.txt from FTP Server --> 178.128.125.105/kps01/txt/input/815.txt
+08:06:57 Success File downloaded into api/txt/input/815.txt
+08:06:57 Deleting File 815.txt from FTP Server --> 178.128.125.105/kps01/txt/input/815.txt
+08:06:57 Success File deleted from FTP Server --> 178.128.125.105/kps01/txt/input/815.txt
+08:06:58 Delay 1.0 detik..
+08:06:59 Eksekusi Download & Upload FTP..
+08:07:00 Delay 1.0 detik..
+08:07:01 Eksekusi Download & Upload FTP..
+08:07:03 Delay 1.0 detik..
+08:07:04 Eksekusi Download & Upload FTP..
+08:07:06 Delay 1.0 detik..
+08:07:07 Eksekusi Download & Upload FTP..
+08:07:08 Delay 1.0 detik..
+08:07:09 Eksekusi Download & Upload FTP..
+08:07:11 Delay 1.0 detik..
+08:07:12 Eksekusi Download & Upload FTP..
+08:07:14 Delay 1.0 detik..
+08:07:15 Eksekusi Download & Upload FTP..
+08:07:17 Delay 1.0 detik..
+08:07:18 Eksekusi Download & Upload FTP..
+08:07:20 Delay 1.0 detik..
+08:07:21 Eksekusi Download & Upload FTP..
+08:07:22 Delay 1.0 detik..
+08:07:23 Eksekusi Download & Upload FTP..
+08:07:25 Delay 1.0 detik..
+08:07:26 Eksekusi Download & Upload FTP..
+08:07:28 Delay 1.0 detik..
+08:07:29 Eksekusi Download & Upload FTP..
+08:07:31 Delay 1.0 detik..
+08:07:32 Eksekusi Download & Upload FTP..
+08:07:34 Delay 1.0 detik..
+08:07:35 Eksekusi Download & Upload FTP..
+08:07:37 Delay 1.0 detik..
+08:07:38 Eksekusi Download & Upload FTP..
+08:07:39 Delay 1.0 detik..
+08:07:40 Eksekusi Download & Upload FTP..
+08:07:42 Delay 1.0 detik..
+08:07:43 Eksekusi Download & Upload FTP..
+08:07:44 Delay 1.0 detik..
+08:07:45 Eksekusi Download & Upload FTP..
+08:07:47 Delay 1.0 detik..
+08:07:48 Eksekusi Download & Upload FTP..
+08:07:50 Delay 1.0 detik..
+08:07:51 Eksekusi Download & Upload FTP..
+08:07:53 Delay 1.0 detik..
+08:07:54 Eksekusi Download & Upload FTP..
+08:07:56 Delay 1.0 detik..
+08:07:57 Eksekusi Download & Upload FTP..
+08:07:59 Delay 1.0 detik..
+08:08:00 Eksekusi Download & Upload FTP..
+08:08:02 Delay 1.0 detik..
+08:08:03 Eksekusi Download & Upload FTP..
+08:08:04 Delay 1.0 detik..
+08:08:05 Eksekusi Download & Upload FTP..
+08:08:07 Delay 1.0 detik..
+08:08:08 Eksekusi Download & Upload FTP..
+08:08:10 Delay 1.0 detik..
+08:08:11 Eksekusi Download & Upload FTP..
+08:08:13 Delay 1.0 detik..
+08:08:14 Eksekusi Download & Upload FTP..
+08:08:15 Delay 1.0 detik..
+08:08:16 Eksekusi Download & Upload FTP..
+08:08:18 Delay 1.0 detik..
+08:08:19 Eksekusi Download & Upload FTP..
+08:08:20 Delay 1.0 detik..
+08:08:21 Eksekusi Download & Upload FTP..
+08:08:23 Delay 1.0 detik..
+08:08:24 Eksekusi Download & Upload FTP..
+08:08:26 Delay 1.0 detik..
+08:08:27 Eksekusi Download & Upload FTP..
+08:08:29 Delay 1.0 detik..
+08:08:30 Eksekusi Download & Upload FTP..
+08:08:31 Delay 1.0 detik..
+08:08:32 Eksekusi Download & Upload FTP..
+08:08:34 Delay 1.0 detik..
+08:08:35 Eksekusi Download & Upload FTP..
+08:08:37 Delay 1.0 detik..
+08:08:38 Eksekusi Download & Upload FTP..
+08:08:39 Delay 1.0 detik..
+08:08:40 Eksekusi Download & Upload FTP..
+08:08:42 Delay 1.0 detik..
+08:08:43 Eksekusi Download & Upload FTP..
+08:08:45 Delay 1.0 detik..
+08:08:46 Eksekusi Download & Upload FTP..
+08:08:48 Delay 1.0 detik..
+08:08:49 Eksekusi Download & Upload FTP..
+08:08:50 Delay 1.0 detik..
+08:08:51 Eksekusi Download & Upload FTP..
+08:08:53 Delay 1.0 detik..
+08:08:54 Eksekusi Download & Upload FTP..
+08:08:56 Delay 1.0 detik..
+08:08:57 Eksekusi Download & Upload FTP..
+08:08:58 Delay 1.0 detik..
+08:08:59 Eksekusi Download & Upload FTP..
+08:09:01 Delay 1.0 detik..
+08:09:02 Eksekusi Download & Upload FTP..
+08:09:04 Delay 1.0 detik..
+08:09:05 Eksekusi Download & Upload FTP..
+08:09:06 Delay 1.0 detik..
+08:09:07 Eksekusi Download & Upload FTP..
+08:09:09 Delay 1.0 detik..
+08:09:10 Eksekusi Download & Upload FTP..
+08:09:11 Downloading File 819.txt from FTP Server --> 178.128.125.105/kps01/txt/input/819.txt
+08:09:11 Success File downloaded into api/txt/input/819.txt
+08:09:11 Deleting File 819.txt from FTP Server --> 178.128.125.105/kps01/txt/input/819.txt
+08:09:11 Success File deleted from FTP Server --> 178.128.125.105/kps01/txt/input/819.txt
+08:09:12 Uploading File 819.TXT from lokal Server --> api/txt/output/819.TXT
+08:09:12 Success File uploaded into FTP Server --> 178.128.125.105/kps01/txt/output/819.TXT
+08:09:12 Deleting File 819.TXT from local DIR --> api/txt/output/819.TXT
+08:09:12 Success File deleted from local DIR --> api/txt/output/819.TXT
+08:09:13 Delay 1.0 detik..
+08:09:14 Eksekusi Download & Upload FTP..
+08:09:15 Delay 1.0 detik..
+08:09:16 Eksekusi Download & Upload FTP..
+08:09:18 Delay 1.0 detik..
+08:09:19 Eksekusi Download & Upload FTP..
+08:09:21 Delay 1.0 detik..
+08:09:22 Eksekusi Download & Upload FTP..
+08:09:24 Delay 1.0 detik..
+08:09:25 Eksekusi Download & Upload FTP..
+08:09:27 Delay 1.0 detik..
+08:09:28 Eksekusi Download & Upload FTP..
+08:09:29 Delay 1.0 detik..
+08:09:30 Eksekusi Download & Upload FTP..
+08:09:32 Delay 1.0 detik..
+08:09:33 Eksekusi Download & Upload FTP..
+08:09:35 Delay 1.0 detik..
+08:09:36 Eksekusi Download & Upload FTP..
+08:09:38 Delay 1.0 detik..
+08:09:39 Eksekusi Download & Upload FTP..
+08:09:40 Delay 1.0 detik..
+08:09:41 Eksekusi Download & Upload FTP..
+08:09:43 Delay 1.0 detik..
+08:09:44 Eksekusi Download & Upload FTP..
+08:09:47 Delay 1.0 detik..
+08:09:48 Eksekusi Download & Upload FTP..
+08:09:50 Delay 1.0 detik..
+08:09:51 Eksekusi Download & Upload FTP..
+08:09:53 Delay 1.0 detik..
+08:09:54 Eksekusi Download & Upload FTP..
+08:09:56 Delay 1.0 detik..
+08:09:57 Eksekusi Download & Upload FTP..
+08:10:00 Delay 1.0 detik..
+08:10:01 Eksekusi Download & Upload FTP..
+08:10:15 Delay 1.0 detik..
+08:10:16 Eksekusi Download & Upload FTP..
+08:10:17 Delay 1.0 detik..
+08:10:18 Eksekusi Download & Upload FTP..
+08:10:20 Delay 1.0 detik..
+08:10:21 Eksekusi Download & Upload FTP..
+08:10:23 Delay 1.0 detik..
+08:10:24 Eksekusi Download & Upload FTP..
+08:10:26 Delay 1.0 detik..
+08:10:27 Eksekusi Download & Upload FTP..
+08:10:29 Delay 1.0 detik..
+08:10:30 Eksekusi Download & Upload FTP..
+08:10:32 Delay 1.0 detik..
+08:10:33 Eksekusi Download & Upload FTP..
+08:10:34 Delay 1.0 detik..
+08:10:35 Eksekusi Download & Upload FTP..
+08:10:37 Delay 1.0 detik..
+08:10:38 Eksekusi Download & Upload FTP..
+08:10:40 Delay 1.0 detik..
+08:10:41 Eksekusi Download & Upload FTP..
+08:10:43 Delay 1.0 detik..
+08:10:44 Eksekusi Download & Upload FTP..
+08:10:46 Delay 1.0 detik..
+08:10:47 Eksekusi Download & Upload FTP..
+08:10:49 Delay 1.0 detik..
+08:10:50 Eksekusi Download & Upload FTP..
+08:10:52 Delay 1.0 detik..
+08:10:53 Eksekusi Download & Upload FTP..
+08:10:55 Delay 1.0 detik..
+08:10:56 Eksekusi Download & Upload FTP..
+08:10:58 Delay 1.0 detik..
+08:10:59 Eksekusi Download & Upload FTP..
+08:11:00 Delay 1.0 detik..
+08:11:01 Eksekusi Download & Upload FTP..
+08:11:03 Delay 1.0 detik..
+08:11:04 Eksekusi Download & Upload FTP..
+08:11:06 Delay 1.0 detik..
+08:11:07 Eksekusi Download & Upload FTP..
+08:11:09 Delay 1.0 detik..
+08:11:10 Eksekusi Download & Upload FTP..
+08:11:12 Delay 1.0 detik..
+08:11:13 Eksekusi Download & Upload FTP..
+08:11:15 Delay 1.0 detik..
+08:11:16 Eksekusi Download & Upload FTP..
+08:11:17 Delay 1.0 detik..
+08:11:18 Eksekusi Download & Upload FTP..
+08:11:20 Delay 1.0 detik..
+08:11:21 Eksekusi Download & Upload FTP..
+08:11:23 Delay 1.0 detik..
+08:11:24 Eksekusi Download & Upload FTP..
+08:11:25 Delay 1.0 detik..
+08:11:26 Eksekusi Download & Upload FTP..
+08:11:29 Delay 1.0 detik..
+08:11:30 Eksekusi Download & Upload FTP..
+08:11:32 Delay 1.0 detik..
+08:11:33 Eksekusi Download & Upload FTP..
+08:11:35 Delay 1.0 detik..
+08:11:36 Eksekusi Download & Upload FTP..
+08:11:38 Delay 1.0 detik..
+08:11:39 Eksekusi Download & Upload FTP..
+08:11:42 Delay 1.0 detik..
+08:11:43 Eksekusi Download & Upload FTP..
+08:11:45 Delay 1.0 detik..
+08:11:46 Eksekusi Download & Upload FTP..
+08:11:48 Delay 1.0 detik..
+08:11:49 Eksekusi Download & Upload FTP..
+08:11:50 Delay 1.0 detik..
+08:11:51 Eksekusi Download & Upload FTP..
+08:11:53 Delay 1.0 detik..
+08:11:54 Eksekusi Download & Upload FTP..
+08:11:56 Delay 1.0 detik..
+08:11:57 Eksekusi Download & Upload FTP..
+08:11:59 Delay 1.0 detik..
+08:12:00 Eksekusi Download & Upload FTP..
+08:12:02 Delay 1.0 detik..
+08:12:03 Eksekusi Download & Upload FTP..
+08:12:04 Delay 1.0 detik..
+08:12:05 Eksekusi Download & Upload FTP..
+08:12:07 Delay 1.0 detik..
+08:12:08 Eksekusi Download & Upload FTP..
+08:12:10 Delay 1.0 detik..
+08:12:11 Eksekusi Download & Upload FTP..
+08:12:13 Delay 1.0 detik..
+08:12:14 Eksekusi Download & Upload FTP..
+08:12:16 Delay 1.0 detik..
+08:12:17 Eksekusi Download & Upload FTP..
+08:12:18 Delay 1.0 detik..
+08:12:19 Eksekusi Download & Upload FTP..
+08:12:20 Downloading File 826.txt from FTP Server --> 178.128.125.105/kps01/txt/input/826.txt
+08:12:20 Success File downloaded into api/txt/input/826.txt
+08:12:20 Deleting File 826.txt from FTP Server --> 178.128.125.105/kps01/txt/input/826.txt
+08:12:20 Success File deleted from FTP Server --> 178.128.125.105/kps01/txt/input/826.txt
+08:12:21 Delay 1.0 detik..
+08:12:22 Eksekusi Download & Upload FTP..
+08:12:24 Delay 1.0 detik..
+08:12:25 Eksekusi Download & Upload FTP..
+08:12:27 Delay 1.0 detik..
+08:12:28 Eksekusi Download & Upload FTP..
+08:12:30 Delay 1.0 detik..
+08:12:31 Eksekusi Download & Upload FTP..
+08:12:33 Delay 1.0 detik..
+08:12:34 Eksekusi Download & Upload FTP..
+08:12:36 Delay 1.0 detik..
+08:12:37 Eksekusi Download & Upload FTP..
+08:12:39 Delay 1.0 detik..
+08:12:40 Eksekusi Download & Upload FTP..
+08:12:41 Delay 1.0 detik..
+08:12:42 Eksekusi Download & Upload FTP..
+08:12:44 Delay 1.0 detik..
+08:12:45 Eksekusi Download & Upload FTP..
+08:12:46 Delay 1.0 detik..
+08:12:47 Eksekusi Download & Upload FTP..
+08:12:49 Delay 1.0 detik..
+08:12:50 Eksekusi Download & Upload FTP..
+08:12:52 Delay 1.0 detik..
+08:12:53 Eksekusi Download & Upload FTP..
+08:12:54 Delay 1.0 detik..
+08:12:55 Eksekusi Download & Upload FTP..
+08:12:57 Delay 1.0 detik..
+08:12:58 Eksekusi Download & Upload FTP..
+08:12:59 Delay 1.0 detik..
+08:13:00 Eksekusi Download & Upload FTP..
+08:13:02 Delay 1.0 detik..
+08:13:03 Eksekusi Download & Upload FTP..
+08:13:05 Delay 1.0 detik..
+08:13:06 Eksekusi Download & Upload FTP..
+08:13:07 Delay 1.0 detik..
+08:13:08 Eksekusi Download & Upload FTP..
+08:13:10 Delay 1.0 detik..
+08:13:11 Eksekusi Download & Upload FTP..
+08:13:13 Delay 1.0 detik..
+08:13:14 Eksekusi Download & Upload FTP..
+08:13:16 Delay 1.0 detik..
+08:13:17 Eksekusi Download & Upload FTP..
+08:13:19 Delay 1.0 detik..
+08:13:20 Eksekusi Download & Upload FTP..
+08:13:21 Delay 1.0 detik..
+08:13:22 Eksekusi Download & Upload FTP..
+08:13:24 Delay 1.0 detik..
+08:13:25 Eksekusi Download & Upload FTP..
+08:13:27 Delay 1.0 detik..
+08:13:28 Eksekusi Download & Upload FTP..
+08:13:29 Delay 1.0 detik..
+08:13:30 Eksekusi Download & Upload FTP..
+08:13:32 Delay 1.0 detik..
+08:13:33 Eksekusi Download & Upload FTP..
+08:13:35 Delay 1.0 detik..
+08:13:36 Eksekusi Download & Upload FTP..
+08:13:38 Delay 1.0 detik..
+08:13:39 Eksekusi Download & Upload FTP..
+08:13:40 Delay 1.0 detik..
+08:13:41 Eksekusi Download & Upload FTP..
+08:39:43 Error File uploading File from kps01/txt/output
+Connection reset
+08:39:43 Delay 1.0 detik..
+08:39:44 Eksekusi Download & Upload FTP..
+08:39:46 Delay 1.0 detik..
+08:39:47 Eksekusi Download & Upload FTP..
+08:39:49 Delay 1.0 detik..
+08:39:50 Eksekusi Download & Upload FTP..
+08:39:52 Delay 1.0 detik..
+08:39:53 Eksekusi Download & Upload FTP..
+08:39:55 Delay 1.0 detik..
+08:39:56 Eksekusi Download & Upload FTP..
+08:39:58 Delay 1.0 detik..
+08:39:59 Eksekusi Download & Upload FTP..
+08:40:01 Delay 1.0 detik..
+08:40:02 Eksekusi Download & Upload FTP..
+08:40:04 Delay 1.0 detik..
+08:40:05 Eksekusi Download & Upload FTP..
+08:40:07 Delay 1.0 detik..
+08:40:08 Eksekusi Download & Upload FTP..
+08:40:10 Delay 1.0 detik..
+08:40:11 Eksekusi Download & Upload FTP..
+08:40:24 Delay 1.0 detik..
+08:40:25 Eksekusi Download & Upload FTP..
+08:40:27 Delay 1.0 detik..
+08:40:28 Eksekusi Download & Upload FTP..
+08:40:35 Delay 1.0 detik..
+08:40:36 Eksekusi Download & Upload FTP..
+08:40:38 Delay 1.0 detik..
+08:40:39 Eksekusi Download & Upload FTP..
+08:40:43 Delay 1.0 detik..
+08:40:44 Eksekusi Download & Upload FTP..
+08:40:46 Delay 1.0 detik..
+08:40:47 Eksekusi Download & Upload FTP..
+08:40:49 Delay 1.0 detik..
+08:40:50 Eksekusi Download & Upload FTP..
+08:40:55 Delay 1.0 detik..
+08:40:56 Eksekusi Download & Upload FTP..
+08:40:57 Delay 1.0 detik..
+08:40:58 Eksekusi Download & Upload FTP..
+08:41:09 Delay 1.0 detik..
+08:41:10 Eksekusi Download & Upload FTP..
+08:41:15 Delay 1.0 detik..
+08:41:16 Eksekusi Download & Upload FTP..
+08:41:19 Delay 1.0 detik..
+08:41:20 Eksekusi Download & Upload FTP..
+08:41:25 Delay 1.0 detik..
+08:41:26 Eksekusi Download & Upload FTP..
+08:41:31 Delay 1.0 detik..
+08:41:32 Eksekusi Download & Upload FTP..
+08:41:37 Delay 1.0 detik..
+08:41:38 Eksekusi Download & Upload FTP..
+08:42:12 Delay 1.0 detik..
+08:42:13 Eksekusi Download & Upload FTP..
+08:42:38 Delay 1.0 detik..
+08:42:39 Eksekusi Download & Upload FTP..
+08:42:45 Delay 1.0 detik..
+08:42:46 Eksekusi Download & Upload FTP..
+08:42:48 Delay 1.0 detik..
+08:42:49 Eksekusi Download & Upload FTP..
+08:42:53 Delay 1.0 detik..
+08:42:54 Eksekusi Download & Upload FTP..
+08:42:59 Delay 1.0 detik..
+08:43:00 Eksekusi Download & Upload FTP..
+08:43:04 Delay 1.0 detik..
+08:43:05 Eksekusi Download & Upload FTP..
+08:43:07 Delay 1.0 detik..
+08:43:08 Eksekusi Download & Upload FTP..
+08:43:10 Delay 1.0 detik..
+08:43:11 Eksekusi Download & Upload FTP..
+08:43:12 Delay 1.0 detik..
+08:43:13 Eksekusi Download & Upload FTP..
+08:43:18 Delay 1.0 detik..
+08:43:19 Eksekusi Download & Upload FTP..
+08:43:24 Delay 1.0 detik..
+08:43:25 Eksekusi Download & Upload FTP..
+08:43:31 Delay 1.0 detik..
+08:43:32 Eksekusi Download & Upload FTP..
+08:43:36 Delay 1.0 detik..
+08:43:37 Eksekusi Download & Upload FTP..
+08:43:41 Delay 1.0 detik..
+08:43:42 Eksekusi Download & Upload FTP..
+08:43:43 Delay 1.0 detik..
+08:43:44 Eksekusi Download & Upload FTP..
+08:43:46 Delay 1.0 detik..
+08:43:47 Eksekusi Download & Upload FTP..
+08:43:49 Delay 1.0 detik..
+08:43:50 Eksekusi Download & Upload FTP..
+08:43:57 Delay 1.0 detik..
+08:43:58 Eksekusi Download & Upload FTP..
+08:44:01 Delay 1.0 detik..
+08:44:02 Eksekusi Download & Upload FTP..
+08:44:05 Delay 1.0 detik..
+08:44:06 Eksekusi Download & Upload FTP..
+08:44:10 Delay 1.0 detik..
+08:44:11 Eksekusi Download & Upload FTP..
+08:44:33 Delay 1.0 detik..
+08:44:34 Eksekusi Download & Upload FTP..
+08:44:39 Delay 1.0 detik..
+08:44:40 Eksekusi Download & Upload FTP..
+08:44:43 Delay 1.0 detik..
+08:44:44 Eksekusi Download & Upload FTP..
+08:44:46 Delay 1.0 detik..
+08:44:47 Eksekusi Download & Upload FTP..
+08:44:50 Delay 1.0 detik..
+08:44:51 Eksekusi Download & Upload FTP..
+08:44:53 Delay 1.0 detik..
+08:44:54 Eksekusi Download & Upload FTP..
+08:45:06 Delay 1.0 detik..
+08:45:07 Eksekusi Download & Upload FTP..
+08:45:14 Delay 1.0 detik..
+08:45:15 Eksekusi Download & Upload FTP..
+08:45:18 Delay 1.0 detik..
+08:45:19 Eksekusi Download & Upload FTP..
+08:45:22 Delay 1.0 detik..
+08:45:23 Eksekusi Download & Upload FTP..
+08:45:26 Delay 1.0 detik..
+08:45:27 Eksekusi Download & Upload FTP..
+08:45:29 Delay 1.0 detik..
+08:45:30 Eksekusi Download & Upload FTP..
+08:45:36 Delay 1.0 detik..
+08:45:37 Eksekusi Download & Upload FTP..
+08:45:42 Delay 1.0 detik..
+08:45:43 Eksekusi Download & Upload FTP..
+08:45:49 Delay 1.0 detik..
+08:45:50 Eksekusi Download & Upload FTP..
+08:45:54 Delay 1.0 detik..
+08:45:55 Eksekusi Download & Upload FTP..
+08:45:58 Delay 1.0 detik..
+08:45:59 Eksekusi Download & Upload FTP..
+08:46:01 Delay 1.0 detik..
+08:46:02 Eksekusi Download & Upload FTP..
+08:46:05 Delay 1.0 detik..
+08:46:06 Eksekusi Download & Upload FTP..
+08:46:08 Delay 1.0 detik..
+08:46:09 Eksekusi Download & Upload FTP..
+08:46:12 Delay 1.0 detik..
+08:46:13 Eksekusi Download & Upload FTP..
+08:46:15 Delay 1.0 detik..
+08:46:16 Eksekusi Download & Upload FTP..
+08:46:19 Delay 1.0 detik..
+08:46:20 Eksekusi Download & Upload FTP..
+08:46:22 Delay 1.0 detik..
+08:46:23 Eksekusi Download & Upload FTP..
+08:46:26 Delay 1.0 detik..
+08:46:27 Eksekusi Download & Upload FTP..
+08:46:29 Delay 1.0 detik..
+08:46:30 Eksekusi Download & Upload FTP..
+08:46:33 Delay 1.0 detik..
+08:46:34 Eksekusi Download & Upload FTP..
+08:46:37 Delay 1.0 detik..
+08:46:38 Eksekusi Download & Upload FTP..
+08:46:42 Delay 1.0 detik..
+08:46:43 Eksekusi Download & Upload FTP..
+08:46:46 Delay 1.0 detik..
+08:46:47 Eksekusi Download & Upload FTP..
+08:46:50 Delay 1.0 detik..
+08:46:51 Eksekusi Download & Upload FTP..
+08:46:56 Delay 1.0 detik..
+08:46:57 Eksekusi Download & Upload FTP..
+08:47:00 Delay 1.0 detik..
+08:47:01 Eksekusi Download & Upload FTP..
+08:47:06 Delay 1.0 detik..
+08:47:07 Eksekusi Download & Upload FTP..
+08:47:11 Delay 1.0 detik..
+08:47:12 Eksekusi Download & Upload FTP..
+08:47:22 Delay 1.0 detik..
+08:47:23 Eksekusi Download & Upload FTP..
+08:47:33 Delay 1.0 detik..
+08:47:34 Eksekusi Download & Upload FTP..
+08:47:38 Delay 1.0 detik..
+08:47:39 Eksekusi Download & Upload FTP..
+08:47:42 Delay 1.0 detik..
+08:47:43 Eksekusi Download & Upload FTP..
+08:47:45 Delay 1.0 detik..
+08:47:46 Eksekusi Download & Upload FTP..
+08:47:48 Delay 1.0 detik..
+08:47:49 Eksekusi Download & Upload FTP..
+08:47:52 Delay 1.0 detik..
+08:47:53 Eksekusi Download & Upload FTP..
+08:47:57 Delay 1.0 detik..
+08:47:58 Eksekusi Download & Upload FTP..
+08:48:00 Delay 1.0 detik..
+08:48:01 Eksekusi Download & Upload FTP..
+08:48:05 Delay 1.0 detik..
+08:48:06 Eksekusi Download & Upload FTP..
+08:48:09 Delay 1.0 detik..
+08:48:10 Eksekusi Download & Upload FTP..
+08:48:12 Delay 1.0 detik..
+08:48:13 Eksekusi Download & Upload FTP..
+08:48:18 Delay 1.0 detik..
+08:48:19 Eksekusi Download & Upload FTP..
+08:48:22 Delay 1.0 detik..
+08:48:23 Eksekusi Download & Upload FTP..
+08:48:25 Delay 1.0 detik..
+08:48:26 Eksekusi Download & Upload FTP..
+08:48:29 Delay 1.0 detik..
+08:48:30 Eksekusi Download & Upload FTP..
+08:48:32 Delay 1.0 detik..
+08:48:33 Eksekusi Download & Upload FTP..
+08:48:37 Delay 1.0 detik..
+08:48:38 Eksekusi Download & Upload FTP..
+08:48:42 Delay 1.0 detik..
+08:48:43 Eksekusi Download & Upload FTP..
+08:48:47 Delay 1.0 detik..
+08:48:48 Eksekusi Download & Upload FTP..
+08:48:51 Delay 1.0 detik..
+08:48:52 Eksekusi Download & Upload FTP..
+08:48:57 Delay 1.0 detik..
+08:48:58 Eksekusi Download & Upload FTP..
+08:49:04 Delay 1.0 detik..
+08:49:05 Eksekusi Download & Upload FTP..
+08:49:07 Delay 1.0 detik..
+08:49:08 Eksekusi Download & Upload FTP..
+08:49:11 Delay 1.0 detik..
+08:49:12 Eksekusi Download & Upload FTP..
+08:49:15 Delay 1.0 detik..
+08:49:16 Eksekusi Download & Upload FTP..
+08:49:18 Delay 1.0 detik..
+08:49:19 Eksekusi Download & Upload FTP..
+08:49:24 Delay 1.0 detik..
+08:49:25 Eksekusi Download & Upload FTP..
+08:49:30 Delay 1.0 detik..
+08:49:31 Eksekusi Download & Upload FTP..
+08:49:34 Delay 1.0 detik..
+08:49:35 Eksekusi Download & Upload FTP..
+08:49:39 Delay 1.0 detik..
+08:49:40 Eksekusi Download & Upload FTP..
+08:49:43 Delay 1.0 detik..
+08:49:44 Eksekusi Download & Upload FTP..
+08:49:47 Delay 1.0 detik..
+08:49:48 Eksekusi Download & Upload FTP..
+08:49:51 Delay 1.0 detik..
+08:49:52 Eksekusi Download & Upload FTP..
+08:49:56 Delay 1.0 detik..
+08:49:57 Eksekusi Download & Upload FTP..
+08:49:59 Delay 1.0 detik..
+08:50:00 Eksekusi Download & Upload FTP..
+08:50:02 Delay 1.0 detik..
+08:50:03 Eksekusi Download & Upload FTP..
+08:50:05 Delay 1.0 detik..
+08:50:06 Eksekusi Download & Upload FTP..
+08:50:08 Delay 1.0 detik..
+08:50:09 Eksekusi Download & Upload FTP..
+08:50:11 Delay 1.0 detik..
+08:50:12 Eksekusi Download & Upload FTP..
+08:50:15 Delay 1.0 detik..
+08:50:16 Eksekusi Download & Upload FTP..
+08:50:19 Delay 1.0 detik..
+08:50:20 Eksekusi Download & Upload FTP..
+08:50:22 Delay 1.0 detik..
+08:50:23 Eksekusi Download & Upload FTP..
+08:50:26 Delay 1.0 detik..
+08:50:27 Eksekusi Download & Upload FTP..
+08:50:29 Delay 1.0 detik..
+08:50:30 Eksekusi Download & Upload FTP..
+08:50:32 Delay 1.0 detik..
+08:50:33 Eksekusi Download & Upload FTP..
+08:50:36 Delay 1.0 detik..
+08:50:37 Eksekusi Download & Upload FTP..
+08:50:41 Delay 1.0 detik..
+08:50:42 Eksekusi Download & Upload FTP..
+08:50:44 Delay 1.0 detik..
+08:50:45 Eksekusi Download & Upload FTP..
+08:50:47 Delay 1.0 detik..
+08:50:48 Eksekusi Download & Upload FTP..
+08:50:51 Delay 1.0 detik..
+08:50:52 Eksekusi Download & Upload FTP..
+08:50:54 Delay 1.0 detik..
+08:50:55 Eksekusi Download & Upload FTP..
+08:54:41 Error dwonloading File from kps01/txt/input
+Read timed out
+08:54:42 Delay 1.0 detik..
+08:54:43 Eksekusi Download & Upload FTP..
+08:54:45 Delay 1.0 detik..
+08:54:46 Eksekusi Download & Upload FTP..
+08:54:48 Delay 1.0 detik..
+08:54:49 Eksekusi Download & Upload FTP..
+08:54:51 Delay 1.0 detik..
+08:54:52 Eksekusi Download & Upload FTP..
+08:54:55 Delay 1.0 detik..
+08:54:56 Eksekusi Download & Upload FTP..
+08:55:01 Delay 1.0 detik..
+08:55:02 Eksekusi Download & Upload FTP..
+08:55:04 Delay 1.0 detik..
+08:55:05 Eksekusi Download & Upload FTP..
+08:55:07 Delay 1.0 detik..
+08:55:08 Eksekusi Download & Upload FTP..
+08:55:11 Delay 1.0 detik..
+08:55:12 Eksekusi Download & Upload FTP..
+08:55:14 Delay 1.0 detik..
+08:55:15 Eksekusi Download & Upload FTP..
+08:55:18 Delay 1.0 detik..
+08:55:19 Eksekusi Download & Upload FTP..
+08:55:20 Delay 1.0 detik..
+08:55:21 Eksekusi Download & Upload FTP..
+11:32:18 Error File uploading File from kps01/txt/output
+Software caused connection abort: recv failed
+11:32:18 Delay 1.0 detik..
+11:32:20 Eksekusi Download & Upload FTP..
+11:32:20 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:20 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:20 Delay 1.0 detik..
+11:32:21 Eksekusi Download & Upload FTP..
+11:32:22 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:22 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:22 Delay 1.0 detik..
+11:32:23 Eksekusi Download & Upload FTP..
+11:32:23 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:23 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:23 Delay 1.0 detik..
+11:32:24 Eksekusi Download & Upload FTP..
+11:32:24 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:24 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:24 Delay 1.0 detik..
+11:32:25 Eksekusi Download & Upload FTP..
+11:32:25 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:25 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:25 Delay 1.0 detik..
+11:32:27 Eksekusi Download & Upload FTP..
+11:32:27 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:27 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:27 Delay 1.0 detik..
+11:32:28 Eksekusi Download & Upload FTP..
+11:32:28 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:28 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:28 Delay 1.0 detik..
+11:32:29 Eksekusi Download & Upload FTP..
+11:32:29 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:29 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:29 Delay 1.0 detik..
+11:32:30 Eksekusi Download & Upload FTP..
+11:32:30 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:30 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:30 Delay 1.0 detik..
+11:32:31 Eksekusi Download & Upload FTP..
+11:32:31 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:31 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:31 Delay 1.0 detik..
+11:32:32 Eksekusi Download & Upload FTP..
+11:32:32 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:32 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:32 Delay 1.0 detik..
+11:32:33 Eksekusi Download & Upload FTP..
+11:32:33 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:33 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:33 Delay 1.0 detik..
+11:32:34 Eksekusi Download & Upload FTP..
+11:32:34 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:34 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:34 Delay 1.0 detik..
+11:32:35 Eksekusi Download & Upload FTP..
+11:32:35 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:35 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:35 Delay 1.0 detik..
+11:32:36 Eksekusi Download & Upload FTP..
+11:32:36 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:36 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:36 Delay 1.0 detik..
+11:32:37 Eksekusi Download & Upload FTP..
+11:32:37 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:37 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:37 Delay 1.0 detik..
+11:32:38 Eksekusi Download & Upload FTP..
+11:32:38 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:38 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:38 Delay 1.0 detik..
+11:32:39 Eksekusi Download & Upload FTP..
+11:32:39 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:40 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:40 Delay 1.0 detik..
+11:32:41 Eksekusi Download & Upload FTP..
+11:32:41 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:41 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:41 Delay 1.0 detik..
+11:32:42 Eksekusi Download & Upload FTP..
+11:32:42 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:42 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:42 Delay 1.0 detik..
+11:32:43 Eksekusi Download & Upload FTP..
+11:32:43 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:43 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:43 Delay 1.0 detik..
+11:32:44 Eksekusi Download & Upload FTP..
+11:32:44 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:44 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:44 Delay 1.0 detik..
+11:32:45 Eksekusi Download & Upload FTP..
+11:32:45 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:45 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:45 Delay 1.0 detik..
+11:32:46 Eksekusi Download & Upload FTP..
+11:32:46 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:46 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:46 Delay 1.0 detik..
+11:32:47 Eksekusi Download & Upload FTP..
+11:32:47 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:47 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:47 Delay 1.0 detik..
+11:32:48 Eksekusi Download & Upload FTP..
+11:32:48 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:48 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:48 Delay 1.0 detik..
+11:32:49 Eksekusi Download & Upload FTP..
+11:32:49 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:49 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:49 Delay 1.0 detik..
+11:32:50 Eksekusi Download & Upload FTP..
+11:32:50 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:50 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:50 Delay 1.0 detik..
+11:32:51 Eksekusi Download & Upload FTP..
+11:32:51 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:51 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:51 Delay 1.0 detik..
+11:32:52 Eksekusi Download & Upload FTP..
+11:32:52 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:52 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:52 Delay 1.0 detik..
+11:32:53 Eksekusi Download & Upload FTP..
+11:32:53 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:53 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:53 Delay 1.0 detik..
+11:32:54 Eksekusi Download & Upload FTP..
+11:32:54 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:54 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:54 Delay 1.0 detik..
+11:32:55 Eksekusi Download & Upload FTP..
+11:32:55 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:55 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:55 Delay 1.0 detik..
+11:32:56 Eksekusi Download & Upload FTP..
+11:32:56 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:56 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:56 Delay 1.0 detik..
+11:32:57 Eksekusi Download & Upload FTP..
+11:32:57 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:57 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:57 Delay 1.0 detik..
+11:32:58 Eksekusi Download & Upload FTP..
+11:32:58 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:58 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:58 Delay 1.0 detik..
+11:32:59 Eksekusi Download & Upload FTP..
+11:32:59 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:32:59 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:32:59 Delay 1.0 detik..
+11:33:00 Eksekusi Download & Upload FTP..
+11:33:01 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:01 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:01 Delay 1.0 detik..
+11:33:02 Eksekusi Download & Upload FTP..
+11:33:02 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:02 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:02 Delay 1.0 detik..
+11:33:03 Eksekusi Download & Upload FTP..
+11:33:03 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:03 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:03 Delay 1.0 detik..
+11:33:04 Eksekusi Download & Upload FTP..
+11:33:04 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:04 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:04 Delay 1.0 detik..
+11:33:05 Eksekusi Download & Upload FTP..
+11:33:05 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:05 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:05 Delay 1.0 detik..
+11:33:06 Eksekusi Download & Upload FTP..
+11:33:06 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:06 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:06 Delay 1.0 detik..
+11:33:07 Eksekusi Download & Upload FTP..
+11:33:07 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:07 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:07 Delay 1.0 detik..
+11:33:08 Eksekusi Download & Upload FTP..
+11:33:08 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:08 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:08 Delay 1.0 detik..
+11:33:09 Eksekusi Download & Upload FTP..
+11:33:09 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:09 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:09 Delay 1.0 detik..
+11:33:10 Eksekusi Download & Upload FTP..
+11:33:10 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:10 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:10 Delay 1.0 detik..
+11:33:11 Eksekusi Download & Upload FTP..
+11:33:11 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:11 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:11 Delay 1.0 detik..
+11:33:12 Eksekusi Download & Upload FTP..
+11:33:12 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:12 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:12 Delay 1.0 detik..
+11:33:13 Eksekusi Download & Upload FTP..
+11:33:13 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:13 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:13 Delay 1.0 detik..
+11:33:14 Eksekusi Download & Upload FTP..
+11:33:14 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:14 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:14 Delay 1.0 detik..
+11:33:15 Eksekusi Download & Upload FTP..
+11:33:15 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:15 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:15 Delay 1.0 detik..
+11:33:16 Eksekusi Download & Upload FTP..
+11:33:16 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:16 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:16 Delay 1.0 detik..
+11:33:17 Eksekusi Download & Upload FTP..
+11:33:17 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:17 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:17 Delay 1.0 detik..
+11:33:18 Eksekusi Download & Upload FTP..
+11:33:18 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:18 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:18 Delay 1.0 detik..
+11:33:19 Eksekusi Download & Upload FTP..
+11:33:19 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:19 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:19 Delay 1.0 detik..
+11:33:20 Eksekusi Download & Upload FTP..
+11:33:20 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:20 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:20 Delay 1.0 detik..
+11:33:21 Eksekusi Download & Upload FTP..
+11:33:21 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:21 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:21 Delay 1.0 detik..
+11:33:22 Eksekusi Download & Upload FTP..
+11:33:22 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:22 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:22 Delay 1.0 detik..
+11:33:23 Eksekusi Download & Upload FTP..
+11:33:23 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:23 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:23 Delay 1.0 detik..
+11:33:24 Eksekusi Download & Upload FTP..
+11:33:24 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:24 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:24 Delay 1.0 detik..
+11:33:26 Eksekusi Download & Upload FTP..
+11:33:26 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:26 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:26 Delay 1.0 detik..
+11:33:27 Eksekusi Download & Upload FTP..
+11:33:27 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:27 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:27 Delay 1.0 detik..
+11:33:28 Eksekusi Download & Upload FTP..
+11:33:28 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:28 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:28 Delay 1.0 detik..
+11:33:29 Eksekusi Download & Upload FTP..
+11:33:29 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:29 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:29 Delay 1.0 detik..
+11:33:30 Eksekusi Download & Upload FTP..
+11:33:30 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:30 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:30 Delay 1.0 detik..
+11:33:31 Eksekusi Download & Upload FTP..
+11:33:31 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:31 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:31 Delay 1.0 detik..
+11:33:32 Eksekusi Download & Upload FTP..
+11:33:32 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:32 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:32 Delay 1.0 detik..
+11:33:33 Eksekusi Download & Upload FTP..
+11:33:33 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:33 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:33 Delay 1.0 detik..
+11:33:34 Eksekusi Download & Upload FTP..
+11:33:34 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:34 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:34 Delay 1.0 detik..
+11:33:35 Eksekusi Download & Upload FTP..
+11:33:35 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:35 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:35 Delay 1.0 detik..
+11:33:36 Eksekusi Download & Upload FTP..
+11:33:36 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:36 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:36 Delay 1.0 detik..
+11:33:37 Eksekusi Download & Upload FTP..
+11:33:37 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:37 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:37 Delay 1.0 detik..
+11:33:38 Eksekusi Download & Upload FTP..
+11:33:38 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:38 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:38 Delay 1.0 detik..
+11:33:39 Eksekusi Download & Upload FTP..
+11:33:39 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:39 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:39 Delay 1.0 detik..
+11:33:40 Eksekusi Download & Upload FTP..
+11:33:40 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:40 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:40 Delay 1.0 detik..
+11:33:41 Eksekusi Download & Upload FTP..
+11:33:41 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:41 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:41 Delay 1.0 detik..
+11:33:42 Eksekusi Download & Upload FTP..
+11:33:42 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:42 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:42 Delay 1.0 detik..
+11:33:43 Eksekusi Download & Upload FTP..
+11:33:43 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:43 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:43 Delay 1.0 detik..
+11:33:44 Eksekusi Download & Upload FTP..
+11:33:44 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:44 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:44 Delay 1.0 detik..
+11:33:45 Eksekusi Download & Upload FTP..
+11:33:45 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:45 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:45 Delay 1.0 detik..
+11:33:46 Eksekusi Download & Upload FTP..
+11:33:46 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:46 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:46 Delay 1.0 detik..
+11:33:47 Eksekusi Download & Upload FTP..
+11:33:47 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:47 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:47 Delay 1.0 detik..
+11:33:48 Eksekusi Download & Upload FTP..
+11:33:48 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:48 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:49 Delay 1.0 detik..
+11:33:50 Eksekusi Download & Upload FTP..
+11:33:50 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:50 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:50 Delay 1.0 detik..
+11:33:51 Eksekusi Download & Upload FTP..
+11:33:51 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:51 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:51 Delay 1.0 detik..
+11:33:52 Eksekusi Download & Upload FTP..
+11:33:52 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:52 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:52 Delay 1.0 detik..
+11:33:53 Eksekusi Download & Upload FTP..
+11:33:53 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:53 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:53 Delay 1.0 detik..
+11:33:54 Eksekusi Download & Upload FTP..
+11:33:54 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:54 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:54 Delay 1.0 detik..
+11:33:55 Eksekusi Download & Upload FTP..
+11:33:55 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:55 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:55 Delay 1.0 detik..
+11:33:56 Eksekusi Download & Upload FTP..
+11:33:56 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:56 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:56 Delay 1.0 detik..
+11:33:57 Eksekusi Download & Upload FTP..
+11:33:57 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:57 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:57 Delay 1.0 detik..
+11:33:58 Eksekusi Download & Upload FTP..
+11:33:58 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:58 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:58 Delay 1.0 detik..
+11:33:59 Eksekusi Download & Upload FTP..
+11:33:59 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:33:59 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:33:59 Delay 1.0 detik..
+11:34:00 Eksekusi Download & Upload FTP..
+11:34:00 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:00 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:00 Delay 1.0 detik..
+11:34:01 Eksekusi Download & Upload FTP..
+11:34:01 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:01 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:01 Delay 1.0 detik..
+11:34:02 Eksekusi Download & Upload FTP..
+11:34:02 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:02 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:02 Delay 1.0 detik..
+11:34:03 Eksekusi Download & Upload FTP..
+11:34:03 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:03 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:03 Delay 1.0 detik..
+11:34:04 Eksekusi Download & Upload FTP..
+11:34:04 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:04 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:04 Delay 1.0 detik..
+11:34:05 Eksekusi Download & Upload FTP..
+11:34:05 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:05 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:05 Delay 1.0 detik..
+11:34:06 Eksekusi Download & Upload FTP..
+11:34:06 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:06 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:06 Delay 1.0 detik..
+11:34:07 Eksekusi Download & Upload FTP..
+11:34:07 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:07 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:07 Delay 1.0 detik..
+11:34:08 Eksekusi Download & Upload FTP..
+11:34:08 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:08 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:08 Delay 1.0 detik..
+11:34:09 Eksekusi Download & Upload FTP..
+11:34:09 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:09 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:09 Delay 1.0 detik..
+11:34:10 Eksekusi Download & Upload FTP..
+11:34:10 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:10 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:10 Delay 1.0 detik..
+11:34:11 Eksekusi Download & Upload FTP..
+11:34:11 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:11 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:11 Delay 1.0 detik..
+11:34:12 Eksekusi Download & Upload FTP..
+11:34:12 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:12 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:12 Delay 1.0 detik..
+11:34:13 Eksekusi Download & Upload FTP..
+11:34:13 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:13 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:13 Delay 1.0 detik..
+11:34:14 Eksekusi Download & Upload FTP..
+11:34:14 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:14 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:14 Delay 1.0 detik..
+11:34:15 Eksekusi Download & Upload FTP..
+11:34:15 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:15 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:15 Delay 1.0 detik..
+11:34:17 Eksekusi Download & Upload FTP..
+11:34:17 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:17 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:17 Delay 1.0 detik..
+11:34:18 Eksekusi Download & Upload FTP..
+11:34:18 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:18 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:18 Delay 1.0 detik..
+11:34:19 Eksekusi Download & Upload FTP..
+11:34:19 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:19 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:19 Delay 1.0 detik..
+11:34:20 Eksekusi Download & Upload FTP..
+11:34:20 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:20 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:20 Delay 1.0 detik..
+11:34:21 Eksekusi Download & Upload FTP..
+11:34:21 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:21 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:21 Delay 1.0 detik..
+11:34:22 Eksekusi Download & Upload FTP..
+11:34:22 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:22 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:22 Delay 1.0 detik..
+11:34:23 Eksekusi Download & Upload FTP..
+11:34:23 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:23 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:23 Delay 1.0 detik..
+11:34:24 Eksekusi Download & Upload FTP..
+11:34:24 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:24 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:24 Delay 1.0 detik..
+11:34:25 Eksekusi Download & Upload FTP..
+11:34:25 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:25 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:25 Delay 1.0 detik..
+11:34:26 Eksekusi Download & Upload FTP..
+11:34:26 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:26 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:26 Delay 1.0 detik..
+11:34:27 Eksekusi Download & Upload FTP..
+11:34:27 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:27 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:27 Delay 1.0 detik..
+11:34:28 Eksekusi Download & Upload FTP..
+11:34:28 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:28 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:28 Delay 1.0 detik..
+11:34:29 Eksekusi Download & Upload FTP..
+11:34:29 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:29 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:29 Delay 1.0 detik..
+11:34:30 Eksekusi Download & Upload FTP..
+11:34:30 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:30 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:30 Delay 1.0 detik..
+11:34:31 Eksekusi Download & Upload FTP..
+11:34:31 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:31 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:31 Delay 1.0 detik..
+11:34:32 Eksekusi Download & Upload FTP..
+11:34:32 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:32 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:32 Delay 1.0 detik..
+11:34:33 Eksekusi Download & Upload FTP..
+11:34:33 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:33 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:33 Delay 1.0 detik..
+11:34:34 Eksekusi Download & Upload FTP..
+11:34:34 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:34 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:34 Delay 1.0 detik..
+11:34:35 Eksekusi Download & Upload FTP..
+11:34:35 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:35 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:35 Delay 1.0 detik..
+11:34:36 Eksekusi Download & Upload FTP..
+11:34:36 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:36 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:36 Delay 1.0 detik..
+11:34:37 Eksekusi Download & Upload FTP..
+11:34:37 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:37 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:37 Delay 1.0 detik..
+11:34:38 Eksekusi Download & Upload FTP..
+11:34:38 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:38 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:38 Delay 1.0 detik..
+11:34:39 Eksekusi Download & Upload FTP..
+11:34:39 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:39 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:39 Delay 1.0 detik..
+11:34:40 Eksekusi Download & Upload FTP..
+11:34:40 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:40 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:40 Delay 1.0 detik..
+11:34:41 Eksekusi Download & Upload FTP..
+11:34:41 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:41 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:41 Delay 1.0 detik..
+11:34:42 Eksekusi Download & Upload FTP..
+11:34:42 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:42 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:42 Delay 1.0 detik..
+11:34:43 Eksekusi Download & Upload FTP..
+11:34:43 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:43 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:43 Delay 1.0 detik..
+11:34:44 Eksekusi Download & Upload FTP..
+11:34:45 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:45 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:45 Delay 1.0 detik..
+11:34:46 Eksekusi Download & Upload FTP..
+11:34:46 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:46 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:46 Delay 1.0 detik..
+11:34:47 Eksekusi Download & Upload FTP..
+11:34:47 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:47 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:47 Delay 1.0 detik..
+11:34:48 Eksekusi Download & Upload FTP..
+11:34:48 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:48 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:48 Delay 1.0 detik..
+11:34:49 Eksekusi Download & Upload FTP..
+11:34:49 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:49 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:49 Delay 1.0 detik..
+11:34:50 Eksekusi Download & Upload FTP..
+11:34:50 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:50 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:50 Delay 1.0 detik..
+11:34:51 Eksekusi Download & Upload FTP..
+11:34:51 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:51 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:51 Delay 1.0 detik..
+11:34:52 Eksekusi Download & Upload FTP..
+11:34:52 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:52 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:52 Delay 1.0 detik..
+11:34:53 Eksekusi Download & Upload FTP..
+11:34:53 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:53 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:53 Delay 1.0 detik..
+11:34:54 Eksekusi Download & Upload FTP..
+11:34:54 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:54 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:54 Delay 1.0 detik..
+11:34:55 Eksekusi Download & Upload FTP..
+11:34:55 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:55 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:55 Delay 1.0 detik..
+11:34:56 Eksekusi Download & Upload FTP..
+11:34:56 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:56 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:56 Delay 1.0 detik..
+11:34:57 Eksekusi Download & Upload FTP..
+11:34:57 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:57 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:57 Delay 1.0 detik..
+11:34:58 Eksekusi Download & Upload FTP..
+11:34:58 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:58 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:58 Delay 1.0 detik..
+11:34:59 Eksekusi Download & Upload FTP..
+11:34:59 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:34:59 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:34:59 Delay 1.0 detik..
+11:35:00 Eksekusi Download & Upload FTP..
+11:35:00 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:00 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:00 Delay 1.0 detik..
+11:35:01 Eksekusi Download & Upload FTP..
+11:35:01 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:01 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:01 Delay 1.0 detik..
+11:35:02 Eksekusi Download & Upload FTP..
+11:35:02 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:02 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:02 Delay 1.0 detik..
+11:35:03 Eksekusi Download & Upload FTP..
+11:35:03 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:03 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:03 Delay 1.0 detik..
+11:35:04 Eksekusi Download & Upload FTP..
+11:35:04 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:04 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:04 Delay 1.0 detik..
+11:35:05 Eksekusi Download & Upload FTP..
+11:35:05 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:05 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:05 Delay 1.0 detik..
+11:35:06 Eksekusi Download & Upload FTP..
+11:35:06 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:06 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:06 Delay 1.0 detik..
+11:35:07 Eksekusi Download & Upload FTP..
+11:35:07 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:07 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:07 Delay 1.0 detik..
+11:35:08 Eksekusi Download & Upload FTP..
+11:35:08 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:08 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:08 Delay 1.0 detik..
+11:35:09 Eksekusi Download & Upload FTP..
+11:35:09 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:09 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:09 Delay 1.0 detik..
+11:35:10 Eksekusi Download & Upload FTP..
+11:35:10 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:10 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:10 Delay 1.0 detik..
+11:35:11 Eksekusi Download & Upload FTP..
+11:35:11 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:11 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:11 Delay 1.0 detik..
+11:35:13 Eksekusi Download & Upload FTP..
+11:35:13 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:13 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:13 Delay 1.0 detik..
+11:35:14 Eksekusi Download & Upload FTP..
+11:35:14 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:14 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:14 Delay 1.0 detik..
+11:35:15 Eksekusi Download & Upload FTP..
+11:35:15 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:15 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:15 Delay 1.0 detik..
+11:35:16 Eksekusi Download & Upload FTP..
+11:35:16 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:16 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:16 Delay 1.0 detik..
+11:35:17 Eksekusi Download & Upload FTP..
+11:35:17 Error dwonloading File from kps01/txt/input
+Network is unreachable: connect
+11:35:17 Error File uploading File from kps01/txt/output
+Network is unreachable: connect
+11:35:17 Delay 1.0 detik..

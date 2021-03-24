@@ -1,0 +1,272 @@
+07:15:19 Loading Configuration...
+07:15:19 Loading Configuration Selesai !
+07:15:27 Inisiasi aplikasi...
+07:15:27 Testing koneksi ke server...
+07:15:41 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /
+
+07:15:41 Aplikasi siap digunakan...
+07:15:41 Testing koneksi ke server Selesai 
+07:15:41 Delay 1.0 detik..
+07:15:42 Eksekusi Download & Upload FTP..
+07:15:49 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:16:00 Delay 1.0 detik..
+07:16:01 Eksekusi Download & Upload FTP..
+07:16:04 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:16:09 Delay 1.0 detik..
+07:16:10 Eksekusi Download & Upload FTP..
+07:16:18 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:16:22 Delay 1.0 detik..
+07:16:23 Eksekusi Download & Upload FTP..
+07:16:31 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:18:21 Loading Configuration...
+07:18:21 Loading Configuration Selesai !
+07:18:25 Inisiasi aplikasi...
+07:18:25 Testing koneksi ke server...
+07:18:34 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /
+
+07:18:34 Aplikasi siap digunakan...
+07:18:34 Testing koneksi ke server Selesai 
+07:18:34 Delay 1.0 detik..
+07:18:35 Eksekusi Download & Upload FTP..
+07:18:45 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:18:52 Delay 1.0 detik..
+07:18:53 Eksekusi Download & Upload FTP..
+07:19:01 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:19:04 Delay 1.0 detik..
+07:19:05 Eksekusi Download & Upload FTP..
+07:19:07 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:19:18 Delay 1.0 detik..
+07:19:19 Eksekusi Download & Upload FTP..
+07:19:22 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:19:28 Delay 1.0 detik..
+07:19:29 Eksekusi Download & Upload FTP..
+07:19:40 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:19:45 Delay 1.0 detik..
+07:19:46 Eksekusi Download & Upload FTP..
+07:19:57 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:20:03 Delay 1.0 detik..
+07:20:04 Eksekusi Download & Upload FTP..
+07:20:17 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:20:24 Delay 1.0 detik..
+07:20:25 Eksekusi Download & Upload FTP..
+07:20:36 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:20:39 Delay 1.0 detik..
+07:20:40 Eksekusi Download & Upload FTP..
+07:20:47 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:20:53 Delay 1.0 detik..
+07:20:54 Eksekusi Download & Upload FTP..
+07:20:58 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:21:03 Delay 1.0 detik..
+07:21:04 Eksekusi Download & Upload FTP..
+07:21:10 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:21:18 Delay 1.0 detik..
+07:21:19 Eksekusi Download & Upload FTP..
+07:21:21 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:21:26 Delay 1.0 detik..
+07:21:27 Eksekusi Download & Upload FTP..
+07:21:33 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:21:42 Delay 1.0 detik..
+07:21:43 Eksekusi Download & Upload FTP..
+07:21:56 Error dwonloading File from api/txt/input
+Permission denied: recv failed
+07:22:08 Loading Configuration...
+07:22:08 Loading Configuration Selesai !
+07:22:18 Inisiasi aplikasi...
+07:22:18 Testing koneksi ke server...
+07:22:26 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+07:22:26 Aplikasi siap digunakan...
+07:22:26 Testing koneksi ke server Selesai 
+07:22:26 Delay 1.0 detik..
+07:22:27 Eksekusi Download & Upload FTP..
+07:22:31 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:22:40 Delay 1.0 detik..
+07:22:41 Eksekusi Download & Upload FTP..
+07:22:48 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:22:50 Delay 1.0 detik..
+07:22:51 Eksekusi Download & Upload FTP..
+07:22:55 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:26:51 Loading Configuration...
+07:26:51 Loading Configuration Selesai !
+07:27:07 Inisiasi aplikasi...
+07:27:07 Testing koneksi ke server...
+07:27:12 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+07:27:12 Aplikasi siap digunakan...
+07:27:12 Testing koneksi ke server Selesai 
+07:27:12 Delay 1.0 detik..
+07:27:13 Eksekusi Download & Upload FTP..
+07:27:19 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:27:26 Delay 1.0 detik..
+07:27:27 Eksekusi Download & Upload FTP..
+07:27:33 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:27:42 Delay 1.0 detik..
+07:27:43 Eksekusi Download & Upload FTP..
+07:27:47 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:27:51 Delay 1.0 detik..
+07:27:52 Eksekusi Download & Upload FTP..
+07:27:55 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:28:00 Delay 1.0 detik..
+07:28:01 Eksekusi Download & Upload FTP..
+07:28:17 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:28:20 Delay 1.0 detik..
+07:28:21 Eksekusi Download & Upload FTP..
+07:28:24 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:28:37 Delay 1.0 detik..
+07:28:38 Eksekusi Download & Upload FTP..
+07:28:49 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:28:58 Delay 1.0 detik..
+07:28:59 Eksekusi Download & Upload FTP..
+07:29:10 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:29:24 Delay 1.0 detik..
+07:29:25 Eksekusi Download & Upload FTP..
+07:29:30 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:29:33 Delay 1.0 detik..
+07:29:34 Eksekusi Download & Upload FTP..
+07:29:43 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:29:49 Delay 1.0 detik..
+07:29:50 Eksekusi Download & Upload FTP..
+07:29:54 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:30:00 Delay 1.0 detik..
+07:30:01 Eksekusi Download & Upload FTP..
+07:30:09 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:30:15 Delay 1.0 detik..
+07:30:16 Eksekusi Download & Upload FTP..
+07:30:48 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:30:52 Delay 1.0 detik..
+07:30:53 Eksekusi Download & Upload FTP..
+07:30:55 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:31:09 Delay 1.0 detik..
+07:31:10 Eksekusi Download & Upload FTP..
+07:31:29 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:31:34 Delay 1.0 detik..
+07:31:35 Eksekusi Download & Upload FTP..
+07:31:51 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:31:56 Delay 1.0 detik..
+07:31:57 Eksekusi Download & Upload FTP..
+07:31:59 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:32:16 Delay 1.0 detik..
+07:32:17 Eksekusi Download & Upload FTP..
+07:32:23 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:32:30 Delay 1.0 detik..
+07:32:31 Eksekusi Download & Upload FTP..
+07:32:44 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:32:49 Delay 1.0 detik..
+07:32:50 Eksekusi Download & Upload FTP..
+07:32:55 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:33:11 Delay 1.0 detik..
+07:33:12 Eksekusi Download & Upload FTP..
+07:33:18 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:33:21 Delay 1.0 detik..
+07:33:22 Eksekusi Download & Upload FTP..
+07:33:30 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:33:38 Delay 1.0 detik..
+07:33:39 Eksekusi Download & Upload FTP..
+07:33:50 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:33:54 Delay 1.0 detik..
+07:33:55 Eksekusi Download & Upload FTP..
+07:33:57 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:34:01 Delay 1.0 detik..
+07:34:02 Eksekusi Download & Upload FTP..
+07:34:05 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:34:14 Delay 1.0 detik..
+07:34:15 Eksekusi Download & Upload FTP..
+07:34:19 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:34:24 Delay 1.0 detik..
+07:34:26 Eksekusi Download & Upload FTP..
+07:34:42 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:34:44 Delay 1.0 detik..
+07:34:45 Eksekusi Download & Upload FTP..
+07:34:50 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:35:02 Delay 1.0 detik..
+07:35:03 Eksekusi Download & Upload FTP..
+07:35:17 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+07:35:31 Delay 1.0 detik..
+07:35:32 Eksekusi Download & Upload FTP..
+07:35:44 Loading Configuration...
+07:35:44 Loading Configuration Selesai !
+07:35:46 Inisiasi aplikasi...
+07:35:46 Testing koneksi ke server...
+07:35:54 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+07:35:54 Aplikasi siap digunakan...
+07:35:54 Testing koneksi ke server Selesai 
+07:35:54 Delay 1.0 detik..
+07:35:55 Eksekusi Download & Upload FTP..
+07:36:24 Delay 1.0 detik..
+07:36:25 Eksekusi Download & Upload FTP..
+07:36:48 Delay 1.0 detik..
+07:36:49 Eksekusi Download & Upload FTP..
+07:37:18 Delay 1.0 detik..
+07:37:19 Eksekusi Download & Upload FTP..
+07:38:17 Delay 1.0 detik..
+07:38:18 Eksekusi Download & Upload FTP..
+07:38:51 Delay 1.0 detik..
+07:38:52 Eksekusi Download & Upload FTP..
+07:39:12 Delay 1.0 detik..
+07:39:13 Eksekusi Download & Upload FTP..
+07:39:24 Delay 1.0 detik..
+07:39:25 Eksekusi Download & Upload FTP..
+07:39:45 Delay 1.0 detik..
+07:39:46 Eksekusi Download & Upload FTP..
+07:40:15 Delay 1.0 detik..
+07:40:17 Eksekusi Download & Upload FTP..

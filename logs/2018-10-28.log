@@ -1,0 +1,1120 @@
+09:51:18 Loading Configuration...
+09:51:18 Loading Configuration Selesai !
+09:51:20 Inisiasi aplikasi...
+09:51:20 Testing koneksi ke server...
+09:51:22 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+09:51:22 Aplikasi siap digunakan...
+09:51:22 Testing koneksi ke server Selesai 
+09:51:22 Delay 1.0 detik..
+09:51:23 Eksekusi Download & Upload FTP..
+09:51:42 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+09:51:54 Delay 1.0 detik..
+09:51:55 Eksekusi Download & Upload FTP..
+09:52:21 Error dwonloading File from api1/txt/input
+Permission denied: recv failed
+09:53:11 Loading Configuration...
+09:53:11 Loading Configuration Selesai !
+09:53:15 Inisiasi aplikasi...
+09:53:15 Testing koneksi ke server...
+09:55:01 Loading Configuration...
+09:55:01 Loading Configuration Selesai !
+09:55:04 Inisiasi aplikasi...
+09:55:04 Testing koneksi ke server...
+09:55:16 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+09:55:17 Aplikasi siap digunakan...
+09:55:17 Testing koneksi ke server Selesai 
+09:55:17 Delay 1.0 detik..
+09:55:18 Eksekusi Download & Upload FTP..
+09:55:25 Delay 1.0 detik..
+09:55:26 Eksekusi Download & Upload FTP..
+09:55:34 Delay 1.0 detik..
+09:55:35 Eksekusi Download & Upload FTP..
+09:55:37 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+09:55:37 Aplikasi siap digunakan...
+09:55:37 Testing koneksi ke server Selesai 
+09:55:37 Delay 1.0 detik..
+09:55:37 Aplikasi berhenti.
+09:55:37 Inisiasi aplikasi...
+09:55:37 Testing koneksi ke server...
+09:55:38 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+09:55:38 Aplikasi siap digunakan...
+09:55:38 Testing koneksi ke server Selesai 
+09:55:38 Delay 1.0 detik..
+09:55:38 Eksekusi Download & Upload FTP..
+09:55:38 Aplikasi berhenti.
+09:55:38 Inisiasi aplikasi...
+09:55:38 Testing koneksi ke server...
+09:55:39 Eksekusi Download & Upload FTP..
+09:55:39 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+09:55:39 Aplikasi siap digunakan...
+09:55:39 Testing koneksi ke server Selesai 
+09:55:39 Delay 1.0 detik..
+09:55:39 Aplikasi berhenti.
+09:55:43 Delay 1.0 detik..
+09:55:44 Eksekusi Download & Upload FTP..
+09:55:46 Delay 1.0 detik..
+09:55:47 Eksekusi Download & Upload FTP..
+09:56:19 Delay 1.0 detik..
+09:56:20 Eksekusi Download & Upload FTP..
+09:56:43 Delay 1.0 detik..
+09:56:44 Eksekusi Download & Upload FTP..
+09:56:52 Delay 1.0 detik..
+09:56:53 Eksekusi Download & Upload FTP..
+10:00:35 Delay 1.0 detik..
+10:00:36 Eksekusi Download & Upload FTP..
+10:04:21 Delay 1.0 detik..
+10:04:22 Eksekusi Download & Upload FTP..
+10:04:33 Delay 1.0 detik..
+10:04:34 Eksekusi Download & Upload FTP..
+10:04:49 Delay 1.0 detik..
+10:04:50 Eksekusi Download & Upload FTP..
+10:05:18 Delay 1.0 detik..
+10:05:19 Eksekusi Download & Upload FTP..
+10:05:21 Delay 1.0 detik..
+10:05:22 Eksekusi Download & Upload FTP..
+10:05:35 Delay 1.0 detik..
+10:05:36 Eksekusi Download & Upload FTP..
+10:05:41 Delay 1.0 detik..
+10:05:42 Eksekusi Download & Upload FTP..
+10:05:56 Delay 1.0 detik..
+10:05:57 Eksekusi Download & Upload FTP..
+10:05:59 Delay 1.0 detik..
+10:06:00 Eksekusi Download & Upload FTP..
+10:06:02 Delay 1.0 detik..
+10:06:03 Eksekusi Download & Upload FTP..
+10:06:06 Delay 1.0 detik..
+10:06:07 Eksekusi Download & Upload FTP..
+10:06:10 Delay 1.0 detik..
+10:06:11 Eksekusi Download & Upload FTP..
+10:06:19 Delay 1.0 detik..
+10:06:20 Eksekusi Download & Upload FTP..
+10:06:29 Delay 1.0 detik..
+10:06:30 Eksekusi Download & Upload FTP..
+10:06:34 Delay 1.0 detik..
+10:06:35 Eksekusi Download & Upload FTP..
+10:06:38 Delay 1.0 detik..
+10:06:39 Eksekusi Download & Upload FTP..
+10:06:41 Delay 1.0 detik..
+10:06:42 Eksekusi Download & Upload FTP..
+10:06:43 Delay 1.0 detik..
+10:06:44 Eksekusi Download & Upload FTP..
+10:06:46 Delay 1.0 detik..
+10:06:47 Eksekusi Download & Upload FTP..
+10:06:57 Delay 1.0 detik..
+10:06:58 Eksekusi Download & Upload FTP..
+10:07:05 Delay 1.0 detik..
+10:07:06 Eksekusi Download & Upload FTP..
+10:07:08 Delay 1.0 detik..
+10:07:09 Eksekusi Download & Upload FTP..
+10:07:10 Delay 1.0 detik..
+10:07:11 Eksekusi Download & Upload FTP..
+10:07:13 Delay 1.0 detik..
+10:07:14 Eksekusi Download & Upload FTP..
+10:07:16 Delay 1.0 detik..
+10:07:17 Eksekusi Download & Upload FTP..
+10:07:18 Delay 1.0 detik..
+10:07:19 Eksekusi Download & Upload FTP..
+10:07:21 Delay 1.0 detik..
+10:07:22 Eksekusi Download & Upload FTP..
+10:07:23 Delay 1.0 detik..
+10:07:24 Eksekusi Download & Upload FTP..
+10:07:26 Delay 1.0 detik..
+10:07:27 Eksekusi Download & Upload FTP..
+10:25:58 Aplikasi berhenti.
+10:25:59 Inisiasi aplikasi...
+10:25:59 Testing koneksi ke server...
+10:26:17 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+10:26:17 Aplikasi siap digunakan...
+10:26:17 Testing koneksi ke server Selesai 
+10:26:17 Delay 1.0 detik..
+10:26:17 Aplikasi berhenti.
+10:26:18 Eksekusi Download & Upload FTP..
+10:28:21 Loading Configuration...
+10:28:21 Loading Configuration Selesai !
+10:28:25 Inisiasi aplikasi...
+10:28:25 Testing koneksi ke server...
+10:29:04 Loading Configuration...
+10:29:04 Loading Configuration Selesai !
+10:29:08 Inisiasi aplikasi...
+10:29:08 Testing koneksi ke server...
+10:29:09 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+10:29:09 Aplikasi siap digunakan...
+10:29:09 Testing koneksi ke server Selesai 
+10:29:09 Delay 1.0 detik..
+10:29:09 Aplikasi berhenti.
+10:29:10 Eksekusi Download & Upload FTP..
+10:30:07 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+10:30:07 Aplikasi siap digunakan...
+10:30:07 Testing koneksi ke server Selesai 
+10:30:07 Aplikasi berhenti.
+10:30:07 Delay 1.0 detik..
+10:32:06 Loading Configuration...
+10:32:06 Loading Configuration Selesai !
+10:32:08 Inisiasi aplikasi...
+10:32:08 Testing koneksi ke server...
+10:32:10 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+10:32:10 Aplikasi siap digunakan...
+10:32:10 Testing koneksi ke server Selesai 
+10:32:10 Delay 1.0 detik..
+10:32:11 Eksekusi Download & Upload FTP..
+10:32:26 Delay 1.0 detik..
+10:32:27 Eksekusi Download & Upload FTP..
+10:34:26 Delay 1.0 detik..
+10:34:27 Eksekusi Download & Upload FTP..
+10:34:28 Downloading File 28.txt from FTP Server --> 178.128.125.105/api1/txt/input/28.txt
+10:34:28 Success File downloaded into api/txt/input/28.txt
+10:34:28 Deleting File 28.txt from FTP Server --> 178.128.125.105/api1/txt/input/28.txt
+10:34:28 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/28.txt
+10:34:29 Delay 1.0 detik..
+10:34:30 Eksekusi Download & Upload FTP..
+10:34:32 Delay 1.0 detik..
+10:34:33 Eksekusi Download & Upload FTP..
+10:34:59 Uploading File 28.TXT from lokal Server --> api/txt/output/28.TXT
+10:35:00 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/28.TXT
+10:35:00 Deleting File 28.TXT from local DIR --> api/txt/output/28.TXT
+10:35:00 Success File deleted from local DIR --> api/txt/output/28.TXT
+10:35:00 Delay 1.0 detik..
+10:35:01 Eksekusi Download & Upload FTP..
+10:37:41 Downloading File 29.txt from FTP Server --> 178.128.125.105/api1/txt/input/29.txt
+10:38:19 Success File downloaded into api/txt/input/29.txt
+10:38:19 Deleting File 29.txt from FTP Server --> 178.128.125.105/api1/txt/input/29.txt
+10:38:19 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/29.txt
+10:38:21 Delay 1.0 detik..
+10:38:22 Eksekusi Download & Upload FTP..
+10:38:24 Delay 1.0 detik..
+10:38:25 Eksekusi Download & Upload FTP..
+10:38:44 Uploading File 29.TXT from lokal Server --> api/txt/output/29.TXT
+10:38:51 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/29.TXT
+10:38:51 Deleting File 29.TXT from local DIR --> api/txt/output/29.TXT
+10:38:51 Success File deleted from local DIR --> api/txt/output/29.TXT
+10:38:51 Delay 1.0 detik..
+10:38:52 Eksekusi Download & Upload FTP..
+10:38:56 Delay 1.0 detik..
+10:38:57 Eksekusi Download & Upload FTP..
+10:38:59 Delay 1.0 detik..
+10:39:00 Eksekusi Download & Upload FTP..
+10:39:02 Delay 1.0 detik..
+10:39:03 Eksekusi Download & Upload FTP..
+10:39:05 Delay 1.0 detik..
+10:39:06 Eksekusi Download & Upload FTP..
+10:39:32 Delay 1.0 detik..
+10:39:33 Eksekusi Download & Upload FTP..
+10:40:09 Delay 1.0 detik..
+10:40:10 Eksekusi Download & Upload FTP..
+10:40:12 Delay 1.0 detik..
+10:40:13 Eksekusi Download & Upload FTP..
+10:40:40 Delay 1.0 detik..
+10:40:41 Eksekusi Download & Upload FTP..
+10:40:49 Delay 1.0 detik..
+10:40:50 Eksekusi Download & Upload FTP..
+10:40:52 Delay 1.0 detik..
+10:40:53 Eksekusi Download & Upload FTP..
+10:41:05 Delay 1.0 detik..
+10:41:06 Eksekusi Download & Upload FTP..
+10:41:19 Downloading File 30.txt from FTP Server --> 178.128.125.105/api1/txt/input/30.txt
+10:41:19 Success File downloaded into api/txt/input/30.txt
+10:41:19 Deleting File 30.txt from FTP Server --> 178.128.125.105/api1/txt/input/30.txt
+10:41:19 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/30.txt
+10:41:21 Delay 1.0 detik..
+10:41:22 Eksekusi Download & Upload FTP..
+10:41:29 Delay 1.0 detik..
+10:41:30 Eksekusi Download & Upload FTP..
+10:47:42 Aplikasi berhenti.
+10:47:44 Inisiasi aplikasi...
+10:47:44 Testing koneksi ke server...
+10:48:08 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+10:48:08 Aplikasi siap digunakan...
+10:48:08 Testing koneksi ke server Selesai 
+10:48:08 Delay 1.0 detik..
+10:48:09 Eksekusi Download & Upload FTP..
+10:48:16 Downloading File 31.txt from FTP Server --> 178.128.125.105/api1/txt/input/31.txt
+10:48:17 Success File downloaded into api/txt/input/31.txt
+10:48:17 Deleting File 31.txt from FTP Server --> 178.128.125.105/api1/txt/input/31.txt
+10:48:17 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/31.txt
+10:48:18 Uploading File 30.TXT from lokal Server --> api/txt/output/30.TXT
+10:48:19 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/30.TXT
+10:48:19 Deleting File 30.TXT from local DIR --> api/txt/output/30.TXT
+10:48:19 Success File deleted from local DIR --> api/txt/output/30.TXT
+10:48:19 Delay 1.0 detik..
+10:48:20 Eksekusi Download & Upload FTP..
+10:48:28 Delay 1.0 detik..
+10:48:29 Eksekusi Download & Upload FTP..
+10:48:36 Delay 1.0 detik..
+10:48:37 Eksekusi Download & Upload FTP..
+10:48:39 Delay 1.0 detik..
+10:48:40 Eksekusi Download & Upload FTP..
+10:49:31 Delay 1.0 detik..
+10:49:32 Eksekusi Download & Upload FTP..
+10:49:40 Uploading File 31.TXT from lokal Server --> api/txt/output/31.TXT
+10:49:40 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/31.TXT
+10:49:40 Deleting File 31.TXT from local DIR --> api/txt/output/31.TXT
+10:49:40 Success File deleted from local DIR --> api/txt/output/31.TXT
+10:49:41 Delay 1.0 detik..
+10:49:42 Eksekusi Download & Upload FTP..
+10:49:51 Delay 1.0 detik..
+10:49:52 Eksekusi Download & Upload FTP..
+10:49:54 Delay 1.0 detik..
+10:49:55 Eksekusi Download & Upload FTP..
+10:49:57 Delay 1.0 detik..
+10:49:58 Eksekusi Download & Upload FTP..
+10:50:11 Downloading File 32.txt from FTP Server --> 178.128.125.105/api1/txt/input/32.txt
+10:50:11 Success File downloaded into api/txt/input/32.txt
+10:50:11 Deleting File 32.txt from FTP Server --> 178.128.125.105/api1/txt/input/32.txt
+10:50:11 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/32.txt
+10:50:26 Delay 1.0 detik..
+10:50:27 Eksekusi Download & Upload FTP..
+10:50:46 Uploading File 32.TXT from lokal Server --> api/txt/output/32.TXT
+10:50:47 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/32.TXT
+10:50:47 Deleting File 32.TXT from local DIR --> api/txt/output/32.TXT
+10:50:47 Success File deleted from local DIR --> api/txt/output/32.TXT
+10:50:47 Delay 1.0 detik..
+10:50:48 Eksekusi Download & Upload FTP..
+10:50:50 Delay 1.0 detik..
+10:50:51 Eksekusi Download & Upload FTP..
+10:50:54 Delay 1.0 detik..
+10:50:55 Eksekusi Download & Upload FTP..
+10:51:09 Delay 1.0 detik..
+10:51:10 Eksekusi Download & Upload FTP..
+10:51:21 Delay 1.0 detik..
+10:51:22 Eksekusi Download & Upload FTP..
+10:57:48 Aplikasi berhenti.
+10:57:50 Inisiasi aplikasi...
+10:57:50 Testing koneksi ke server...
+10:58:36 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+10:58:36 Aplikasi siap digunakan...
+10:58:36 Testing koneksi ke server Selesai 
+10:58:36 Delay 1.0 detik..
+10:58:37 Loading Configuration...
+10:58:37 Loading Configuration Selesai !
+10:58:39 Inisiasi aplikasi...
+10:58:39 Testing koneksi ke server...
+10:58:50 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+10:58:50 Aplikasi siap digunakan...
+10:58:50 Testing koneksi ke server Selesai 
+10:58:50 Delay 1.0 detik..
+10:58:51 Eksekusi Download & Upload FTP..
+10:59:42 Downloading File 33.txt from FTP Server --> 178.128.125.105/api1/txt/input/33.txt
+10:59:43 Success File downloaded into api/txt/input/33.txt
+10:59:43 Deleting File 33.txt from FTP Server --> 178.128.125.105/api1/txt/input/33.txt
+10:59:43 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/33.txt
+10:59:43 Downloading File 34.txt from FTP Server --> 178.128.125.105/api1/txt/input/34.txt
+10:59:43 Success File downloaded into api/txt/input/34.txt
+10:59:43 Deleting File 34.txt from FTP Server --> 178.128.125.105/api1/txt/input/34.txt
+10:59:43 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/34.txt
+10:59:43 Downloading File 35.txt from FTP Server --> 178.128.125.105/api1/txt/input/35.txt
+10:59:44 Success File downloaded into api/txt/input/35.txt
+10:59:44 Deleting File 35.txt from FTP Server --> 178.128.125.105/api1/txt/input/35.txt
+10:59:44 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/35.txt
+10:59:55 Delay 1.0 detik..
+10:59:56 Eksekusi Download & Upload FTP..
+11:00:28 Downloading File 36.txt from FTP Server --> 178.128.125.105/api1/txt/input/36.txt
+11:00:40 Success File downloaded into api/txt/input/36.txt
+11:00:40 Deleting File 36.txt from FTP Server --> 178.128.125.105/api1/txt/input/36.txt
+11:00:40 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/36.txt
+11:00:53 Uploading File 33.TXT from lokal Server --> api/txt/output/33.TXT
+11:00:54 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/33.TXT
+11:00:54 Deleting File 33.TXT from local DIR --> api/txt/output/33.TXT
+11:00:54 Success File deleted from local DIR --> api/txt/output/33.TXT
+11:00:54 Uploading File 34.TXT from lokal Server --> api/txt/output/34.TXT
+11:00:59 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/34.TXT
+11:00:59 Deleting File 34.TXT from local DIR --> api/txt/output/34.TXT
+11:00:59 Success File deleted from local DIR --> api/txt/output/34.TXT
+11:00:59 Uploading File 35.TXT from lokal Server --> api/txt/output/35.TXT
+11:01:06 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/35.TXT
+11:01:06 Deleting File 35.TXT from local DIR --> api/txt/output/35.TXT
+11:01:06 Success File deleted from local DIR --> api/txt/output/35.TXT
+11:01:06 Uploading File 36.TXT from lokal Server --> api/txt/output/36.TXT
+11:01:07 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/36.TXT
+11:01:07 Deleting File 36.TXT from local DIR --> api/txt/output/36.TXT
+11:01:07 Success File deleted from local DIR --> api/txt/output/36.TXT
+11:01:07 Delay 1.0 detik..
+11:01:08 Eksekusi Download & Upload FTP..
+11:01:09 Downloading File 37.txt from FTP Server --> 178.128.125.105/api1/txt/input/37.txt
+11:01:10 Success File downloaded into api/txt/input/37.txt
+11:01:10 Deleting File 37.txt from FTP Server --> 178.128.125.105/api1/txt/input/37.txt
+11:01:10 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/37.txt
+11:01:11 Delay 1.0 detik..
+11:01:12 Eksekusi Download & Upload FTP..
+11:01:13 Uploading File 37.TXT from lokal Server --> api/txt/output/37.TXT
+11:01:14 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/37.TXT
+11:01:14 Deleting File 37.TXT from local DIR --> api/txt/output/37.TXT
+11:01:14 Success File deleted from local DIR --> api/txt/output/37.TXT
+11:01:14 Delay 1.0 detik..
+11:01:15 Eksekusi Download & Upload FTP..
+11:01:55 Delay 1.0 detik..
+11:01:56 Eksekusi Download & Upload FTP..
+11:02:38 Delay 1.0 detik..
+11:02:39 Eksekusi Download & Upload FTP..
+11:02:47 Delay 1.0 detik..
+11:02:48 Eksekusi Download & Upload FTP..
+11:02:56 Delay 1.0 detik..
+11:02:57 Eksekusi Download & Upload FTP..
+11:02:59 Delay 1.0 detik..
+11:03:00 Eksekusi Download & Upload FTP..
+11:03:08 Delay 1.0 detik..
+11:03:09 Eksekusi Download & Upload FTP..
+11:03:11 Delay 1.0 detik..
+11:03:12 Eksekusi Download & Upload FTP..
+11:03:13 Delay 1.0 detik..
+11:03:14 Eksekusi Download & Upload FTP..
+11:05:33 Delay 1.0 detik..
+11:05:34 Eksekusi Download & Upload FTP..
+11:06:25 Delay 1.0 detik..
+11:06:26 Eksekusi Download & Upload FTP..
+11:06:41 Delay 1.0 detik..
+11:06:42 Eksekusi Download & Upload FTP..
+11:06:43 Downloading File 38.txt from FTP Server --> 178.128.125.105/api1/txt/input/38.txt
+11:06:44 Success File downloaded into api/txt/input/38.txt
+11:06:44 Deleting File 38.txt from FTP Server --> 178.128.125.105/api1/txt/input/38.txt
+11:06:44 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/38.txt
+11:06:45 Uploading File 38.TXT from lokal Server --> api/txt/output/38.TXT
+11:06:46 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/38.TXT
+11:06:46 Deleting File 38.TXT from local DIR --> api/txt/output/38.TXT
+11:06:46 Success File deleted from local DIR --> api/txt/output/38.TXT
+11:06:46 Delay 1.0 detik..
+11:06:47 Eksekusi Download & Upload FTP..
+11:06:56 Delay 1.0 detik..
+11:06:57 Eksekusi Download & Upload FTP..
+11:07:04 Delay 1.0 detik..
+11:07:05 Eksekusi Download & Upload FTP..
+11:07:51 Delay 1.0 detik..
+11:07:52 Eksekusi Download & Upload FTP..
+11:08:02 Delay 1.0 detik..
+11:08:03 Eksekusi Download & Upload FTP..
+11:08:13 Delay 1.0 detik..
+11:08:14 Eksekusi Download & Upload FTP..
+11:08:28 Delay 1.0 detik..
+11:08:29 Eksekusi Download & Upload FTP..
+11:08:42 Downloading File 39.txt from FTP Server --> 178.128.125.105/api1/txt/input/39.txt
+11:09:27 Success File downloaded into api/txt/input/39.txt
+11:09:27 Deleting File 39.txt from FTP Server --> 178.128.125.105/api1/txt/input/39.txt
+11:09:27 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/39.txt
+11:09:39 Uploading File 39.TXT from lokal Server --> api/txt/output/39.TXT
+11:09:40 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/39.TXT
+11:09:40 Deleting File 39.TXT from local DIR --> api/txt/output/39.TXT
+11:09:40 Success File deleted from local DIR --> api/txt/output/39.TXT
+11:09:50 Delay 1.0 detik..
+11:09:51 Eksekusi Download & Upload FTP..
+11:09:59 Delay 1.0 detik..
+11:10:00 Eksekusi Download & Upload FTP..
+11:10:02 Delay 1.0 detik..
+11:10:03 Eksekusi Download & Upload FTP..
+11:10:17 Delay 1.0 detik..
+11:10:18 Eksekusi Download & Upload FTP..
+11:10:28 Delay 1.0 detik..
+11:10:29 Eksekusi Download & Upload FTP..
+11:10:42 Delay 1.0 detik..
+11:10:43 Eksekusi Download & Upload FTP..
+11:10:46 Delay 1.0 detik..
+11:10:47 Eksekusi Download & Upload FTP..
+11:11:22 Delay 1.0 detik..
+11:11:23 Eksekusi Download & Upload FTP..
+11:11:34 Delay 1.0 detik..
+11:11:35 Eksekusi Download & Upload FTP..
+11:11:43 Delay 1.0 detik..
+11:11:44 Eksekusi Download & Upload FTP..
+11:11:46 Delay 1.0 detik..
+11:11:47 Eksekusi Download & Upload FTP..
+11:11:49 Delay 1.0 detik..
+11:11:50 Eksekusi Download & Upload FTP..
+11:11:51 Delay 1.0 detik..
+11:11:52 Eksekusi Download & Upload FTP..
+11:11:54 Delay 1.0 detik..
+11:11:55 Eksekusi Download & Upload FTP..
+11:12:50 Delay 1.0 detik..
+11:12:51 Eksekusi Download & Upload FTP..
+11:12:53 Delay 1.0 detik..
+11:12:54 Eksekusi Download & Upload FTP..
+11:17:21 Loading Configuration...
+11:17:21 Loading Configuration Selesai !
+11:17:25 Inisiasi aplikasi...
+11:17:25 Testing koneksi ke server...
+11:17:50 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+11:17:50 Aplikasi siap digunakan...
+11:17:50 Testing koneksi ke server Selesai 
+11:17:50 Delay 1.0 detik..
+11:17:50 Aplikasi berhenti.
+11:17:50 Inisiasi aplikasi...
+11:17:50 Testing koneksi ke server...
+11:17:51 Eksekusi Download & Upload FTP..
+11:18:10 Downloading File 40.txt from FTP Server --> 178.128.125.105/api1/txt/input/40.txt
+11:18:10 Success File downloaded into api/txt/input/40.txt
+11:18:10 Deleting File 40.txt from FTP Server --> 178.128.125.105/api1/txt/input/40.txt
+11:18:10 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/40.txt
+11:18:13 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+11:18:13 Aplikasi siap digunakan...
+11:18:13 Testing koneksi ke server Selesai 
+11:18:13 Delay 1.0 detik..
+11:18:13 Aplikasi berhenti.
+11:18:13 Inisiasi aplikasi...
+11:18:13 Testing koneksi ke server...
+11:18:14 Eksekusi Download & Upload FTP..
+11:18:14 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /api1/txt/input
+
+11:18:14 Aplikasi siap digunakan...
+11:18:14 Testing koneksi ke server Selesai 
+11:18:14 Delay 1.0 detik..
+11:18:14 Uploading File 40.TXT from lokal Server --> api/txt/output/40.TXT
+11:18:15 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/40.TXT
+11:18:15 Deleting File 40.TXT from local DIR --> api/txt/output/40.TXT
+11:18:15 Success File deleted from local DIR --> api/txt/output/40.TXT
+11:18:15 Eksekusi Download & Upload FTP..
+11:18:21 Delay 1.0 detik..
+11:18:22 Eksekusi Download & Upload FTP..
+11:18:27 Delay 1.0 detik..
+11:18:28 Eksekusi Download & Upload FTP..
+11:18:37 Delay 1.0 detik..
+11:18:38 Eksekusi Download & Upload FTP..
+11:18:44 Delay 1.0 detik..
+11:18:45 Eksekusi Download & Upload FTP..
+11:18:46 Delay 1.0 detik..
+11:18:47 Eksekusi Download & Upload FTP..
+11:19:04 Delay 1.0 detik..
+11:19:05 Eksekusi Download & Upload FTP..
+11:19:06 Delay 1.0 detik..
+11:19:07 Eksekusi Download & Upload FTP..
+11:19:07 Delay 1.0 detik..
+11:19:08 Delay 1.0 detik..
+11:19:08 Eksekusi Download & Upload FTP..
+11:19:08 Downloading File 41.txt from FTP Server --> 178.128.125.105/api1/txt/input/41.txt
+11:19:09 Eksekusi Download & Upload FTP..
+11:19:09 Success File downloaded into api/txt/input/41.txt
+11:19:09 Deleting File 41.txt from FTP Server --> 178.128.125.105/api1/txt/input/41.txt
+11:19:09 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/41.txt
+11:19:11 Uploading File 41.TXT from lokal Server --> api/txt/output/41.TXT
+11:19:11 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/41.TXT
+11:19:11 Deleting File 41.TXT from local DIR --> api/txt/output/41.TXT
+11:19:11 Success File deleted from local DIR --> api/txt/output/41.TXT
+11:19:12 Delay 1.0 detik..
+11:19:12 Delay 1.0 detik..
+11:19:12 Delay 1.0 detik..
+11:19:13 Eksekusi Download & Upload FTP..
+11:19:13 Eksekusi Download & Upload FTP..
+11:19:13 Eksekusi Download & Upload FTP..
+11:19:15 Delay 1.0 detik..
+11:19:15 Delay 1.0 detik..
+11:19:16 Eksekusi Download & Upload FTP..
+11:19:16 Eksekusi Download & Upload FTP..
+11:19:18 Delay 1.0 detik..
+11:19:19 Eksekusi Download & Upload FTP..
+11:19:22 Delay 1.0 detik..
+11:19:23 Delay 1.0 detik..
+11:19:23 Eksekusi Download & Upload FTP..
+11:19:24 Eksekusi Download & Upload FTP..
+11:19:25 Delay 1.0 detik..
+11:19:26 Eksekusi Download & Upload FTP..
+11:19:26 Delay 1.0 detik..
+11:19:26 Delay 1.0 detik..
+11:19:27 Eksekusi Download & Upload FTP..
+11:19:27 Eksekusi Download & Upload FTP..
+11:19:28 Delay 1.0 detik..
+11:19:29 Eksekusi Download & Upload FTP..
+11:19:29 Delay 1.0 detik..
+11:19:30 Eksekusi Download & Upload FTP..
+11:19:38 Delay 1.0 detik..
+11:19:39 Eksekusi Download & Upload FTP..
+11:19:41 Delay 1.0 detik..
+11:19:42 Eksekusi Download & Upload FTP..
+11:19:50 Delay 1.0 detik..
+11:19:51 Eksekusi Download & Upload FTP..
+11:19:53 Delay 1.0 detik..
+11:19:54 Eksekusi Download & Upload FTP..
+11:20:04 Delay 1.0 detik..
+11:20:05 Eksekusi Download & Upload FTP..
+11:20:20 Delay 1.0 detik..
+11:20:21 Eksekusi Download & Upload FTP..
+11:20:25 Delay 1.0 detik..
+11:20:26 Eksekusi Download & Upload FTP..
+11:20:26 Delay 1.0 detik..
+11:20:27 Eksekusi Download & Upload FTP..
+11:20:28 Delay 1.0 detik..
+11:20:29 Delay 1.0 detik..
+11:20:29 Eksekusi Download & Upload FTP..
+11:20:30 Eksekusi Download & Upload FTP..
+11:20:40 Delay 1.0 detik..
+11:20:41 Eksekusi Download & Upload FTP..
+11:21:04 Error dwonloading File from api1/txt/input
+Connection timed out: connect
+11:21:33 Delay 1.0 detik..
+11:21:33 Downloading File 42.txt from FTP Server --> 178.128.125.105/api1/txt/input/42.txt
+11:21:34 Eksekusi Download & Upload FTP..
+11:21:47 Downloading File 42.txt from FTP Server --> 178.128.125.105/api1/txt/input/42.txt
+11:21:48 Success File downloaded into api/txt/input/42.txt
+11:21:48 Deleting File 42.txt from FTP Server --> 178.128.125.105/api1/txt/input/42.txt
+11:21:48 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/42.txt
+11:21:48 Downloading File 43.txt from FTP Server --> 178.128.125.105/api1/txt/input/43.txt
+11:22:07 Success File downloaded into api/txt/input/42.txt
+11:22:07 Deleting File 42.txt from FTP Server --> 178.128.125.105/api1/txt/input/42.txt
+11:22:07 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/42.txt
+11:22:09 Success File downloaded into api/txt/input/43.txt
+11:22:09 Deleting File 43.txt from FTP Server --> 178.128.125.105/api1/txt/input/43.txt
+11:22:10 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/43.txt
+11:22:14 Uploading File 42.TXT from lokal Server --> api/txt/output/42.TXT
+11:22:18 Uploading File 42.TXT from lokal Server --> api/txt/output/42.TXT
+11:22:25 Uploading File 42.TXT from lokal Server --> api/txt/output/42.TXT
+11:22:30 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/42.TXT
+11:22:30 Deleting File 42.TXT from local DIR --> api/txt/output/42.TXT
+11:22:30 Success File deleted from local DIR --> api/txt/output/42.TXT
+11:22:30 Uploading File 43.TXT from lokal Server --> api/txt/output/43.TXT
+11:22:31 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/43.TXT
+11:22:31 Deleting File 43.TXT from local DIR --> api/txt/output/43.TXT
+11:22:31 Success File deleted from local DIR --> api/txt/output/43.TXT
+11:22:31 Delay 1.0 detik..
+11:22:32 Eksekusi Download & Upload FTP..
+11:22:33 Downloading File 44.txt from FTP Server --> 178.128.125.105/api1/txt/input/44.txt
+11:22:34 Success File downloaded into api/txt/input/44.txt
+11:22:34 Deleting File 44.txt from FTP Server --> 178.128.125.105/api1/txt/input/44.txt
+11:22:34 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/44.txt
+11:22:39 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/42.TXT
+11:22:39 Deleting File 42.TXT from local DIR --> api/txt/output/42.TXT
+11:22:39 Success File deleted from local DIR --> api/txt/output/42.TXT
+11:22:40 Delay 1.0 detik..
+11:22:41 Eksekusi Download & Upload FTP..
+11:22:46 Uploading File 42.TXT from lokal Server --> api/txt/output/42.TXT
+11:22:52 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/42.TXT
+11:22:52 Deleting File 42.TXT from local DIR --> api/txt/output/42.TXT
+11:22:52 Success File deleted from local DIR --> api/txt/output/42.TXT
+11:22:52 Uploading File 44.TXT from lokal Server --> api/txt/output/44.TXT
+11:23:05 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/42.TXT
+11:23:05 Deleting File 42.TXT from local DIR --> api/txt/output/42.TXT
+11:23:05 Success File deleted from local DIR --> api/txt/output/42.TXT
+11:23:05 Delay 1.0 detik..
+11:23:06 Eksekusi Download & Upload FTP..
+11:23:07 Uploading File 44.TXT from lokal Server --> api/txt/output/44.TXT
+11:23:14 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/44.TXT
+11:23:14 Deleting File 44.TXT from local DIR --> api/txt/output/44.TXT
+11:23:14 Success File deleted from local DIR --> api/txt/output/44.TXT
+11:23:14 Delay 1.0 detik..
+11:23:15 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/44.TXT
+11:23:15 Deleting File 44.TXT from local DIR --> api/txt/output/44.TXT
+11:23:15 Success File deleted from local DIR --> api/txt/output/44.TXT
+11:23:15 Delay 1.0 detik..
+11:23:15 Eksekusi Download & Upload FTP..
+11:23:16 Eksekusi Download & Upload FTP..
+11:23:24 Delay 1.0 detik..
+11:23:25 Eksekusi Download & Upload FTP..
+11:23:32 Delay 1.0 detik..
+11:23:32 Delay 1.0 detik..
+11:23:33 Eksekusi Download & Upload FTP..
+11:23:33 Eksekusi Download & Upload FTP..
+11:23:35 Delay 1.0 detik..
+11:23:36 Eksekusi Download & Upload FTP..
+11:23:40 Delay 1.0 detik..
+11:23:41 Eksekusi Download & Upload FTP..
+11:23:42 Delay 1.0 detik..
+11:23:43 Delay 1.0 detik..
+11:23:43 Eksekusi Download & Upload FTP..
+11:23:44 Eksekusi Download & Upload FTP..
+11:23:45 Delay 1.0 detik..
+11:23:46 Eksekusi Download & Upload FTP..
+11:23:47 Delay 1.0 detik..
+11:23:48 Eksekusi Download & Upload FTP..
+11:23:49 Delay 1.0 detik..
+11:23:50 Eksekusi Download & Upload FTP..
+11:23:51 Delay 1.0 detik..
+11:23:52 Eksekusi Download & Upload FTP..
+11:23:53 Delay 1.0 detik..
+11:23:54 Eksekusi Download & Upload FTP..
+11:24:00 Delay 1.0 detik..
+11:24:01 Eksekusi Download & Upload FTP..
+11:24:08 Delay 1.0 detik..
+11:24:09 Eksekusi Download & Upload FTP..
+11:24:10 Delay 1.0 detik..
+11:24:11 Eksekusi Download & Upload FTP..
+11:24:29 Delay 1.0 detik..
+11:24:30 Eksekusi Download & Upload FTP..
+11:24:33 Delay 1.0 detik..
+11:24:34 Eksekusi Download & Upload FTP..
+11:24:35 Delay 1.0 detik..
+11:24:36 Eksekusi Download & Upload FTP..
+11:24:36 Delay 1.0 detik..
+11:24:37 Eksekusi Download & Upload FTP..
+11:24:40 Delay 1.0 detik..
+11:24:41 Eksekusi Download & Upload FTP..
+11:24:43 Delay 1.0 detik..
+11:24:44 Eksekusi Download & Upload FTP..
+11:24:49 Delay 1.0 detik..
+11:24:50 Eksekusi Download & Upload FTP..
+11:24:51 Delay 1.0 detik..
+11:24:52 Eksekusi Download & Upload FTP..
+11:24:52 Delay 1.0 detik..
+11:24:53 Eksekusi Download & Upload FTP..
+11:24:55 Delay 1.0 detik..
+11:24:56 Eksekusi Download & Upload FTP..
+11:24:57 Delay 1.0 detik..
+11:24:58 Eksekusi Download & Upload FTP..
+11:24:59 Delay 1.0 detik..
+11:25:00 Eksekusi Download & Upload FTP..
+11:25:04 Delay 1.0 detik..
+11:25:05 Eksekusi Download & Upload FTP..
+11:25:05 Delay 1.0 detik..
+11:25:06 Eksekusi Download & Upload FTP..
+11:25:09 Delay 1.0 detik..
+11:25:10 Eksekusi Download & Upload FTP..
+11:25:11 Delay 1.0 detik..
+11:25:12 Eksekusi Download & Upload FTP..
+11:25:23 Delay 1.0 detik..
+11:25:24 Eksekusi Download & Upload FTP..
+11:25:24 Delay 1.0 detik..
+11:25:25 Eksekusi Download & Upload FTP..
+11:25:27 Delay 1.0 detik..
+11:25:28 Eksekusi Download & Upload FTP..
+11:25:40 Delay 1.0 detik..
+11:25:41 Eksekusi Download & Upload FTP..
+11:25:46 Delay 1.0 detik..
+11:25:47 Eksekusi Download & Upload FTP..
+11:25:50 Delay 1.0 detik..
+11:25:51 Eksekusi Download & Upload FTP..
+11:26:02 Delay 1.0 detik..
+11:26:03 Eksekusi Download & Upload FTP..
+11:26:05 Delay 1.0 detik..
+11:26:06 Eksekusi Download & Upload FTP..
+11:26:10 Delay 1.0 detik..
+11:26:11 Eksekusi Download & Upload FTP..
+11:26:12 Delay 1.0 detik..
+11:26:13 Downloading File 45.txt from FTP Server --> 178.128.125.105/api1/txt/input/45.txt
+11:26:13 Eksekusi Download & Upload FTP..
+11:26:13 Success File downloaded into api/txt/input/45.txt
+11:26:13 Deleting File 45.txt from FTP Server --> 178.128.125.105/api1/txt/input/45.txt
+11:26:14 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/45.txt
+11:26:15 Uploading File 45.TXT from lokal Server --> api/txt/output/45.TXT
+11:26:15 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/45.TXT
+11:26:15 Deleting File 45.TXT from local DIR --> api/txt/output/45.TXT
+11:26:15 Success File deleted from local DIR --> api/txt/output/45.TXT
+11:26:15 Delay 1.0 detik..
+11:26:16 Eksekusi Download & Upload FTP..
+11:26:21 Delay 1.0 detik..
+11:26:22 Eksekusi Download & Upload FTP..
+11:26:24 Delay 1.0 detik..
+11:26:25 Eksekusi Download & Upload FTP..
+11:26:25 Delay 1.0 detik..
+11:26:26 Eksekusi Download & Upload FTP..
+11:26:27 Delay 1.0 detik..
+11:26:28 Eksekusi Download & Upload FTP..
+11:26:34 Delay 1.0 detik..
+11:26:35 Eksekusi Download & Upload FTP..
+11:26:43 Delay 1.0 detik..
+11:26:44 Eksekusi Download & Upload FTP..
+11:26:46 Delay 1.0 detik..
+11:26:47 Eksekusi Download & Upload FTP..
+11:26:48 Delay 1.0 detik..
+11:26:49 Eksekusi Download & Upload FTP..
+11:26:51 Downloading File 46.txt from FTP Server --> 178.128.125.105/api1/txt/input/46.txt
+11:26:51 Success File downloaded into api/txt/input/46.txt
+11:26:51 Deleting File 46.txt from FTP Server --> 178.128.125.105/api1/txt/input/46.txt
+11:26:51 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/46.txt
+11:26:53 Uploading File 46.TXT from lokal Server --> api/txt/output/46.TXT
+11:26:53 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/46.TXT
+11:26:53 Deleting File 46.TXT from local DIR --> api/txt/output/46.TXT
+11:26:53 Success File deleted from local DIR --> api/txt/output/46.TXT
+11:26:53 Delay 1.0 detik..
+11:26:54 Eksekusi Download & Upload FTP..
+11:26:55 Downloading File 46.txt from FTP Server --> 178.128.125.105/api1/txt/input/46.txt
+11:26:55 Success File downloaded into api/txt/input/46.txt
+11:26:55 Deleting File 46.txt from FTP Server --> 178.128.125.105/api1/txt/input/46.txt
+11:26:56 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/46.txt
+11:26:58 Delay 1.0 detik..
+11:26:59 Eksekusi Download & Upload FTP..
+11:27:00 Delay 1.0 detik..
+11:27:01 Eksekusi Download & Upload FTP..
+11:27:03 Delay 1.0 detik..
+11:27:04 Eksekusi Download & Upload FTP..
+11:27:07 Delay 1.0 detik..
+11:27:07 Delay 1.0 detik..
+11:27:08 Eksekusi Download & Upload FTP..
+11:27:08 Eksekusi Download & Upload FTP..
+11:27:10 Delay 1.0 detik..
+11:27:11 Eksekusi Download & Upload FTP..
+11:27:11 Delay 1.0 detik..
+11:27:12 Eksekusi Download & Upload FTP..
+11:27:15 Delay 1.0 detik..
+11:27:16 Eksekusi Download & Upload FTP..
+11:27:18 Delay 1.0 detik..
+11:27:19 Eksekusi Download & Upload FTP..
+11:27:24 Downloading File 47.txt from FTP Server --> 178.128.125.105/api1/txt/input/47.txt
+11:27:26 Delay 1.0 detik..
+11:27:27 Eksekusi Download & Upload FTP..
+11:27:28 Success File downloaded into api/txt/input/47.txt
+11:27:28 Deleting File 47.txt from FTP Server --> 178.128.125.105/api1/txt/input/47.txt
+11:27:28 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/47.txt
+11:27:29 Delay 1.0 detik..
+11:27:30 Eksekusi Download & Upload FTP..
+11:27:33 Delay 1.0 detik..
+11:27:34 Eksekusi Download & Upload FTP..
+11:27:38 Delay 1.0 detik..
+11:27:39 Eksekusi Download & Upload FTP..
+11:27:40 Delay 1.0 detik..
+11:27:41 Eksekusi Download & Upload FTP..
+11:27:44 Delay 1.0 detik..
+11:27:45 Eksekusi Download & Upload FTP..
+11:27:48 Delay 1.0 detik..
+11:27:49 Eksekusi Download & Upload FTP..
+11:27:51 Delay 1.0 detik..
+11:27:52 Eksekusi Download & Upload FTP..
+11:27:52 Delay 1.0 detik..
+11:27:53 Eksekusi Download & Upload FTP..
+11:27:54 Delay 1.0 detik..
+11:27:55 Eksekusi Download & Upload FTP..
+11:27:55 Delay 1.0 detik..
+11:27:56 Delay 1.0 detik..
+11:27:56 Eksekusi Download & Upload FTP..
+11:27:57 Eksekusi Download & Upload FTP..
+11:28:08 Downloading File 48.txt from FTP Server --> 178.128.125.105/api1/txt/input/48.txt
+11:28:09 Success File downloaded into api/txt/input/48.txt
+11:28:09 Deleting File 48.txt from FTP Server --> 178.128.125.105/api1/txt/input/48.txt
+11:28:09 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/48.txt
+11:28:10 Delay 1.0 detik..
+11:28:11 Eksekusi Download & Upload FTP..
+11:28:15 Delay 1.0 detik..
+11:28:16 Eksekusi Download & Upload FTP..
+11:28:19 Downloading File 48.txt from FTP Server --> 178.128.125.105/api1/txt/input/48.txt
+11:28:24 Delay 1.0 detik..
+11:28:25 Eksekusi Download & Upload FTP..
+11:28:31 Success File downloaded into api/txt/input/48.txt
+11:28:31 Deleting File 48.txt from FTP Server --> 178.128.125.105/api1/txt/input/48.txt
+11:28:32 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/48.txt
+11:28:34 Delay 1.0 detik..
+11:28:35 Eksekusi Download & Upload FTP..
+11:28:38 Delay 1.0 detik..
+11:28:39 Eksekusi Download & Upload FTP..
+11:28:42 Delay 1.0 detik..
+11:28:43 Delay 1.0 detik..
+11:28:43 Eksekusi Download & Upload FTP..
+11:28:44 Eksekusi Download & Upload FTP..
+11:28:46 Delay 1.0 detik..
+11:28:47 Eksekusi Download & Upload FTP..
+11:28:47 Downloading File 49.txt from FTP Server --> 178.128.125.105/api1/txt/input/49.txt
+11:28:47 Delay 1.0 detik..
+11:28:48 Success File downloaded into api/txt/input/49.txt
+11:28:48 Deleting File 49.txt from FTP Server --> 178.128.125.105/api1/txt/input/49.txt
+11:28:48 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/49.txt
+11:28:48 Eksekusi Download & Upload FTP..
+11:28:49 Uploading File 49.TXT from lokal Server --> api/txt/output/49.TXT
+11:28:49 Uploading File 49.TXT from lokal Server --> api/txt/output/49.TXT
+11:28:50 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/49.TXT
+11:28:50 Deleting File 49.TXT from local DIR --> api/txt/output/49.TXT
+11:28:50 Success File deleted from local DIR --> api/txt/output/49.TXT
+11:28:50 Delay 1.0 detik..
+11:28:50 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/49.TXT
+11:28:50 Deleting File 49.TXT from local DIR --> api/txt/output/49.TXT
+11:28:50 Success File deleted from local DIR --> api/txt/output/49.TXT
+11:28:50 Delay 1.0 detik..
+11:28:51 Eksekusi Download & Upload FTP..
+11:28:51 Delay 1.0 detik..
+11:28:51 Eksekusi Download & Upload FTP..
+11:28:52 Eksekusi Download & Upload FTP..
+11:28:54 Delay 1.0 detik..
+11:28:54 Delay 1.0 detik..
+11:28:55 Eksekusi Download & Upload FTP..
+11:28:55 Eksekusi Download & Upload FTP..
+11:28:56 Delay 1.0 detik..
+11:28:57 Eksekusi Download & Upload FTP..
+11:29:00 Delay 1.0 detik..
+11:29:01 Eksekusi Download & Upload FTP..
+11:29:02 Delay 1.0 detik..
+11:29:03 Eksekusi Download & Upload FTP..
+11:29:04 Delay 1.0 detik..
+11:29:04 Delay 1.0 detik..
+11:29:05 Eksekusi Download & Upload FTP..
+11:29:05 Eksekusi Download & Upload FTP..
+11:29:06 Delay 1.0 detik..
+11:29:07 Eksekusi Download & Upload FTP..
+11:29:07 Delay 1.0 detik..
+11:29:08 Eksekusi Download & Upload FTP..
+11:29:10 Delay 1.0 detik..
+11:29:11 Eksekusi Download & Upload FTP..
+11:29:15 Delay 1.0 detik..
+11:29:16 Eksekusi Download & Upload FTP..
+11:29:19 Delay 1.0 detik..
+11:29:19 Delay 1.0 detik..
+11:29:20 Eksekusi Download & Upload FTP..
+11:29:20 Eksekusi Download & Upload FTP..
+11:29:22 Delay 1.0 detik..
+11:29:23 Eksekusi Download & Upload FTP..
+11:29:24 Delay 1.0 detik..
+11:29:25 Delay 1.0 detik..
+11:29:25 Eksekusi Download & Upload FTP..
+11:29:26 Eksekusi Download & Upload FTP..
+11:29:28 Delay 1.0 detik..
+11:29:28 Delay 1.0 detik..
+11:29:29 Eksekusi Download & Upload FTP..
+11:29:29 Eksekusi Download & Upload FTP..
+11:29:31 Delay 1.0 detik..
+11:29:31 Delay 1.0 detik..
+11:29:32 Eksekusi Download & Upload FTP..
+11:29:32 Eksekusi Download & Upload FTP..
+11:29:34 Delay 1.0 detik..
+11:29:35 Eksekusi Download & Upload FTP..
+11:29:37 Delay 1.0 detik..
+11:29:38 Delay 1.0 detik..
+11:29:38 Eksekusi Download & Upload FTP..
+11:29:38 Delay 1.0 detik..
+11:29:39 Eksekusi Download & Upload FTP..
+11:29:39 Eksekusi Download & Upload FTP..
+11:29:41 Delay 1.0 detik..
+11:29:42 Eksekusi Download & Upload FTP..
+11:29:43 Delay 1.0 detik..
+11:29:44 Eksekusi Download & Upload FTP..
+11:29:44 Delay 1.0 detik..
+11:29:45 Eksekusi Download & Upload FTP..
+11:29:46 Delay 1.0 detik..
+11:29:47 Eksekusi Download & Upload FTP..
+11:29:47 Delay 1.0 detik..
+11:29:48 Eksekusi Download & Upload FTP..
+11:29:50 Delay 1.0 detik..
+11:29:51 Eksekusi Download & Upload FTP..
+11:30:08 Delay 1.0 detik..
+11:30:09 Eksekusi Download & Upload FTP..
+11:30:09 Delay 1.0 detik..
+11:30:10 Delay 1.0 detik..
+11:30:10 Eksekusi Download & Upload FTP..
+11:30:11 Delay 1.0 detik..
+11:30:11 Eksekusi Download & Upload FTP..
+11:30:12 Eksekusi Download & Upload FTP..
+11:30:14 Delay 1.0 detik..
+11:30:15 Eksekusi Download & Upload FTP..
+11:30:37 Delay 1.0 detik..
+11:30:38 Delay 1.0 detik..
+11:30:38 Eksekusi Download & Upload FTP..
+11:30:39 Eksekusi Download & Upload FTP..
+11:30:41 Delay 1.0 detik..
+11:30:42 Eksekusi Download & Upload FTP..
+11:30:46 Delay 1.0 detik..
+11:30:47 Eksekusi Download & Upload FTP..
+11:31:35 Delay 1.0 detik..
+11:31:36 Eksekusi Download & Upload FTP..
+11:31:37 Delay 1.0 detik..
+11:31:38 Delay 1.0 detik..
+11:31:38 Eksekusi Download & Upload FTP..
+11:31:39 Eksekusi Download & Upload FTP..
+11:31:40 Delay 1.0 detik..
+11:31:41 Eksekusi Download & Upload FTP..
+11:31:43 Delay 1.0 detik..
+11:31:44 Eksekusi Download & Upload FTP..
+11:31:57 Delay 1.0 detik..
+11:31:58 Eksekusi Download & Upload FTP..
+11:32:11 Delay 1.0 detik..
+11:32:12 Eksekusi Download & Upload FTP..
+11:32:27 Downloading File 50.txt from FTP Server --> 178.128.125.105/api1/txt/input/50.txt
+11:32:27 Success File downloaded into api/txt/input/50.txt
+11:32:27 Deleting File 50.txt from FTP Server --> 178.128.125.105/api1/txt/input/50.txt
+11:32:39 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/50.txt
+11:32:40 Uploading File 50.TXT from lokal Server --> api/txt/output/50.TXT
+11:32:46 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/50.TXT
+11:32:46 Deleting File 50.TXT from local DIR --> api/txt/output/50.TXT
+11:32:46 Success File deleted from local DIR --> api/txt/output/50.TXT
+11:32:46 Delay 1.0 detik..
+11:32:47 Eksekusi Download & Upload FTP..
+11:32:54 Delay 1.0 detik..
+11:32:55 Eksekusi Download & Upload FTP..
+11:32:56 Downloading File 50.txt from FTP Server --> 178.128.125.105/api1/txt/input/50.txt
+11:32:57 Success File downloaded into api/txt/input/50.txt
+11:32:57 Deleting File 50.txt from FTP Server --> 178.128.125.105/api1/txt/input/50.txt
+11:32:57 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/50.txt
+11:32:58 Delay 1.0 detik..
+11:32:59 Eksekusi Download & Upload FTP..
+11:33:01 Delay 1.0 detik..
+11:33:02 Eksekusi Download & Upload FTP..
+11:33:04 Delay 1.0 detik..
+11:33:05 Eksekusi Download & Upload FTP..
+11:33:12 Delay 1.0 detik..
+11:33:13 Eksekusi Download & Upload FTP..
+11:33:14 Delay 1.0 detik..
+11:33:15 Eksekusi Download & Upload FTP..
+11:33:45 Delay 1.0 detik..
+11:33:46 Eksekusi Download & Upload FTP..
+11:34:05 Delay 1.0 detik..
+11:34:06 Eksekusi Download & Upload FTP..
+11:34:14 Delay 1.0 detik..
+11:34:15 Eksekusi Download & Upload FTP..
+11:34:18 Delay 1.0 detik..
+11:34:19 Eksekusi Download & Upload FTP..
+11:34:22 Delay 1.0 detik..
+11:34:23 Eksekusi Download & Upload FTP..
+11:34:25 Delay 1.0 detik..
+11:34:26 Eksekusi Download & Upload FTP..
+11:34:28 Delay 1.0 detik..
+11:34:29 Eksekusi Download & Upload FTP..
+11:34:29 Delay 1.0 detik..
+11:34:30 Eksekusi Download & Upload FTP..
+11:34:31 Delay 1.0 detik..
+11:34:32 Eksekusi Download & Upload FTP..
+11:34:38 Delay 1.0 detik..
+11:34:39 Eksekusi Download & Upload FTP..
+11:34:41 Delay 1.0 detik..
+11:34:42 Eksekusi Download & Upload FTP..
+11:34:42 Delay 1.0 detik..
+11:34:43 Eksekusi Download & Upload FTP..
+11:35:00 Delay 1.0 detik..
+11:35:01 Eksekusi Download & Upload FTP..
+11:35:03 Delay 1.0 detik..
+11:35:04 Eksekusi Download & Upload FTP..
+11:35:16 Delay 1.0 detik..
+11:35:17 Eksekusi Download & Upload FTP..
+11:35:27 Delay 1.0 detik..
+11:35:28 Eksekusi Download & Upload FTP..
+11:35:36 Delay 1.0 detik..
+11:35:37 Eksekusi Download & Upload FTP..
+11:35:40 Delay 1.0 detik..
+11:35:41 Eksekusi Download & Upload FTP..
+11:36:02 Delay 1.0 detik..
+11:36:03 Eksekusi Download & Upload FTP..
+11:36:16 Delay 1.0 detik..
+11:36:17 Eksekusi Download & Upload FTP..
+11:36:27 Delay 1.0 detik..
+11:36:27 Delay 1.0 detik..
+11:36:28 Eksekusi Download & Upload FTP..
+11:36:28 Eksekusi Download & Upload FTP..
+11:37:04 Delay 1.0 detik..
+11:37:05 Eksekusi Download & Upload FTP..
+11:37:22 Delay 1.0 detik..
+11:37:23 Downloading File 51.txt from FTP Server --> 178.128.125.105/api1/txt/input/51.txt
+11:37:23 Eksekusi Download & Upload FTP..
+11:37:24 Success File downloaded into api/txt/input/51.txt
+11:37:24 Deleting File 51.txt from FTP Server --> 178.128.125.105/api1/txt/input/51.txt
+11:37:24 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/51.txt
+11:37:24 Downloading File 52.txt from FTP Server --> 178.128.125.105/api1/txt/input/52.txt
+11:37:24 Success File downloaded into api/txt/input/52.txt
+11:37:24 Deleting File 52.txt from FTP Server --> 178.128.125.105/api1/txt/input/52.txt
+11:37:24 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/52.txt
+11:37:25 Delay 1.0 detik..
+11:37:25 Delay 1.0 detik..
+11:37:26 Eksekusi Download & Upload FTP..
+11:37:26 Eksekusi Download & Upload FTP..
+11:37:28 Delay 1.0 detik..
+11:37:29 Eksekusi Download & Upload FTP..
+11:37:34 Delay 1.0 detik..
+11:37:35 Eksekusi Download & Upload FTP..
+11:37:37 Delay 1.0 detik..
+11:37:38 Eksekusi Download & Upload FTP..
+11:37:42 Delay 1.0 detik..
+11:37:43 Eksekusi Download & Upload FTP..
+11:37:43 Delay 1.0 detik..
+11:37:44 Eksekusi Download & Upload FTP..
+11:37:48 Delay 1.0 detik..
+11:37:49 Delay 1.0 detik..
+11:37:49 Eksekusi Download & Upload FTP..
+11:37:50 Eksekusi Download & Upload FTP..
+11:38:03 Delay 1.0 detik..
+11:38:04 Eksekusi Download & Upload FTP..
+11:38:06 Delay 1.0 detik..
+11:38:07 Eksekusi Download & Upload FTP..
+11:38:12 Delay 1.0 detik..
+11:38:13 Eksekusi Download & Upload FTP..
+11:38:20 Delay 1.0 detik..
+11:38:21 Eksekusi Download & Upload FTP..
+11:38:39 Delay 1.0 detik..
+11:38:40 Eksekusi Download & Upload FTP..
+11:39:07 Delay 1.0 detik..
+11:39:08 Eksekusi Download & Upload FTP..
+11:39:25 Delay 1.0 detik..
+11:39:26 Eksekusi Download & Upload FTP..
+11:39:33 Downloading File 53.txt from FTP Server --> 178.128.125.105/api1/txt/input/53.txt
+11:39:34 Success File downloaded into api/txt/input/53.txt
+11:39:34 Deleting File 53.txt from FTP Server --> 178.128.125.105/api1/txt/input/53.txt
+11:39:34 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/53.txt
+11:39:34 Uploading File 53.TXT from lokal Server --> api/txt/output/53.TXT
+11:39:35 Uploading File 53.TXT from lokal Server --> api/txt/output/53.TXT
+11:39:35 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/53.TXT
+11:39:35 Deleting File 53.TXT from local DIR --> api/txt/output/53.TXT
+11:39:35 Success File deleted from local DIR --> api/txt/output/53.TXT
+11:39:35 Delay 1.0 detik..
+11:39:36 Eksekusi Download & Upload FTP..
+11:39:38 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/53.TXT
+11:39:38 Deleting File 53.TXT from local DIR --> api/txt/output/53.TXT
+11:39:38 Success File deleted from local DIR --> api/txt/output/53.TXT
+11:39:38 Delay 1.0 detik..
+11:39:39 Eksekusi Download & Upload FTP..
+11:39:40 Delay 1.0 detik..
+11:39:41 Eksekusi Download & Upload FTP..
+11:40:04 Delay 1.0 detik..
+11:40:05 Eksekusi Download & Upload FTP..
+11:40:13 Delay 1.0 detik..
+11:40:14 Eksekusi Download & Upload FTP..
+11:40:31 Delay 1.0 detik..
+11:40:32 Eksekusi Download & Upload FTP..
+11:41:20 Delay 1.0 detik..
+11:41:21 Eksekusi Download & Upload FTP..
+11:41:26 Delay 1.0 detik..
+11:41:27 Eksekusi Download & Upload FTP..
+11:41:29 Delay 1.0 detik..
+11:41:30 Eksekusi Download & Upload FTP..
+11:41:33 Delay 1.0 detik..
+11:41:34 Eksekusi Download & Upload FTP..
+11:41:42 Delay 1.0 detik..
+11:41:43 Eksekusi Download & Upload FTP..
+11:42:01 Delay 1.0 detik..
+11:42:02 Eksekusi Download & Upload FTP..
+11:42:14 Delay 1.0 detik..
+11:42:15 Eksekusi Download & Upload FTP..
+11:42:17 Delay 1.0 detik..
+11:42:18 Eksekusi Download & Upload FTP..
+11:42:21 Delay 1.0 detik..
+11:42:22 Eksekusi Download & Upload FTP..
+11:42:25 Delay 1.0 detik..
+11:42:26 Eksekusi Download & Upload FTP..
+11:42:29 Delay 1.0 detik..
+11:42:30 Eksekusi Download & Upload FTP..
+11:44:00 Downloading File 54.txt from FTP Server --> 178.128.125.105/api1/txt/input/54.txt
+11:44:00 Success File downloaded into api/txt/input/54.txt
+11:44:00 Deleting File 54.txt from FTP Server --> 178.128.125.105/api1/txt/input/54.txt
+11:44:00 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/54.txt
+11:44:00 Downloading File 55.txt from FTP Server --> 178.128.125.105/api1/txt/input/55.txt
+11:44:02 Success File downloaded into api/txt/input/55.txt
+11:44:02 Deleting File 55.txt from FTP Server --> 178.128.125.105/api1/txt/input/55.txt
+11:44:02 Success File deleted from FTP Server --> 178.128.125.105/api1/txt/input/55.txt
+11:44:09 Uploading File 54.TXT from lokal Server --> api/txt/output/54.TXT
+11:44:09 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/54.TXT
+11:44:09 Deleting File 54.TXT from local DIR --> api/txt/output/54.TXT
+11:44:09 Success File deleted from local DIR --> api/txt/output/54.TXT
+11:44:09 Uploading File 55.TXT from lokal Server --> api/txt/output/55.TXT
+11:44:10 Success File uploaded into FTP Server --> 178.128.125.105/api1/txt/output/55.TXT
+11:44:10 Deleting File 55.TXT from local DIR --> api/txt/output/55.TXT
+11:44:10 Success File deleted from local DIR --> api/txt/output/55.TXT
+11:44:10 Delay 1.0 detik..
+11:44:11 Eksekusi Download & Upload FTP..

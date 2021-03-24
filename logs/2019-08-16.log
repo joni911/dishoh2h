@@ -1,0 +1,1561 @@
+02:20:20 Loading Configuration...
+02:20:20 Loading Configuration Selesai !
+02:35:08 Loading Configuration...
+02:35:08 Loading Configuration Selesai !
+02:35:11 Inisiasi aplikasi...
+02:35:11 Testing koneksi ke server...
+02:35:12 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /
+
+02:35:12 Aplikasi siap digunakan...
+02:35:12 Testing koneksi ke server Selesai 
+02:35:12 Delay 1.0 detik..
+02:35:13 Eksekusi Download & Upload FTP..
+02:35:17 Delay 1.0 detik..
+02:35:18 Eksekusi Download & Upload FTP..
+02:35:19 Delay 1.0 detik..
+02:35:20 Eksekusi Download & Upload FTP..
+02:35:21 Delay 1.0 detik..
+02:35:22 Eksekusi Download & Upload FTP..
+02:35:23 Delay 1.0 detik..
+02:35:24 Eksekusi Download & Upload FTP..
+02:35:25 Delay 1.0 detik..
+02:35:26 Eksekusi Download & Upload FTP..
+02:35:27 Delay 1.0 detik..
+02:35:28 Eksekusi Download & Upload FTP..
+02:35:29 Delay 1.0 detik..
+02:35:30 Eksekusi Download & Upload FTP..
+02:35:30 Delay 1.0 detik..
+02:35:31 Eksekusi Download & Upload FTP..
+02:35:32 Delay 1.0 detik..
+02:35:33 Eksekusi Download & Upload FTP..
+02:35:34 Delay 1.0 detik..
+02:35:35 Eksekusi Download & Upload FTP..
+02:35:36 Delay 1.0 detik..
+02:35:37 Eksekusi Download & Upload FTP..
+02:35:38 Delay 1.0 detik..
+02:35:39 Eksekusi Download & Upload FTP..
+02:35:40 Delay 1.0 detik..
+02:35:41 Eksekusi Download & Upload FTP..
+02:35:41 Delay 1.0 detik..
+02:35:42 Eksekusi Download & Upload FTP..
+02:35:44 Delay 1.0 detik..
+02:35:45 Eksekusi Download & Upload FTP..
+02:35:46 Delay 1.0 detik..
+02:35:47 Eksekusi Download & Upload FTP..
+02:35:48 Delay 1.0 detik..
+02:35:49 Eksekusi Download & Upload FTP..
+02:35:50 Delay 1.0 detik..
+02:35:51 Eksekusi Download & Upload FTP..
+02:35:51 Delay 1.0 detik..
+02:35:52 Eksekusi Download & Upload FTP..
+02:35:53 Delay 1.0 detik..
+02:35:54 Eksekusi Download & Upload FTP..
+02:35:55 Delay 1.0 detik..
+02:35:56 Eksekusi Download & Upload FTP..
+02:35:57 Delay 1.0 detik..
+02:35:58 Eksekusi Download & Upload FTP..
+02:35:59 Delay 1.0 detik..
+02:36:00 Eksekusi Download & Upload FTP..
+02:36:01 Delay 1.0 detik..
+02:36:02 Eksekusi Download & Upload FTP..
+02:36:03 Delay 1.0 detik..
+02:36:04 Eksekusi Download & Upload FTP..
+02:36:05 Delay 1.0 detik..
+02:36:06 Eksekusi Download & Upload FTP..
+02:36:07 Delay 1.0 detik..
+02:36:08 Eksekusi Download & Upload FTP..
+02:36:09 Delay 1.0 detik..
+02:36:10 Eksekusi Download & Upload FTP..
+02:36:10 Delay 1.0 detik..
+02:36:11 Eksekusi Download & Upload FTP..
+02:36:13 Delay 1.0 detik..
+02:36:14 Eksekusi Download & Upload FTP..
+02:36:15 Delay 1.0 detik..
+02:36:16 Eksekusi Download & Upload FTP..
+02:36:17 Delay 1.0 detik..
+02:36:18 Eksekusi Download & Upload FTP..
+02:36:19 Delay 1.0 detik..
+02:36:20 Eksekusi Download & Upload FTP..
+02:36:20 Delay 1.0 detik..
+02:36:21 Eksekusi Download & Upload FTP..
+02:36:23 Delay 1.0 detik..
+02:36:24 Eksekusi Download & Upload FTP..
+02:36:24 Delay 1.0 detik..
+02:36:25 Eksekusi Download & Upload FTP..
+02:36:26 Delay 1.0 detik..
+02:36:27 Eksekusi Download & Upload FTP..
+02:36:28 Delay 1.0 detik..
+02:36:29 Eksekusi Download & Upload FTP..
+02:36:30 Delay 1.0 detik..
+02:36:31 Eksekusi Download & Upload FTP..
+02:36:32 Delay 1.0 detik..
+02:36:33 Eksekusi Download & Upload FTP..
+02:36:34 Delay 1.0 detik..
+02:36:35 Eksekusi Download & Upload FTP..
+02:36:36 Delay 1.0 detik..
+02:36:37 Eksekusi Download & Upload FTP..
+02:36:37 Delay 1.0 detik..
+02:36:38 Eksekusi Download & Upload FTP..
+02:36:39 Delay 1.0 detik..
+02:36:40 Eksekusi Download & Upload FTP..
+02:36:41 Delay 1.0 detik..
+02:36:42 Eksekusi Download & Upload FTP..
+02:36:43 Delay 1.0 detik..
+02:36:50 Loading Configuration...
+02:36:50 Loading Configuration Selesai !
+02:36:52 Inisiasi aplikasi...
+02:36:52 Testing koneksi ke server...
+02:36:53 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /input
+
+02:36:53 Aplikasi siap digunakan...
+02:36:53 Testing koneksi ke server Selesai 
+02:36:53 Delay 1.0 detik..
+02:36:54 Eksekusi Download & Upload FTP..
+02:36:54 Downloading File 1.txt from FTP Server --> 165.22.255.10/input/1.txt
+02:36:54 Success File downloaded into va/input/1.txt
+02:36:54 Deleting File 1.txt from FTP Server --> 165.22.255.10/input/1.txt
+02:36:54 Success File deleted from FTP Server --> 165.22.255.10/input/1.txt
+02:36:54 Downloading File 2.txt from FTP Server --> 165.22.255.10/input/2.txt
+02:36:54 Success File downloaded into va/input/2.txt
+02:36:54 Deleting File 2.txt from FTP Server --> 165.22.255.10/input/2.txt
+02:36:54 Success File deleted from FTP Server --> 165.22.255.10/input/2.txt
+02:36:55 Delay 1.0 detik..
+02:36:56 Eksekusi Download & Upload FTP..
+02:36:57 Delay 1.0 detik..
+02:36:58 Eksekusi Download & Upload FTP..
+02:36:58 Delay 1.0 detik..
+02:36:59 Eksekusi Download & Upload FTP..
+02:37:00 Delay 1.0 detik..
+02:37:01 Eksekusi Download & Upload FTP..
+02:37:02 Delay 1.0 detik..
+02:37:03 Eksekusi Download & Upload FTP..
+02:37:04 Delay 1.0 detik..
+02:37:05 Eksekusi Download & Upload FTP..
+02:37:06 Delay 1.0 detik..
+02:37:07 Eksekusi Download & Upload FTP..
+02:37:07 Delay 1.0 detik..
+02:37:08 Eksekusi Download & Upload FTP..
+02:37:09 Delay 1.0 detik..
+02:37:10 Eksekusi Download & Upload FTP..
+02:37:11 Delay 1.0 detik..
+02:37:12 Eksekusi Download & Upload FTP..
+02:37:13 Delay 1.0 detik..
+02:37:14 Eksekusi Download & Upload FTP..
+02:37:15 Delay 1.0 detik..
+02:37:16 Eksekusi Download & Upload FTP..
+02:37:17 Delay 1.0 detik..
+02:37:18 Eksekusi Download & Upload FTP..
+02:37:18 Delay 1.0 detik..
+02:37:19 Eksekusi Download & Upload FTP..
+02:37:20 Delay 1.0 detik..
+02:37:21 Eksekusi Download & Upload FTP..
+02:37:22 Delay 1.0 detik..
+02:37:23 Eksekusi Download & Upload FTP..
+02:37:24 Delay 1.0 detik..
+02:37:25 Eksekusi Download & Upload FTP..
+02:37:26 Delay 1.0 detik..
+02:37:27 Eksekusi Download & Upload FTP..
+02:37:28 Delay 1.0 detik..
+02:37:29 Eksekusi Download & Upload FTP..
+02:37:29 Delay 1.0 detik..
+02:37:30 Eksekusi Download & Upload FTP..
+02:37:31 Delay 1.0 detik..
+02:37:32 Eksekusi Download & Upload FTP..
+02:37:33 Delay 1.0 detik..
+02:37:34 Eksekusi Download & Upload FTP..
+02:37:35 Delay 1.0 detik..
+02:37:36 Eksekusi Download & Upload FTP..
+02:37:37 Delay 1.0 detik..
+02:37:38 Eksekusi Download & Upload FTP..
+02:37:38 Delay 1.0 detik..
+02:37:39 Eksekusi Download & Upload FTP..
+02:37:40 Delay 1.0 detik..
+02:37:41 Eksekusi Download & Upload FTP..
+02:37:45 Loading Configuration...
+02:37:45 Loading Configuration Selesai !
+02:37:49 Inisiasi aplikasi...
+02:37:49 Testing koneksi ke server...
+02:37:49 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /input
+
+02:37:49 Aplikasi siap digunakan...
+02:37:49 Testing koneksi ke server Selesai 
+02:37:49 Delay 1.0 detik..
+02:37:50 Eksekusi Download & Upload FTP..
+02:37:51 Delay 1.0 detik..
+02:37:52 Eksekusi Download & Upload FTP..
+02:37:53 Delay 1.0 detik..
+02:37:54 Eksekusi Download & Upload FTP..
+02:37:54 Delay 1.0 detik..
+02:37:55 Eksekusi Download & Upload FTP..
+02:37:56 Delay 1.0 detik..
+02:37:57 Eksekusi Download & Upload FTP..
+02:37:58 Delay 1.0 detik..
+02:37:59 Eksekusi Download & Upload FTP..
+02:38:00 Delay 1.0 detik..
+02:38:01 Eksekusi Download & Upload FTP..
+02:38:02 Delay 1.0 detik..
+02:38:03 Eksekusi Download & Upload FTP..
+02:38:04 Delay 1.0 detik..
+02:38:05 Eksekusi Download & Upload FTP..
+02:38:06 Delay 1.0 detik..
+02:38:07 Eksekusi Download & Upload FTP..
+02:38:08 Delay 1.0 detik..
+02:38:09 Eksekusi Download & Upload FTP..
+02:38:10 Delay 1.0 detik..
+02:38:11 Eksekusi Download & Upload FTP..
+02:38:11 Delay 1.0 detik..
+02:38:12 Eksekusi Download & Upload FTP..
+02:38:13 Delay 1.0 detik..
+02:38:14 Eksekusi Download & Upload FTP..
+02:38:15 Delay 1.0 detik..
+02:38:16 Eksekusi Download & Upload FTP..
+02:38:17 Delay 1.0 detik..
+02:38:18 Eksekusi Download & Upload FTP..
+02:38:19 Delay 1.0 detik..
+02:38:20 Eksekusi Download & Upload FTP..
+02:38:21 Delay 1.0 detik..
+02:38:22 Eksekusi Download & Upload FTP..
+02:38:23 Delay 1.0 detik..
+02:38:24 Eksekusi Download & Upload FTP..
+02:38:24 Downloading File 3.txt from FTP Server --> 165.22.255.10/input/3.txt
+02:38:24 Success File downloaded into VA/INPUT/3.txt
+02:38:24 Deleting File 3.txt from FTP Server --> 165.22.255.10/input/3.txt
+02:38:24 Success File deleted from FTP Server --> 165.22.255.10/input/3.txt
+02:38:25 Delay 1.0 detik..
+02:38:26 Eksekusi Download & Upload FTP..
+02:38:27 Delay 1.0 detik..
+02:38:28 Eksekusi Download & Upload FTP..
+02:38:28 Delay 1.0 detik..
+02:38:29 Eksekusi Download & Upload FTP..
+02:38:31 Delay 1.0 detik..
+02:38:32 Eksekusi Download & Upload FTP..
+02:38:33 Delay 1.0 detik..
+02:38:34 Eksekusi Download & Upload FTP..
+02:38:34 Delay 1.0 detik..
+02:38:35 Eksekusi Download & Upload FTP..
+02:38:36 Delay 1.0 detik..
+02:38:37 Eksekusi Download & Upload FTP..
+02:38:38 Delay 1.0 detik..
+02:38:39 Eksekusi Download & Upload FTP..
+02:38:40 Delay 1.0 detik..
+02:38:41 Eksekusi Download & Upload FTP..
+02:38:42 Delay 1.0 detik..
+02:38:43 Eksekusi Download & Upload FTP..
+02:38:44 Delay 1.0 detik..
+02:38:45 Eksekusi Download & Upload FTP..
+02:38:46 Delay 1.0 detik..
+02:38:47 Eksekusi Download & Upload FTP..
+02:38:48 Delay 1.0 detik..
+02:38:49 Eksekusi Download & Upload FTP..
+02:38:50 Delay 1.0 detik..
+02:38:51 Eksekusi Download & Upload FTP..
+02:38:52 Delay 1.0 detik..
+02:38:53 Eksekusi Download & Upload FTP..
+02:38:54 Delay 1.0 detik..
+02:38:55 Eksekusi Download & Upload FTP..
+02:38:55 Delay 1.0 detik..
+02:38:56 Eksekusi Download & Upload FTP..
+02:38:57 Delay 1.0 detik..
+02:38:58 Eksekusi Download & Upload FTP..
+02:38:59 Delay 1.0 detik..
+02:39:00 Eksekusi Download & Upload FTP..
+02:39:01 Delay 1.0 detik..
+02:39:02 Eksekusi Download & Upload FTP..
+02:39:03 Delay 1.0 detik..
+02:39:04 Eksekusi Download & Upload FTP..
+02:39:05 Delay 1.0 detik..
+02:39:06 Eksekusi Download & Upload FTP..
+02:39:06 Delay 1.0 detik..
+02:39:08 Eksekusi Download & Upload FTP..
+02:39:08 Delay 1.0 detik..
+02:39:09 Eksekusi Download & Upload FTP..
+02:39:10 Delay 1.0 detik..
+02:39:11 Eksekusi Download & Upload FTP..
+02:39:12 Delay 1.0 detik..
+02:39:13 Eksekusi Download & Upload FTP..
+02:39:14 Delay 1.0 detik..
+02:39:15 Eksekusi Download & Upload FTP..
+02:39:16 Delay 1.0 detik..
+02:39:17 Eksekusi Download & Upload FTP..
+02:39:18 Delay 1.0 detik..
+02:39:19 Eksekusi Download & Upload FTP..
+02:39:20 Delay 1.0 detik..
+02:39:21 Eksekusi Download & Upload FTP..
+02:39:21 Delay 1.0 detik..
+02:39:22 Eksekusi Download & Upload FTP..
+02:39:23 Delay 1.0 detik..
+02:39:24 Eksekusi Download & Upload FTP..
+02:39:25 Delay 1.0 detik..
+02:39:26 Eksekusi Download & Upload FTP..
+02:39:27 Delay 1.0 detik..
+02:39:28 Eksekusi Download & Upload FTP..
+02:39:29 Delay 1.0 detik..
+02:39:30 Eksekusi Download & Upload FTP..
+02:39:31 Delay 1.0 detik..
+02:39:32 Eksekusi Download & Upload FTP..
+02:39:32 Delay 1.0 detik..
+02:39:33 Eksekusi Download & Upload FTP..
+02:39:34 Delay 1.0 detik..
+02:39:35 Eksekusi Download & Upload FTP..
+02:39:36 Delay 1.0 detik..
+02:39:37 Eksekusi Download & Upload FTP..
+02:39:38 Delay 1.0 detik..
+02:39:39 Eksekusi Download & Upload FTP..
+02:39:40 Delay 1.0 detik..
+02:39:41 Eksekusi Download & Upload FTP..
+02:39:42 Delay 1.0 detik..
+02:39:43 Eksekusi Download & Upload FTP..
+02:39:44 Delay 1.0 detik..
+02:39:45 Eksekusi Download & Upload FTP..
+02:39:46 Delay 1.0 detik..
+02:39:47 Eksekusi Download & Upload FTP..
+02:39:48 Delay 1.0 detik..
+02:39:49 Eksekusi Download & Upload FTP..
+02:39:50 Delay 1.0 detik..
+02:39:51 Eksekusi Download & Upload FTP..
+02:39:51 Delay 1.0 detik..
+02:39:52 Eksekusi Download & Upload FTP..
+02:39:53 Delay 1.0 detik..
+02:39:54 Eksekusi Download & Upload FTP..
+02:39:55 Delay 1.0 detik..
+02:39:56 Eksekusi Download & Upload FTP..
+02:39:57 Delay 1.0 detik..
+02:39:58 Eksekusi Download & Upload FTP..
+02:39:59 Delay 1.0 detik..
+02:40:00 Eksekusi Download & Upload FTP..
+02:40:01 Delay 1.0 detik..
+02:40:02 Eksekusi Download & Upload FTP..
+02:40:03 Delay 1.0 detik..
+02:40:04 Eksekusi Download & Upload FTP..
+02:40:05 Delay 1.0 detik..
+02:40:06 Eksekusi Download & Upload FTP..
+02:40:06 Delay 1.0 detik..
+02:40:07 Eksekusi Download & Upload FTP..
+02:40:08 Delay 1.0 detik..
+02:40:09 Eksekusi Download & Upload FTP..
+02:40:10 Delay 1.0 detik..
+02:40:11 Eksekusi Download & Upload FTP..
+02:40:12 Delay 1.0 detik..
+02:40:13 Eksekusi Download & Upload FTP..
+02:40:14 Delay 1.0 detik..
+02:40:15 Eksekusi Download & Upload FTP..
+02:40:16 Delay 1.0 detik..
+02:40:17 Eksekusi Download & Upload FTP..
+02:40:18 Delay 1.0 detik..
+02:40:19 Eksekusi Download & Upload FTP..
+02:40:19 Delay 1.0 detik..
+02:40:20 Eksekusi Download & Upload FTP..
+02:40:21 Delay 1.0 detik..
+02:40:22 Eksekusi Download & Upload FTP..
+02:40:23 Delay 1.0 detik..
+02:40:24 Eksekusi Download & Upload FTP..
+02:40:25 Delay 1.0 detik..
+02:40:26 Eksekusi Download & Upload FTP..
+02:40:27 Delay 1.0 detik..
+02:40:28 Eksekusi Download & Upload FTP..
+02:40:29 Delay 1.0 detik..
+02:40:30 Eksekusi Download & Upload FTP..
+02:40:31 Delay 1.0 detik..
+02:40:32 Eksekusi Download & Upload FTP..
+02:40:32 Delay 1.0 detik..
+02:40:50 Loading Configuration...
+02:40:50 Loading Configuration Selesai !
+02:40:52 Inisiasi aplikasi...
+02:40:52 Testing koneksi ke server...
+02:40:52 OK FTP Connected
+OK Remote system is UNIX Type: L8
+OK Current directory is /input
+
+02:40:52 Aplikasi siap digunakan...
+02:40:52 Testing koneksi ke server Selesai 
+02:40:52 Delay 1.0 detik..
+02:40:53 Eksekusi Download & Upload FTP..
+02:40:54 Delay 1.0 detik..
+02:40:55 Eksekusi Download & Upload FTP..
+02:40:56 Delay 1.0 detik..
+02:40:57 Eksekusi Download & Upload FTP..
+02:40:58 Delay 1.0 detik..
+02:40:59 Eksekusi Download & Upload FTP..
+02:40:59 Downloading File 4.txt from FTP Server --> 165.22.255.10/input/4.txt
+02:40:59 Success File downloaded into api/txt/input/4.txt
+02:40:59 Deleting File 4.txt from FTP Server --> 165.22.255.10/input/4.txt
+02:40:59 Success File deleted from FTP Server --> 165.22.255.10/input/4.txt
+02:41:00 Delay 1.0 detik..
+02:41:01 Eksekusi Download & Upload FTP..
+02:41:02 Delay 1.0 detik..
+02:41:03 Eksekusi Download & Upload FTP..
+02:41:04 Delay 1.0 detik..
+02:41:05 Eksekusi Download & Upload FTP..
+02:41:06 Delay 1.0 detik..
+02:41:07 Eksekusi Download & Upload FTP..
+02:41:07 Delay 1.0 detik..
+02:41:08 Eksekusi Download & Upload FTP..
+02:41:09 Delay 1.0 detik..
+02:41:10 Eksekusi Download & Upload FTP..
+02:41:11 Delay 1.0 detik..
+02:41:12 Eksekusi Download & Upload FTP..
+02:41:13 Delay 1.0 detik..
+02:41:14 Eksekusi Download & Upload FTP..
+02:41:15 Delay 1.0 detik..
+02:41:16 Eksekusi Download & Upload FTP..
+02:41:17 Delay 1.0 detik..
+02:41:18 Eksekusi Download & Upload FTP..
+02:41:19 Delay 1.0 detik..
+02:41:20 Eksekusi Download & Upload FTP..
+02:41:21 Delay 1.0 detik..
+02:41:22 Eksekusi Download & Upload FTP..
+02:41:23 Delay 1.0 detik..
+02:41:24 Eksekusi Download & Upload FTP..
+02:41:24 Delay 1.0 detik..
+02:41:25 Eksekusi Download & Upload FTP..
+02:41:26 Delay 1.0 detik..
+02:41:27 Eksekusi Download & Upload FTP..
+02:41:28 Delay 1.0 detik..
+02:41:29 Eksekusi Download & Upload FTP..
+02:41:30 Delay 1.0 detik..
+02:41:31 Eksekusi Download & Upload FTP..
+02:41:32 Delay 1.0 detik..
+02:41:33 Eksekusi Download & Upload FTP..
+02:41:33 Delay 1.0 detik..
+02:41:34 Eksekusi Download & Upload FTP..
+02:41:35 Delay 1.0 detik..
+02:41:36 Eksekusi Download & Upload FTP..
+02:41:37 Delay 1.0 detik..
+02:41:38 Eksekusi Download & Upload FTP..
+02:41:39 Delay 1.0 detik..
+02:41:40 Eksekusi Download & Upload FTP..
+02:41:41 Delay 1.0 detik..
+02:41:42 Eksekusi Download & Upload FTP..
+02:41:43 Delay 1.0 detik..
+02:41:44 Eksekusi Download & Upload FTP..
+02:41:45 Delay 1.0 detik..
+02:41:46 Eksekusi Download & Upload FTP..
+02:41:47 Delay 1.0 detik..
+02:41:48 Eksekusi Download & Upload FTP..
+02:41:49 Delay 1.0 detik..
+02:41:50 Eksekusi Download & Upload FTP..
+02:41:51 Delay 1.0 detik..
+02:41:52 Eksekusi Download & Upload FTP..
+02:41:53 Delay 1.0 detik..
+02:41:54 Eksekusi Download & Upload FTP..
+02:41:55 Delay 1.0 detik..
+02:41:56 Eksekusi Download & Upload FTP..
+02:41:57 Delay 1.0 detik..
+02:41:58 Eksekusi Download & Upload FTP..
+02:41:59 Delay 1.0 detik..
+02:42:00 Eksekusi Download & Upload FTP..
+02:42:01 Delay 1.0 detik..
+02:42:02 Eksekusi Download & Upload FTP..
+02:42:03 Delay 1.0 detik..
+02:42:04 Eksekusi Download & Upload FTP..
+02:42:05 Delay 1.0 detik..
+02:42:06 Eksekusi Download & Upload FTP..
+02:42:07 Delay 1.0 detik..
+02:42:08 Eksekusi Download & Upload FTP..
+02:42:08 Delay 1.0 detik..
+02:42:09 Eksekusi Download & Upload FTP..
+02:42:10 Delay 1.0 detik..
+02:42:11 Eksekusi Download & Upload FTP..
+02:42:12 Delay 1.0 detik..
+02:42:13 Eksekusi Download & Upload FTP..
+02:42:14 Delay 1.0 detik..
+02:42:15 Eksekusi Download & Upload FTP..
+02:42:16 Delay 1.0 detik..
+02:42:17 Eksekusi Download & Upload FTP..
+02:42:18 Delay 1.0 detik..
+02:42:19 Eksekusi Download & Upload FTP..
+02:42:20 Delay 1.0 detik..
+02:42:21 Eksekusi Download & Upload FTP..
+02:42:22 Delay 1.0 detik..
+02:42:23 Eksekusi Download & Upload FTP..
+02:42:24 Delay 1.0 detik..
+02:42:25 Eksekusi Download & Upload FTP..
+02:42:25 Delay 1.0 detik..
+02:42:26 Eksekusi Download & Upload FTP..
+02:42:27 Delay 1.0 detik..
+02:42:28 Eksekusi Download & Upload FTP..
+02:42:29 Delay 1.0 detik..
+02:42:30 Eksekusi Download & Upload FTP..
+02:42:31 Delay 1.0 detik..
+02:42:32 Eksekusi Download & Upload FTP..
+02:42:33 Delay 1.0 detik..
+02:42:34 Eksekusi Download & Upload FTP..
+02:42:35 Delay 1.0 detik..
+02:42:36 Eksekusi Download & Upload FTP..
+02:42:37 Delay 1.0 detik..
+02:42:38 Eksekusi Download & Upload FTP..
+02:42:39 Delay 1.0 detik..
+02:42:40 Eksekusi Download & Upload FTP..
+02:42:41 Delay 1.0 detik..
+02:42:42 Eksekusi Download & Upload FTP..
+02:42:43 Delay 1.0 detik..
+02:42:44 Eksekusi Download & Upload FTP..
+02:42:45 Delay 1.0 detik..
+02:42:46 Eksekusi Download & Upload FTP..
+02:42:47 Delay 1.0 detik..
+02:42:48 Eksekusi Download & Upload FTP..
+02:42:49 Delay 1.0 detik..
+02:42:50 Eksekusi Download & Upload FTP..
+02:42:51 Delay 1.0 detik..
+02:42:52 Eksekusi Download & Upload FTP..
+02:42:53 Delay 1.0 detik..
+02:42:54 Eksekusi Download & Upload FTP..
+02:42:54 Delay 1.0 detik..
+02:42:55 Eksekusi Download & Upload FTP..
+02:42:56 Delay 1.0 detik..
+02:42:57 Eksekusi Download & Upload FTP..
+02:42:58 Delay 1.0 detik..
+02:42:59 Eksekusi Download & Upload FTP..
+02:43:00 Delay 1.0 detik..
+02:43:01 Eksekusi Download & Upload FTP..
+02:43:02 Delay 1.0 detik..
+02:43:03 Eksekusi Download & Upload FTP..
+02:43:04 Delay 1.0 detik..
+02:43:05 Eksekusi Download & Upload FTP..
+02:43:06 Delay 1.0 detik..
+02:43:07 Eksekusi Download & Upload FTP..
+02:43:08 Delay 1.0 detik..
+02:43:09 Eksekusi Download & Upload FTP..
+02:43:09 Delay 1.0 detik..
+02:43:10 Eksekusi Download & Upload FTP..
+02:43:11 Delay 1.0 detik..
+02:43:12 Eksekusi Download & Upload FTP..
+02:43:13 Delay 1.0 detik..
+02:43:14 Eksekusi Download & Upload FTP..
+02:43:15 Delay 1.0 detik..
+02:43:16 Eksekusi Download & Upload FTP..
+02:43:17 Delay 1.0 detik..
+02:43:18 Eksekusi Download & Upload FTP..
+02:43:20 Delay 1.0 detik..
+02:43:21 Eksekusi Download & Upload FTP..
+02:43:22 Delay 1.0 detik..
+02:43:23 Eksekusi Download & Upload FTP..
+02:43:23 Delay 1.0 detik..
+02:43:24 Eksekusi Download & Upload FTP..
+02:43:25 Delay 1.0 detik..
+02:43:26 Eksekusi Download & Upload FTP..
+02:43:27 Delay 1.0 detik..
+02:43:28 Eksekusi Download & Upload FTP..
+02:43:29 Delay 1.0 detik..
+02:43:30 Eksekusi Download & Upload FTP..
+02:43:31 Delay 1.0 detik..
+02:43:32 Eksekusi Download & Upload FTP..
+02:43:33 Delay 1.0 detik..
+02:43:34 Eksekusi Download & Upload FTP..
+02:43:34 Delay 1.0 detik..
+02:43:35 Eksekusi Download & Upload FTP..
+02:43:36 Delay 1.0 detik..
+02:43:37 Eksekusi Download & Upload FTP..
+02:43:38 Delay 1.0 detik..
+02:43:39 Eksekusi Download & Upload FTP..
+02:43:40 Delay 1.0 detik..
+02:43:41 Eksekusi Download & Upload FTP..
+02:43:42 Delay 1.0 detik..
+02:43:43 Eksekusi Download & Upload FTP..
+02:43:44 Delay 1.0 detik..
+02:43:45 Eksekusi Download & Upload FTP..
+02:43:45 Delay 1.0 detik..
+02:43:46 Eksekusi Download & Upload FTP..
+02:43:47 Delay 1.0 detik..
+02:43:48 Eksekusi Download & Upload FTP..
+02:43:49 Delay 1.0 detik..
+02:43:50 Eksekusi Download & Upload FTP..
+02:43:51 Delay 1.0 detik..
+02:43:52 Eksekusi Download & Upload FTP..
+02:43:54 Delay 1.0 detik..
+02:43:55 Eksekusi Download & Upload FTP..
+02:43:56 Delay 1.0 detik..
+02:43:57 Eksekusi Download & Upload FTP..
+02:43:58 Delay 1.0 detik..
+02:43:59 Eksekusi Download & Upload FTP..
+02:44:00 Delay 1.0 detik..
+02:44:01 Eksekusi Download & Upload FTP..
+02:44:02 Delay 1.0 detik..
+02:44:03 Eksekusi Download & Upload FTP..
+02:44:04 Delay 1.0 detik..
+02:44:05 Eksekusi Download & Upload FTP..
+02:44:05 Delay 1.0 detik..
+02:44:06 Eksekusi Download & Upload FTP..
+02:44:07 Delay 1.0 detik..
+02:44:08 Eksekusi Download & Upload FTP..
+02:44:09 Delay 1.0 detik..
+02:44:10 Eksekusi Download & Upload FTP..
+02:44:11 Delay 1.0 detik..
+02:44:12 Eksekusi Download & Upload FTP..
+02:44:13 Delay 1.0 detik..
+02:44:14 Eksekusi Download & Upload FTP..
+02:44:14 Delay 1.0 detik..
+02:44:16 Eksekusi Download & Upload FTP..
+02:44:16 Delay 1.0 detik..
+02:44:17 Eksekusi Download & Upload FTP..
+02:44:18 Delay 1.0 detik..
+02:44:19 Eksekusi Download & Upload FTP..
+02:44:20 Delay 1.0 detik..
+02:44:21 Eksekusi Download & Upload FTP..
+02:44:22 Delay 1.0 detik..
+02:44:23 Eksekusi Download & Upload FTP..
+02:44:24 Delay 1.0 detik..
+02:44:25 Eksekusi Download & Upload FTP..
+02:44:26 Delay 1.0 detik..
+02:44:27 Eksekusi Download & Upload FTP..
+02:44:28 Delay 1.0 detik..
+02:44:29 Eksekusi Download & Upload FTP..
+02:44:30 Delay 1.0 detik..
+02:44:31 Eksekusi Download & Upload FTP..
+02:44:32 Delay 1.0 detik..
+02:44:33 Eksekusi Download & Upload FTP..
+02:44:34 Delay 1.0 detik..
+02:44:35 Eksekusi Download & Upload FTP..
+02:44:35 Downloading File 5.txt from FTP Server --> 165.22.255.10/input/5.txt
+02:44:35 Success File downloaded into api/txt/input/5.txt
+02:44:35 Deleting File 5.txt from FTP Server --> 165.22.255.10/input/5.txt
+02:44:35 Success File deleted from FTP Server --> 165.22.255.10/input/5.txt
+02:44:36 Delay 1.0 detik..
+02:44:37 Eksekusi Download & Upload FTP..
+02:44:37 Delay 1.0 detik..
+02:44:38 Eksekusi Download & Upload FTP..
+02:44:40 Delay 1.0 detik..
+02:44:41 Eksekusi Download & Upload FTP..
+02:44:43 Delay 1.0 detik..
+02:44:44 Eksekusi Download & Upload FTP..
+02:44:44 Delay 1.0 detik..
+02:44:45 Eksekusi Download & Upload FTP..
+02:44:46 Delay 1.0 detik..
+02:44:47 Eksekusi Download & Upload FTP..
+02:44:48 Delay 1.0 detik..
+02:44:49 Eksekusi Download & Upload FTP..
+02:44:50 Delay 1.0 detik..
+02:44:51 Eksekusi Download & Upload FTP..
+02:44:52 Delay 1.0 detik..
+02:44:53 Eksekusi Download & Upload FTP..
+02:44:54 Delay 1.0 detik..
+02:44:55 Eksekusi Download & Upload FTP..
+02:44:55 Delay 1.0 detik..
+02:44:56 Eksekusi Download & Upload FTP..
+02:44:57 Delay 1.0 detik..
+02:44:58 Eksekusi Download & Upload FTP..
+02:44:59 Delay 1.0 detik..
+02:45:00 Eksekusi Download & Upload FTP..
+02:45:01 Delay 1.0 detik..
+02:45:02 Eksekusi Download & Upload FTP..
+02:45:03 Downloading File 6.txt from FTP Server --> 165.22.255.10/input/6.txt
+02:45:03 Success File downloaded into api/txt/input/6.txt
+02:45:03 Deleting File 6.txt from FTP Server --> 165.22.255.10/input/6.txt
+02:45:03 Success File deleted from FTP Server --> 165.22.255.10/input/6.txt
+02:45:03 Delay 1.0 detik..
+02:45:04 Eksekusi Download & Upload FTP..
+02:45:05 Delay 1.0 detik..
+02:45:06 Eksekusi Download & Upload FTP..
+02:45:07 Delay 1.0 detik..
+02:45:08 Eksekusi Download & Upload FTP..
+02:45:09 Delay 1.0 detik..
+02:45:10 Eksekusi Download & Upload FTP..
+02:45:11 Delay 1.0 detik..
+02:45:12 Eksekusi Download & Upload FTP..
+02:45:13 Delay 1.0 detik..
+02:45:14 Eksekusi Download & Upload FTP..
+02:45:14 Delay 1.0 detik..
+02:45:15 Eksekusi Download & Upload FTP..
+02:45:16 Delay 1.0 detik..
+02:45:17 Eksekusi Download & Upload FTP..
+02:45:18 Delay 1.0 detik..
+02:45:19 Eksekusi Download & Upload FTP..
+02:45:20 Delay 1.0 detik..
+02:45:21 Eksekusi Download & Upload FTP..
+02:45:22 Delay 1.0 detik..
+02:45:23 Eksekusi Download & Upload FTP..
+02:45:24 Delay 1.0 detik..
+02:45:25 Eksekusi Download & Upload FTP..
+02:45:25 Delay 1.0 detik..
+02:45:26 Eksekusi Download & Upload FTP..
+02:45:27 Delay 1.0 detik..
+02:45:28 Eksekusi Download & Upload FTP..
+02:45:29 Delay 1.0 detik..
+02:45:30 Eksekusi Download & Upload FTP..
+02:45:31 Delay 1.0 detik..
+02:45:32 Eksekusi Download & Upload FTP..
+02:45:33 Delay 1.0 detik..
+02:45:34 Eksekusi Download & Upload FTP..
+02:45:35 Delay 1.0 detik..
+02:45:36 Eksekusi Download & Upload FTP..
+02:45:36 Delay 1.0 detik..
+02:45:38 Eksekusi Download & Upload FTP..
+02:45:38 Delay 1.0 detik..
+02:45:39 Eksekusi Download & Upload FTP..
+02:45:40 Delay 1.0 detik..
+02:45:41 Eksekusi Download & Upload FTP..
+02:45:42 Delay 1.0 detik..
+02:45:43 Eksekusi Download & Upload FTP..
+02:45:44 Delay 1.0 detik..
+02:45:45 Eksekusi Download & Upload FTP..
+02:45:46 Delay 1.0 detik..
+02:45:47 Eksekusi Download & Upload FTP..
+02:45:48 Delay 1.0 detik..
+02:45:49 Eksekusi Download & Upload FTP..
+02:45:49 Delay 1.0 detik..
+02:45:50 Eksekusi Download & Upload FTP..
+02:45:51 Delay 1.0 detik..
+02:45:52 Eksekusi Download & Upload FTP..
+02:45:53 Delay 1.0 detik..
+02:45:54 Eksekusi Download & Upload FTP..
+02:45:55 Delay 1.0 detik..
+02:45:56 Eksekusi Download & Upload FTP..
+02:45:57 Delay 1.0 detik..
+02:45:58 Eksekusi Download & Upload FTP..
+02:45:59 Delay 1.0 detik..
+02:46:00 Eksekusi Download & Upload FTP..
+02:46:01 Delay 1.0 detik..
+02:46:02 Eksekusi Download & Upload FTP..
+02:46:03 Delay 1.0 detik..
+02:46:04 Eksekusi Download & Upload FTP..
+02:46:05 Delay 1.0 detik..
+02:46:06 Eksekusi Download & Upload FTP..
+02:46:06 Delay 1.0 detik..
+02:46:07 Eksekusi Download & Upload FTP..
+02:46:09 Delay 1.0 detik..
+02:46:10 Eksekusi Download & Upload FTP..
+02:46:11 Delay 1.0 detik..
+02:46:12 Eksekusi Download & Upload FTP..
+02:46:13 Delay 1.0 detik..
+02:46:14 Eksekusi Download & Upload FTP..
+02:46:15 Delay 1.0 detik..
+02:46:16 Eksekusi Download & Upload FTP..
+02:46:16 Delay 1.0 detik..
+02:46:17 Eksekusi Download & Upload FTP..
+02:46:18 Delay 1.0 detik..
+02:46:19 Eksekusi Download & Upload FTP..
+02:46:20 Delay 1.0 detik..
+02:46:21 Eksekusi Download & Upload FTP..
+02:46:22 Delay 1.0 detik..
+02:46:23 Eksekusi Download & Upload FTP..
+02:46:24 Delay 1.0 detik..
+02:46:25 Eksekusi Download & Upload FTP..
+02:46:26 Delay 1.0 detik..
+02:46:27 Eksekusi Download & Upload FTP..
+02:46:27 Delay 1.0 detik..
+02:46:28 Eksekusi Download & Upload FTP..
+02:46:29 Delay 1.0 detik..
+02:46:30 Eksekusi Download & Upload FTP..
+02:46:31 Delay 1.0 detik..
+02:46:32 Eksekusi Download & Upload FTP..
+02:46:33 Delay 1.0 detik..
+02:46:34 Eksekusi Download & Upload FTP..
+02:46:34 Downloading File 7.txt from FTP Server --> 165.22.255.10/input/7.txt
+02:46:35 Success File downloaded into api/txt/input/7.txt
+02:46:35 Deleting File 7.txt from FTP Server --> 165.22.255.10/input/7.txt
+02:46:35 Success File deleted from FTP Server --> 165.22.255.10/input/7.txt
+02:46:35 Delay 1.0 detik..
+02:46:36 Eksekusi Download & Upload FTP..
+02:46:37 Delay 1.0 detik..
+02:46:38 Eksekusi Download & Upload FTP..
+02:46:39 Delay 1.0 detik..
+02:46:40 Eksekusi Download & Upload FTP..
+02:46:41 Delay 1.0 detik..
+02:46:42 Eksekusi Download & Upload FTP..
+02:46:42 Delay 1.0 detik..
+02:46:43 Eksekusi Download & Upload FTP..
+02:46:44 Delay 1.0 detik..
+02:46:45 Eksekusi Download & Upload FTP..
+02:46:46 Delay 1.0 detik..
+02:46:47 Eksekusi Download & Upload FTP..
+02:46:48 Delay 1.0 detik..
+02:46:49 Eksekusi Download & Upload FTP..
+02:46:50 Delay 1.0 detik..
+02:46:51 Eksekusi Download & Upload FTP..
+02:46:51 Delay 1.0 detik..
+02:46:52 Eksekusi Download & Upload FTP..
+02:46:53 Delay 1.0 detik..
+02:46:54 Eksekusi Download & Upload FTP..
+02:46:55 Delay 1.0 detik..
+02:46:56 Eksekusi Download & Upload FTP..
+02:46:57 Delay 1.0 detik..
+02:46:58 Eksekusi Download & Upload FTP..
+02:46:59 Delay 1.0 detik..
+02:47:00 Eksekusi Download & Upload FTP..
+02:47:01 Delay 1.0 detik..
+02:47:02 Eksekusi Download & Upload FTP..
+02:47:02 Delay 1.0 detik..
+02:47:04 Eksekusi Download & Upload FTP..
+02:47:04 Delay 1.0 detik..
+02:47:05 Eksekusi Download & Upload FTP..
+02:47:06 Delay 1.0 detik..
+02:47:07 Eksekusi Download & Upload FTP..
+02:47:08 Delay 1.0 detik..
+02:47:09 Eksekusi Download & Upload FTP..
+02:47:10 Delay 1.0 detik..
+02:47:11 Eksekusi Download & Upload FTP..
+02:47:12 Delay 1.0 detik..
+02:47:13 Eksekusi Download & Upload FTP..
+02:47:14 Delay 1.0 detik..
+02:47:15 Eksekusi Download & Upload FTP..
+02:47:15 Delay 1.0 detik..
+02:47:16 Eksekusi Download & Upload FTP..
+02:47:17 Delay 1.0 detik..
+02:47:18 Eksekusi Download & Upload FTP..
+02:47:19 Delay 1.0 detik..
+02:47:20 Eksekusi Download & Upload FTP..
+02:47:21 Delay 1.0 detik..
+02:47:22 Eksekusi Download & Upload FTP..
+02:47:23 Delay 1.0 detik..
+02:47:24 Eksekusi Download & Upload FTP..
+02:47:25 Delay 1.0 detik..
+02:47:26 Eksekusi Download & Upload FTP..
+02:47:27 Delay 1.0 detik..
+02:47:28 Eksekusi Download & Upload FTP..
+02:47:28 Delay 1.0 detik..
+02:47:29 Eksekusi Download & Upload FTP..
+02:47:30 Delay 1.0 detik..
+02:47:31 Eksekusi Download & Upload FTP..
+02:47:32 Delay 1.0 detik..
+02:47:33 Eksekusi Download & Upload FTP..
+02:47:34 Delay 1.0 detik..
+02:47:35 Eksekusi Download & Upload FTP..
+02:47:36 Delay 1.0 detik..
+02:47:37 Eksekusi Download & Upload FTP..
+02:47:38 Delay 1.0 detik..
+02:47:39 Eksekusi Download & Upload FTP..
+02:47:40 Delay 1.0 detik..
+02:47:41 Eksekusi Download & Upload FTP..
+02:47:42 Delay 1.0 detik..
+02:47:43 Eksekusi Download & Upload FTP..
+02:47:43 Delay 1.0 detik..
+02:47:44 Eksekusi Download & Upload FTP..
+02:47:45 Delay 1.0 detik..
+02:47:46 Eksekusi Download & Upload FTP..
+02:47:47 Delay 1.0 detik..
+02:47:48 Eksekusi Download & Upload FTP..
+02:47:49 Delay 1.0 detik..
+02:47:50 Eksekusi Download & Upload FTP..
+02:47:51 Delay 1.0 detik..
+02:47:52 Eksekusi Download & Upload FTP..
+02:47:53 Delay 1.0 detik..
+02:47:54 Eksekusi Download & Upload FTP..
+02:47:54 Delay 1.0 detik..
+02:47:55 Eksekusi Download & Upload FTP..
+02:47:56 Delay 1.0 detik..
+02:47:57 Eksekusi Download & Upload FTP..
+02:47:58 Delay 1.0 detik..
+02:47:59 Eksekusi Download & Upload FTP..
+02:48:00 Delay 1.0 detik..
+02:48:01 Eksekusi Download & Upload FTP..
+02:48:02 Delay 1.0 detik..
+02:48:03 Eksekusi Download & Upload FTP..
+02:48:04 Delay 1.0 detik..
+02:48:05 Eksekusi Download & Upload FTP..
+02:48:05 Delay 1.0 detik..
+02:48:06 Eksekusi Download & Upload FTP..
+02:48:07 Delay 1.0 detik..
+02:48:08 Eksekusi Download & Upload FTP..
+02:48:09 Delay 1.0 detik..
+02:48:10 Eksekusi Download & Upload FTP..
+02:48:11 Delay 1.0 detik..
+02:48:12 Eksekusi Download & Upload FTP..
+02:48:13 Delay 1.0 detik..
+02:48:14 Eksekusi Download & Upload FTP..
+02:48:15 Delay 1.0 detik..
+02:48:16 Eksekusi Download & Upload FTP..
+02:48:17 Delay 1.0 detik..
+02:48:18 Eksekusi Download & Upload FTP..
+02:48:18 Delay 1.0 detik..
+02:48:19 Eksekusi Download & Upload FTP..
+02:48:20 Delay 1.0 detik..
+02:48:21 Eksekusi Download & Upload FTP..
+02:48:22 Delay 1.0 detik..
+02:48:23 Eksekusi Download & Upload FTP..
+02:48:24 Delay 1.0 detik..
+02:48:25 Eksekusi Download & Upload FTP..
+02:48:26 Delay 1.0 detik..
+02:48:27 Eksekusi Download & Upload FTP..
+02:48:28 Delay 1.0 detik..
+02:48:29 Eksekusi Download & Upload FTP..
+02:48:30 Delay 1.0 detik..
+02:48:31 Eksekusi Download & Upload FTP..
+02:48:32 Delay 1.0 detik..
+02:48:33 Eksekusi Download & Upload FTP..
+02:48:33 Delay 1.0 detik..
+02:48:34 Eksekusi Download & Upload FTP..
+02:48:35 Delay 1.0 detik..
+02:48:36 Eksekusi Download & Upload FTP..
+02:48:37 Delay 1.0 detik..
+02:48:38 Eksekusi Download & Upload FTP..
+02:48:39 Delay 1.0 detik..
+02:48:40 Eksekusi Download & Upload FTP..
+02:48:41 Delay 1.0 detik..
+02:48:42 Eksekusi Download & Upload FTP..
+02:48:43 Delay 1.0 detik..
+02:48:44 Eksekusi Download & Upload FTP..
+02:48:45 Delay 1.0 detik..
+02:48:46 Eksekusi Download & Upload FTP..
+02:48:46 Delay 1.0 detik..
+02:48:47 Eksekusi Download & Upload FTP..
+02:48:48 Delay 1.0 detik..
+02:48:49 Eksekusi Download & Upload FTP..
+02:48:50 Delay 1.0 detik..
+02:48:51 Eksekusi Download & Upload FTP..
+02:48:52 Delay 1.0 detik..
+02:48:53 Eksekusi Download & Upload FTP..
+02:48:54 Uploading File 7.TXT from lokal Server --> api/txt/output/7.TXT
+02:48:54 Success File uploaded into FTP Server --> 165.22.255.10/output/7.TXT
+02:48:54 Deleting File 7.TXT from local DIR --> api/txt/output/7.TXT
+02:48:54 Success File deleted from local DIR --> api/txt/output/7.TXT
+02:48:54 Delay 1.0 detik..
+02:48:55 Eksekusi Download & Upload FTP..
+02:48:56 Delay 1.0 detik..
+02:48:57 Eksekusi Download & Upload FTP..
+02:48:58 Delay 1.0 detik..
+02:48:59 Eksekusi Download & Upload FTP..
+02:49:00 Delay 1.0 detik..
+02:49:01 Eksekusi Download & Upload FTP..
+02:49:01 Delay 1.0 detik..
+02:49:02 Eksekusi Download & Upload FTP..
+02:49:03 Delay 1.0 detik..
+02:49:04 Eksekusi Download & Upload FTP..
+02:49:05 Delay 1.0 detik..
+02:49:06 Eksekusi Download & Upload FTP..
+02:49:07 Delay 1.0 detik..
+02:49:08 Eksekusi Download & Upload FTP..
+02:49:09 Delay 1.0 detik..
+02:49:10 Eksekusi Download & Upload FTP..
+02:49:11 Delay 1.0 detik..
+02:49:12 Eksekusi Download & Upload FTP..
+02:49:12 Delay 1.0 detik..
+02:49:13 Eksekusi Download & Upload FTP..
+02:49:15 Delay 1.0 detik..
+02:49:16 Eksekusi Download & Upload FTP..
+02:49:17 Delay 1.0 detik..
+02:49:18 Eksekusi Download & Upload FTP..
+02:49:19 Delay 1.0 detik..
+02:49:20 Eksekusi Download & Upload FTP..
+02:49:21 Delay 1.0 detik..
+02:49:22 Eksekusi Download & Upload FTP..
+02:49:23 Delay 1.0 detik..
+02:49:24 Eksekusi Download & Upload FTP..
+02:49:25 Delay 1.0 detik..
+02:49:26 Eksekusi Download & Upload FTP..
+02:49:26 Delay 1.0 detik..
+02:49:27 Eksekusi Download & Upload FTP..
+02:49:28 Delay 1.0 detik..
+02:49:29 Eksekusi Download & Upload FTP..
+02:49:30 Delay 1.0 detik..
+02:49:31 Eksekusi Download & Upload FTP..
+02:49:32 Delay 1.0 detik..
+02:49:33 Eksekusi Download & Upload FTP..
+02:49:34 Delay 1.0 detik..
+02:49:35 Eksekusi Download & Upload FTP..
+02:49:36 Delay 1.0 detik..
+02:49:37 Eksekusi Download & Upload FTP..
+02:49:38 Delay 1.0 detik..
+02:49:39 Eksekusi Download & Upload FTP..
+02:49:40 Delay 1.0 detik..
+02:49:41 Eksekusi Download & Upload FTP..
+02:49:41 Delay 1.0 detik..
+02:49:42 Eksekusi Download & Upload FTP..
+02:49:43 Delay 1.0 detik..
+02:49:44 Eksekusi Download & Upload FTP..
+02:49:45 Delay 1.0 detik..
+02:49:46 Eksekusi Download & Upload FTP..
+02:49:47 Delay 1.0 detik..
+02:49:48 Eksekusi Download & Upload FTP..
+02:49:49 Delay 1.0 detik..
+02:49:50 Eksekusi Download & Upload FTP..
+02:49:51 Delay 1.0 detik..
+02:49:52 Eksekusi Download & Upload FTP..
+02:49:52 Delay 1.0 detik..
+02:49:53 Eksekusi Download & Upload FTP..
+02:49:54 Delay 1.0 detik..
+02:49:55 Eksekusi Download & Upload FTP..
+02:49:56 Downloading File 8.txt from FTP Server --> 165.22.255.10/input/8.txt
+02:49:56 Success File downloaded into api/txt/input/8.txt
+02:49:56 Deleting File 8.txt from FTP Server --> 165.22.255.10/input/8.txt
+02:49:56 Success File deleted from FTP Server --> 165.22.255.10/input/8.txt
+02:49:56 Delay 1.0 detik..
+02:49:57 Eksekusi Download & Upload FTP..
+02:49:58 Delay 1.0 detik..
+02:49:59 Eksekusi Download & Upload FTP..
+02:50:00 Uploading File 8.TXT from lokal Server --> api/txt/output/8.TXT
+02:50:00 Success File uploaded into FTP Server --> 165.22.255.10/output/8.TXT
+02:50:00 Deleting File 8.TXT from local DIR --> api/txt/output/8.TXT
+02:50:00 Success File deleted from local DIR --> api/txt/output/8.TXT
+02:50:00 Delay 1.0 detik..
+02:50:01 Eksekusi Download & Upload FTP..
+02:50:02 Delay 1.0 detik..
+02:50:03 Eksekusi Download & Upload FTP..
+02:50:04 Delay 1.0 detik..
+02:50:05 Eksekusi Download & Upload FTP..
+02:50:06 Delay 1.0 detik..
+02:50:07 Eksekusi Download & Upload FTP..
+02:50:08 Delay 1.0 detik..
+02:50:09 Eksekusi Download & Upload FTP..
+02:50:09 Delay 1.0 detik..
+02:50:10 Eksekusi Download & Upload FTP..
+02:50:11 Delay 1.0 detik..
+02:50:12 Eksekusi Download & Upload FTP..
+02:50:13 Delay 1.0 detik..
+02:50:14 Eksekusi Download & Upload FTP..
+02:50:15 Delay 1.0 detik..
+02:50:16 Eksekusi Download & Upload FTP..
+02:50:17 Delay 1.0 detik..
+02:50:18 Eksekusi Download & Upload FTP..
+02:50:19 Delay 1.0 detik..
+02:50:20 Eksekusi Download & Upload FTP..
+02:50:21 Delay 1.0 detik..
+02:50:22 Eksekusi Download & Upload FTP..
+02:50:22 Delay 1.0 detik..
+02:50:23 Eksekusi Download & Upload FTP..
+02:50:25 Delay 1.0 detik..
+02:50:26 Eksekusi Download & Upload FTP..
+02:50:26 Delay 1.0 detik..
+02:50:27 Eksekusi Download & Upload FTP..
+02:50:28 Delay 1.0 detik..
+02:50:29 Eksekusi Download & Upload FTP..
+02:50:30 Delay 1.0 detik..
+02:50:31 Eksekusi Download & Upload FTP..
+02:50:32 Delay 1.0 detik..
+02:50:33 Eksekusi Download & Upload FTP..
+02:50:34 Delay 1.0 detik..
+02:50:35 Eksekusi Download & Upload FTP..
+02:50:36 Delay 1.0 detik..
+02:50:37 Eksekusi Download & Upload FTP..
+02:50:38 Delay 1.0 detik..
+02:50:39 Eksekusi Download & Upload FTP..
+02:50:40 Delay 1.0 detik..
+02:50:41 Eksekusi Download & Upload FTP..
+02:50:42 Delay 1.0 detik..
+02:50:43 Eksekusi Download & Upload FTP..
+02:50:43 Delay 1.0 detik..
+02:50:44 Eksekusi Download & Upload FTP..
+02:50:45 Delay 1.0 detik..
+02:50:46 Eksekusi Download & Upload FTP..
+02:50:48 Delay 1.0 detik..
+02:50:49 Eksekusi Download & Upload FTP..
+02:50:49 Delay 1.0 detik..
+02:50:50 Eksekusi Download & Upload FTP..
+02:50:51 Delay 1.0 detik..
+02:50:52 Eksekusi Download & Upload FTP..
+02:50:53 Delay 1.0 detik..
+02:50:54 Eksekusi Download & Upload FTP..
+02:50:55 Delay 1.0 detik..
+02:50:56 Eksekusi Download & Upload FTP..
+02:50:57 Delay 1.0 detik..
+02:50:58 Eksekusi Download & Upload FTP..
+02:50:59 Delay 1.0 detik..
+02:51:00 Eksekusi Download & Upload FTP..
+02:51:00 Downloading File 9.txt from FTP Server --> 165.22.255.10/input/9.txt
+02:51:00 Success File downloaded into api/txt/input/9.txt
+02:51:00 Deleting File 9.txt from FTP Server --> 165.22.255.10/input/9.txt
+02:51:01 Success File deleted from FTP Server --> 165.22.255.10/input/9.txt
+02:51:01 Uploading File 9.TXT from lokal Server --> api/txt/output/9.TXT
+02:51:01 Success File uploaded into FTP Server --> 165.22.255.10/output/9.TXT
+02:51:01 Deleting File 9.TXT from local DIR --> api/txt/output/9.TXT
+02:51:01 Success File deleted from local DIR --> api/txt/output/9.TXT
+02:51:01 Delay 1.0 detik..
+02:51:02 Eksekusi Download & Upload FTP..
+02:51:03 Delay 1.0 detik..
+02:51:04 Eksekusi Download & Upload FTP..
+02:51:05 Delay 1.0 detik..
+02:51:06 Eksekusi Download & Upload FTP..
+02:51:07 Delay 1.0 detik..
+02:51:08 Eksekusi Download & Upload FTP..
+02:51:09 Delay 1.0 detik..
+02:51:10 Eksekusi Download & Upload FTP..
+02:51:10 Delay 1.0 detik..
+02:51:11 Eksekusi Download & Upload FTP..
+02:51:12 Delay 1.0 detik..
+02:51:13 Eksekusi Download & Upload FTP..
+02:51:14 Delay 1.0 detik..
+02:51:15 Eksekusi Download & Upload FTP..
+02:51:16 Delay 1.0 detik..
+02:51:17 Eksekusi Download & Upload FTP..
+02:51:18 Delay 1.0 detik..
+02:51:19 Eksekusi Download & Upload FTP..
+02:51:20 Delay 1.0 detik..
+02:51:21 Eksekusi Download & Upload FTP..
+02:51:21 Delay 1.0 detik..
+02:51:22 Eksekusi Download & Upload FTP..
+02:51:23 Delay 1.0 detik..
+02:51:24 Eksekusi Download & Upload FTP..
+02:51:25 Delay 1.0 detik..
+02:51:26 Eksekusi Download & Upload FTP..
+02:51:27 Delay 1.0 detik..
+02:51:28 Eksekusi Download & Upload FTP..
+02:51:29 Delay 1.0 detik..
+02:51:30 Eksekusi Download & Upload FTP..
+02:51:31 Delay 1.0 detik..
+02:51:32 Eksekusi Download & Upload FTP..
+02:51:32 Delay 1.0 detik..
+02:51:33 Eksekusi Download & Upload FTP..
+02:51:34 Delay 1.0 detik..
+02:51:35 Eksekusi Download & Upload FTP..
+02:51:36 Delay 1.0 detik..
+02:51:37 Eksekusi Download & Upload FTP..
+02:51:38 Delay 1.0 detik..
+02:51:39 Eksekusi Download & Upload FTP..
+02:51:40 Delay 1.0 detik..
+02:51:41 Eksekusi Download & Upload FTP..
+02:51:42 Delay 1.0 detik..
+02:51:43 Eksekusi Download & Upload FTP..
+02:51:43 Delay 1.0 detik..
+02:51:44 Eksekusi Download & Upload FTP..
+02:51:45 Delay 1.0 detik..
+02:51:46 Eksekusi Download & Upload FTP..
+02:51:47 Delay 1.0 detik..
+02:51:48 Eksekusi Download & Upload FTP..
+02:51:49 Delay 1.0 detik..
+02:51:50 Eksekusi Download & Upload FTP..
+02:51:51 Delay 1.0 detik..
+02:51:52 Eksekusi Download & Upload FTP..
+02:51:53 Delay 1.0 detik..
+02:51:54 Eksekusi Download & Upload FTP..
+02:51:54 Delay 1.0 detik..
+02:51:55 Eksekusi Download & Upload FTP..
+02:51:57 Delay 1.0 detik..
+02:51:58 Eksekusi Download & Upload FTP..
+02:51:59 Delay 1.0 detik..
+02:52:00 Eksekusi Download & Upload FTP..
+02:52:00 Delay 1.0 detik..
+02:52:01 Eksekusi Download & Upload FTP..
+02:52:02 Delay 1.0 detik..
+02:52:03 Eksekusi Download & Upload FTP..
+02:52:04 Delay 1.0 detik..
+02:52:05 Eksekusi Download & Upload FTP..
+02:52:06 Delay 1.0 detik..
+02:52:07 Eksekusi Download & Upload FTP..
+02:52:08 Delay 1.0 detik..
+02:52:09 Eksekusi Download & Upload FTP..
+02:52:10 Delay 1.0 detik..
+02:52:11 Eksekusi Download & Upload FTP..
+02:52:12 Delay 1.0 detik..
+02:52:13 Eksekusi Download & Upload FTP..
+02:52:14 Delay 1.0 detik..
+02:52:15 Eksekusi Download & Upload FTP..
+02:52:16 Delay 1.0 detik..
+02:52:17 Eksekusi Download & Upload FTP..
+02:52:17 Delay 1.0 detik..
+02:52:18 Eksekusi Download & Upload FTP..
+02:52:19 Delay 1.0 detik..
+02:52:20 Eksekusi Download & Upload FTP..
+02:52:21 Delay 1.0 detik..
+02:52:22 Eksekusi Download & Upload FTP..
+02:52:23 Delay 1.0 detik..
+02:52:24 Eksekusi Download & Upload FTP..
+02:52:25 Delay 1.0 detik..
+02:52:26 Eksekusi Download & Upload FTP..
+02:52:28 Delay 1.0 detik..
+02:52:29 Eksekusi Download & Upload FTP..
+02:52:31 Delay 1.0 detik..
+02:52:32 Eksekusi Download & Upload FTP..
+02:52:32 Delay 1.0 detik..
+02:52:33 Eksekusi Download & Upload FTP..
+02:52:34 Delay 1.0 detik..
+02:52:35 Eksekusi Download & Upload FTP..
+02:52:36 Delay 1.0 detik..
+02:52:37 Eksekusi Download & Upload FTP..
+02:52:38 Delay 1.0 detik..
+02:52:39 Eksekusi Download & Upload FTP..
+02:52:40 Delay 1.0 detik..
+02:52:41 Eksekusi Download & Upload FTP..
+02:52:42 Delay 1.0 detik..
+02:52:43 Eksekusi Download & Upload FTP..
+02:52:44 Delay 1.0 detik..
+02:52:45 Eksekusi Download & Upload FTP..
+02:52:45 Delay 1.0 detik..
+02:52:46 Eksekusi Download & Upload FTP..
+02:52:47 Delay 1.0 detik..
+02:52:48 Eksekusi Download & Upload FTP..
+02:52:49 Delay 1.0 detik..
+02:52:50 Eksekusi Download & Upload FTP..
+02:52:51 Delay 1.0 detik..
+02:52:52 Eksekusi Download & Upload FTP..
+02:52:53 Delay 1.0 detik..
+02:52:54 Eksekusi Download & Upload FTP..
+02:52:55 Delay 1.0 detik..
+02:52:56 Eksekusi Download & Upload FTP..
+02:52:57 Delay 1.0 detik..
+02:52:58 Eksekusi Download & Upload FTP..
+02:52:58 Delay 1.0 detik..
+02:52:59 Eksekusi Download & Upload FTP..
+02:53:00 Delay 1.0 detik..
+02:53:01 Eksekusi Download & Upload FTP..
+02:53:02 Delay 1.0 detik..
+02:53:03 Eksekusi Download & Upload FTP..
+02:53:04 Delay 1.0 detik..
+02:53:05 Eksekusi Download & Upload FTP..
+02:53:06 Delay 1.0 detik..
+02:53:07 Eksekusi Download & Upload FTP..
+02:53:08 Delay 1.0 detik..
+02:53:09 Eksekusi Download & Upload FTP..
+02:53:09 Delay 1.0 detik..
+02:53:10 Eksekusi Download & Upload FTP..
+02:53:11 Delay 1.0 detik..
+02:53:12 Eksekusi Download & Upload FTP..
+02:53:13 Delay 1.0 detik..
+02:53:14 Eksekusi Download & Upload FTP..
+02:53:15 Delay 1.0 detik..
+02:53:16 Eksekusi Download & Upload FTP..
+02:53:16 Delay 1.0 detik..
+02:53:17 Eksekusi Download & Upload FTP..
+02:53:18 Delay 1.0 detik..
+02:53:19 Eksekusi Download & Upload FTP..
+02:53:20 Delay 1.0 detik..
+02:53:21 Eksekusi Download & Upload FTP..
+02:53:22 Delay 1.0 detik..
+02:53:23 Eksekusi Download & Upload FTP..
+02:53:24 Delay 1.0 detik..
+02:53:25 Eksekusi Download & Upload FTP..
+02:53:26 Delay 1.0 detik..
+02:53:27 Eksekusi Download & Upload FTP..
+02:53:27 Delay 1.0 detik..
+02:53:28 Eksekusi Download & Upload FTP..
+02:53:29 Delay 1.0 detik..
+02:53:30 Eksekusi Download & Upload FTP..
+02:53:31 Delay 1.0 detik..
+02:53:32 Eksekusi Download & Upload FTP..
+02:53:33 Delay 1.0 detik..
+02:53:34 Eksekusi Download & Upload FTP..
+02:53:35 Delay 1.0 detik..
+02:53:36 Eksekusi Download & Upload FTP..
+02:53:37 Delay 1.0 detik..
+02:53:38 Eksekusi Download & Upload FTP..
+02:53:38 Delay 1.0 detik..
+02:53:39 Eksekusi Download & Upload FTP..
+02:53:40 Delay 1.0 detik..
+02:53:41 Eksekusi Download & Upload FTP..
+02:53:42 Delay 1.0 detik..
+02:53:43 Eksekusi Download & Upload FTP..
+02:53:44 Delay 1.0 detik..
+02:53:45 Eksekusi Download & Upload FTP..
+02:53:46 Delay 1.0 detik..
+02:53:47 Eksekusi Download & Upload FTP..
+02:53:48 Delay 1.0 detik..
+02:53:49 Eksekusi Download & Upload FTP..
+02:53:49 Delay 1.0 detik..
+02:53:50 Eksekusi Download & Upload FTP..
+02:53:51 Delay 1.0 detik..
+02:53:52 Eksekusi Download & Upload FTP..
+02:53:53 Delay 1.0 detik..
+02:53:54 Eksekusi Download & Upload FTP..
+02:53:55 Delay 1.0 detik..
+02:53:56 Eksekusi Download & Upload FTP..
+02:53:57 Delay 1.0 detik..
+02:53:58 Eksekusi Download & Upload FTP..
+02:53:59 Delay 1.0 detik..
+02:54:00 Eksekusi Download & Upload FTP..
+02:54:01 Delay 1.0 detik..
+02:54:02 Eksekusi Download & Upload FTP..
+02:54:03 Delay 1.0 detik..
+02:54:04 Eksekusi Download & Upload FTP..
+02:54:05 Delay 1.0 detik..
+02:54:06 Eksekusi Download & Upload FTP..
+02:54:07 Delay 1.0 detik..
+02:54:08 Eksekusi Download & Upload FTP..
+02:54:09 Delay 1.0 detik..
+02:54:10 Eksekusi Download & Upload FTP..
+02:54:10 Delay 1.0 detik..
+02:54:11 Eksekusi Download & Upload FTP..
+02:54:13 Delay 1.0 detik..
+02:54:14 Eksekusi Download & Upload FTP..
+02:54:15 Delay 1.0 detik..
+02:54:16 Eksekusi Download & Upload FTP..
+02:54:17 Delay 1.0 detik..
+02:54:18 Eksekusi Download & Upload FTP..
+02:54:18 Delay 1.0 detik..
+02:54:19 Eksekusi Download & Upload FTP..
+02:54:20 Delay 1.0 detik..
+02:54:21 Eksekusi Download & Upload FTP..
+02:54:22 Delay 1.0 detik..
+02:54:23 Eksekusi Download & Upload FTP..
+02:54:24 Delay 1.0 detik..
+02:54:25 Eksekusi Download & Upload FTP..
+02:54:26 Delay 1.0 detik..
+02:54:27 Eksekusi Download & Upload FTP..
+02:54:28 Delay 1.0 detik..
+02:54:29 Eksekusi Download & Upload FTP..
+02:54:30 Delay 1.0 detik..
+02:54:31 Eksekusi Download & Upload FTP..
+02:54:31 Delay 1.0 detik..
+02:54:32 Eksekusi Download & Upload FTP..
+02:54:33 Delay 1.0 detik..
+02:54:34 Eksekusi Download & Upload FTP..
+02:54:35 Delay 1.0 detik..
+02:54:36 Eksekusi Download & Upload FTP..
+02:54:37 Delay 1.0 detik..
+02:54:38 Eksekusi Download & Upload FTP..
+02:54:39 Delay 1.0 detik..
+02:54:40 Eksekusi Download & Upload FTP..
+02:54:41 Delay 1.0 detik..
+02:54:42 Eksekusi Download & Upload FTP..
+02:54:42 Delay 1.0 detik..
+02:54:43 Eksekusi Download & Upload FTP..
+02:54:44 Delay 1.0 detik..
+02:54:45 Eksekusi Download & Upload FTP..
+02:54:46 Delay 1.0 detik..
+02:54:47 Eksekusi Download & Upload FTP..
+02:54:48 Delay 1.0 detik..
+02:54:49 Eksekusi Download & Upload FTP..
+02:54:50 Delay 1.0 detik..
+02:54:51 Eksekusi Download & Upload FTP..
+02:54:52 Delay 1.0 detik..
+02:54:53 Eksekusi Download & Upload FTP..
+02:54:54 Delay 1.0 detik..
+02:54:55 Eksekusi Download & Upload FTP..
+02:54:55 Delay 1.0 detik..
+02:54:56 Eksekusi Download & Upload FTP..
+02:54:57 Delay 1.0 detik..
+02:54:58 Eksekusi Download & Upload FTP..
+02:54:59 Delay 1.0 detik..
+02:55:00 Eksekusi Download & Upload FTP..
+02:55:01 Delay 1.0 detik..
+02:55:02 Eksekusi Download & Upload FTP..
+02:55:03 Delay 1.0 detik..
+02:55:04 Eksekusi Download & Upload FTP..
+02:55:05 Delay 1.0 detik..
+02:55:06 Eksekusi Download & Upload FTP..
+02:55:07 Delay 1.0 detik..
+02:55:08 Eksekusi Download & Upload FTP..
+02:55:08 Delay 1.0 detik..
+02:55:09 Eksekusi Download & Upload FTP..
+02:55:10 Delay 1.0 detik..
+02:55:11 Eksekusi Download & Upload FTP..
+02:55:12 Delay 1.0 detik..
+02:55:13 Eksekusi Download & Upload FTP..
+02:55:14 Delay 1.0 detik..
+02:55:15 Eksekusi Download & Upload FTP..
+02:55:16 Delay 1.0 detik..
+02:55:17 Eksekusi Download & Upload FTP..
+02:55:17 Delay 1.0 detik..
+02:55:18 Eksekusi Download & Upload FTP..
+02:55:19 Delay 1.0 detik..
+02:55:20 Eksekusi Download & Upload FTP..
+02:55:21 Delay 1.0 detik..
+02:55:22 Eksekusi Download & Upload FTP..
+02:55:23 Delay 1.0 detik..
+02:55:24 Eksekusi Download & Upload FTP..
+02:55:25 Delay 1.0 detik..
+02:55:26 Eksekusi Download & Upload FTP..
+02:55:27 Delay 1.0 detik..
+02:55:28 Eksekusi Download & Upload FTP..
+02:55:28 Delay 1.0 detik..
+02:55:30 Eksekusi Download & Upload FTP..
+02:55:30 Delay 1.0 detik..
+02:55:31 Eksekusi Download & Upload FTP..
+02:55:32 Delay 1.0 detik..
+02:55:33 Eksekusi Download & Upload FTP..
+02:55:34 Delay 1.0 detik..
+02:55:35 Eksekusi Download & Upload FTP..
+02:55:36 Delay 1.0 detik..
+02:55:37 Eksekusi Download & Upload FTP..
+02:55:38 Delay 1.0 detik..
+02:55:39 Eksekusi Download & Upload FTP..
+02:55:40 Delay 1.0 detik..
+02:55:41 Eksekusi Download & Upload FTP..
+02:55:41 Delay 1.0 detik..
+02:55:42 Eksekusi Download & Upload FTP..
+02:55:43 Delay 1.0 detik..
+02:55:44 Eksekusi Download & Upload FTP..
+02:55:45 Delay 1.0 detik..
+02:55:46 Eksekusi Download & Upload FTP..
+02:55:47 Delay 1.0 detik..
+02:55:48 Eksekusi Download & Upload FTP..
+02:55:49 Delay 1.0 detik..
+02:55:50 Eksekusi Download & Upload FTP..
+02:55:51 Delay 1.0 detik..
+02:55:52 Eksekusi Download & Upload FTP..
+02:55:53 Delay 1.0 detik..
+02:55:54 Eksekusi Download & Upload FTP..
+02:55:54 Delay 1.0 detik..
+02:55:55 Eksekusi Download & Upload FTP..
+02:55:56 Delay 1.0 detik..
+02:55:57 Eksekusi Download & Upload FTP..
+02:55:58 Delay 1.0 detik..
+02:55:59 Eksekusi Download & Upload FTP..
+02:56:00 Delay 1.0 detik..
+02:56:01 Eksekusi Download & Upload FTP..
+02:56:02 Delay 1.0 detik..
+02:56:03 Eksekusi Download & Upload FTP..
+02:56:04 Delay 1.0 detik..
+02:56:05 Eksekusi Download & Upload FTP..
+02:56:05 Delay 1.0 detik..
+02:56:06 Eksekusi Download & Upload FTP..
+02:56:07 Delay 1.0 detik..
+02:56:08 Eksekusi Download & Upload FTP..
+02:56:09 Delay 1.0 detik..
+02:56:10 Eksekusi Download & Upload FTP..
+02:56:11 Delay 1.0 detik..
+02:56:12 Eksekusi Download & Upload FTP..
+02:56:13 Delay 1.0 detik..
+02:56:14 Eksekusi Download & Upload FTP..
+02:56:15 Delay 1.0 detik..
+02:56:16 Eksekusi Download & Upload FTP..
+02:56:16 Delay 1.0 detik..
+02:56:17 Eksekusi Download & Upload FTP..
+02:56:18 Delay 1.0 detik..
+02:56:19 Eksekusi Download & Upload FTP..
+02:56:20 Delay 1.0 detik..
+02:56:21 Eksekusi Download & Upload FTP..
+02:56:22 Delay 1.0 detik..
+02:56:23 Eksekusi Download & Upload FTP..
+02:56:24 Delay 1.0 detik..
+02:56:25 Eksekusi Download & Upload FTP..
+02:56:26 Delay 1.0 detik..
+02:56:27 Eksekusi Download & Upload FTP..
+02:56:27 Delay 1.0 detik..
+02:56:28 Eksekusi Download & Upload FTP..
+02:56:29 Delay 1.0 detik..
+02:56:30 Eksekusi Download & Upload FTP..
+02:56:31 Delay 1.0 detik..
+02:56:32 Eksekusi Download & Upload FTP..
+02:56:33 Delay 1.0 detik..
+02:56:34 Eksekusi Download & Upload FTP..
+02:56:35 Delay 1.0 detik..
+02:56:36 Eksekusi Download & Upload FTP..
+02:56:37 Delay 1.0 detik..
+02:56:38 Eksekusi Download & Upload FTP..
+02:56:38 Delay 1.0 detik..
+02:56:39 Eksekusi Download & Upload FTP..
+02:56:40 Delay 1.0 detik..
+02:56:41 Eksekusi Download & Upload FTP..
+02:56:42 Delay 1.0 detik..
+02:56:43 Eksekusi Download & Upload FTP..
+02:56:44 Delay 1.0 detik..
+02:56:45 Eksekusi Download & Upload FTP..
+02:56:46 Delay 1.0 detik..
+02:56:47 Eksekusi Download & Upload FTP..
+02:56:48 Delay 1.0 detik..
+02:56:49 Eksekusi Download & Upload FTP..
+02:56:49 Delay 1.0 detik..
+02:56:50 Eksekusi Download & Upload FTP..
+02:56:51 Delay 1.0 detik..
+02:56:52 Eksekusi Download & Upload FTP..
+02:56:53 Delay 1.0 detik..
+02:56:54 Eksekusi Download & Upload FTP..
+02:56:55 Delay 1.0 detik..
+02:56:56 Eksekusi Download & Upload FTP..
+02:56:57 Delay 1.0 detik..
+02:56:58 Eksekusi Download & Upload FTP..
+02:56:59 Delay 1.0 detik..
+02:57:00 Eksekusi Download & Upload FTP..
+02:57:00 Delay 1.0 detik..
+02:57:01 Eksekusi Download & Upload FTP..
+02:57:02 Delay 1.0 detik..
+02:57:03 Eksekusi Download & Upload FTP..
+02:57:04 Delay 1.0 detik..
+02:57:05 Eksekusi Download & Upload FTP..
+02:57:06 Delay 1.0 detik..
+02:57:07 Eksekusi Download & Upload FTP..
+02:57:08 Delay 1.0 detik..
+02:57:09 Eksekusi Download & Upload FTP..
+02:57:10 Delay 1.0 detik..
+02:57:11 Eksekusi Download & Upload FTP..
+02:57:11 Delay 1.0 detik..
+02:57:12 Eksekusi Download & Upload FTP..
+02:57:13 Delay 1.0 detik..
+02:57:14 Eksekusi Download & Upload FTP..
+02:57:15 Delay 1.0 detik..
+02:57:16 Eksekusi Download & Upload FTP..
+02:57:17 Delay 1.0 detik..
+02:57:18 Eksekusi Download & Upload FTP..
+02:57:19 Delay 1.0 detik..
+02:57:20 Eksekusi Download & Upload FTP..
+02:57:20 Delay 1.0 detik..
+02:57:21 Eksekusi Download & Upload FTP..
+02:57:22 Delay 1.0 detik..
+02:57:23 Eksekusi Download & Upload FTP..
+02:57:24 Delay 1.0 detik..
+02:57:25 Eksekusi Download & Upload FTP..
+02:57:26 Delay 1.0 detik..
+02:57:27 Eksekusi Download & Upload FTP..
+02:57:28 Delay 1.0 detik..
+02:57:29 Eksekusi Download & Upload FTP..
+02:57:30 Delay 1.0 detik..
+02:57:31 Eksekusi Download & Upload FTP..
+02:57:32 Delay 1.0 detik..
+02:57:33 Eksekusi Download & Upload FTP..
+02:57:34 Delay 1.0 detik..
+02:57:35 Eksekusi Download & Upload FTP..
+02:57:35 Delay 1.0 detik..
+02:57:36 Eksekusi Download & Upload FTP..
+02:57:37 Delay 1.0 detik..
+02:57:38 Eksekusi Download & Upload FTP..
+02:57:39 Delay 1.0 detik..
+02:57:40 Eksekusi Download & Upload FTP..
+02:57:41 Delay 1.0 detik..
+02:57:42 Eksekusi Download & Upload FTP..
+02:57:43 Delay 1.0 detik..
+02:57:44 Eksekusi Download & Upload FTP..
+02:57:45 Delay 1.0 detik..
+02:57:46 Eksekusi Download & Upload FTP..
+02:57:47 Delay 1.0 detik..
+02:57:48 Eksekusi Download & Upload FTP..
+02:57:48 Delay 1.0 detik..
+02:57:49 Eksekusi Download & Upload FTP..
+02:57:50 Delay 1.0 detik..
+02:57:51 Eksekusi Download & Upload FTP..
+02:57:52 Delay 1.0 detik..
+02:57:53 Eksekusi Download & Upload FTP..
+02:57:54 Delay 1.0 detik..
+02:57:55 Eksekusi Download & Upload FTP..
+02:57:56 Delay 1.0 detik..
+02:57:57 Eksekusi Download & Upload FTP..
+02:57:57 Delay 1.0 detik..
+02:57:58 Eksekusi Download & Upload FTP..
+02:57:59 Delay 1.0 detik..
+02:58:00 Eksekusi Download & Upload FTP..
+02:58:01 Delay 1.0 detik..
+02:58:02 Eksekusi Download & Upload FTP..
+02:58:03 Delay 1.0 detik..
+02:58:04 Eksekusi Download & Upload FTP..
+02:58:05 Delay 1.0 detik..
+02:58:06 Eksekusi Download & Upload FTP..
+02:58:07 Delay 1.0 detik..
+02:58:08 Eksekusi Download & Upload FTP..
+02:58:08 Delay 1.0 detik..
+02:58:09 Eksekusi Download & Upload FTP..
+02:58:10 Delay 1.0 detik..
+02:58:11 Eksekusi Download & Upload FTP..
+02:58:12 Delay 1.0 detik..
+02:58:13 Eksekusi Download & Upload FTP..
+02:58:14 Delay 1.0 detik..
+02:58:15 Eksekusi Download & Upload FTP..
+02:58:16 Delay 1.0 detik..
+02:58:17 Eksekusi Download & Upload FTP..
+02:58:18 Delay 1.0 detik..
+02:58:19 Eksekusi Download & Upload FTP..
+02:58:20 Delay 1.0 detik..
+02:58:21 Eksekusi Download & Upload FTP..
+02:58:21 Delay 1.0 detik..
+02:58:22 Eksekusi Download & Upload FTP..
+02:58:23 Delay 1.0 detik..
+02:58:24 Eksekusi Download & Upload FTP..
+02:58:25 Delay 1.0 detik..
+02:58:26 Eksekusi Download & Upload FTP..
+02:58:27 Delay 1.0 detik..
+02:58:28 Eksekusi Download & Upload FTP..
+02:58:29 Delay 1.0 detik..
+02:58:30 Eksekusi Download & Upload FTP..
+02:58:31 Delay 1.0 detik..
+02:58:32 Eksekusi Download & Upload FTP..
+02:58:32 Delay 1.0 detik..
+02:58:33 Eksekusi Download & Upload FTP..
+02:58:34 Delay 1.0 detik..
+02:58:35 Eksekusi Download & Upload FTP..
+02:58:36 Delay 1.0 detik..
+02:58:37 Eksekusi Download & Upload FTP..
+02:58:38 Delay 1.0 detik..
+02:58:39 Eksekusi Download & Upload FTP..
+02:58:40 Delay 1.0 detik..
+02:58:41 Eksekusi Download & Upload FTP..
+02:58:42 Delay 1.0 detik..
+02:58:43 Eksekusi Download & Upload FTP..
+02:58:43 Delay 1.0 detik..
+02:58:44 Eksekusi Download & Upload FTP..
+02:58:45 Delay 1.0 detik..
+02:58:46 Eksekusi Download & Upload FTP..
+02:58:47 Delay 1.0 detik..
+02:58:48 Eksekusi Download & Upload FTP..
+02:58:49 Delay 1.0 detik..
